@@ -1,6 +1,11 @@
 /*
   Basic Structure and Frame Borders
 */
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
 body {
   background-color: $color__text;
 
@@ -177,9 +182,76 @@ Site structure
 
 
 /*
-  Site footer
+  Site Footer
 */
 .site-footer {
   background: $color__text;
   color: $color__background;
+  font-size: $font__size * .75;
+  padding: $spacing-unit * 2 0;
+
+  a {
+    text-decoration: none;
+    color: lighten($color__background, 30%);
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+
+  .wrapper {
+    @include row;
+
+    .site-title,
+    .contact-links,
+    .contact-address {
+      @include col(1,3);
+    }
+
+    .site-title {
+      height: 6rem;
+      background-image: url('images/logo-footer.png');
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: left top;
+      overflow: hidden;
+      text-indent: -99999rem;
+      color: transparent;
+      display: inline-block;
+
+      @include media-query($on-palm) {
+        background-position: center top;
+        margin-bottom: $spacing-unit;
+      }
+    }
+
+    .contact-links {
+      text-align: center;
+
+      svg {
+        height: 1.2rem;
+        width: auto;
+        vertical-align: middle;
+
+        path {
+          fill: lighten($color__background, 30%);
+        }
+      }
+
+      @include media-query($on-palm) {
+        line-height: 2;
+        margin-bottom: $spacing-unit;
+      }
+    }
+
+    .contact-address {
+      text-align: right;
+
+      @include media-query($on-palm) {
+        text-align: center;
+
+      }
+    }
+  }
 }
