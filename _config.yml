@@ -9,6 +9,11 @@ contact:
   facebook: besourofilmes
   vimeo: besourofilmes
 
+collections:
+  projects:
+    output: true
+    permalink: /projetos/:name
+
 # Build settings
 baseurl: ""
 url: "http://www.besourofilmes.com"
