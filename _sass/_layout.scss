@@ -1,7 +1,8 @@
+/*
+  Basic Structure and Frame Borders
+*/
 body {
   background-color: $color__text;
-  color: $color__text;
-  font: $font__weight #{$font__size}/#{$font__line-height} $font-family__main;
 
   &:before,
   &:after {
@@ -84,4 +85,101 @@ body {
     min-height: 100%;
     transform: translate(-50%, -50%);
   }
+}
+
+/*
+Site structure
+*/
+.site-container {
+  height: 100vh;
+  overflow: scroll;
+  display: flex;
+  flex-direction: column;
+
+  .site-header,
+  .site-content,
+  .site-footer {
+    flex: 1;
+  }
+
+  .site-content {
+    flex: 1 100%;
+    min-height: calc(100vh - 5.6rem);
+  }
+}
+
+.wrapper {
+  width: 100%;
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-left: auto;
+  margin-right: auto;
+
+  @include media-query($on-laptop) {
+    max-width: calc(#{$content-width} - #{$spacing-unit});
+  }
+
+  @include media-query($on-palm) {
+    max-width: calc(#{$content-width} - ($spacing-unit / 2));
+  }
+}
+
+/*
+    Site Header
+*/
+.site-header {
+  margin-top: $spacing-unit;
+
+  .site-title {
+    display: inline-block;
+    width: 20rem;
+    height: 3.6rem;
+    color: transparent;
+    text-indent: -9999rem;
+    overflow: hidden;
+    background-image: url('images/logo.png');
+    background-size: cover;
+    background-position: left top;
+    background-repeat: no-repeat;
+
+    @include media-query($on-palm) {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  .site-navigation {
+    float: right;
+
+    @include media-query($on-palm) {
+      float: none;
+      text-align: center;
+    }
+
+    ul {
+      li {
+        display: inline-block;
+        line-height: 3.6rem;
+        font-size: $font__size * .75;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+
+        &:not(:last-child) {
+          padding: 0 $spacing-unit / 2 0 0;
+        }
+
+        a {
+          color: $color__text;
+        }
+      }
+    }
+  }
+}
+
+
+/*
+  Site footer
+*/
+.site-footer {
+  background: $color__text;
+  color: $color__background;
 }
