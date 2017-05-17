@@ -3,6 +3,15 @@
   {% include head.html %}
 
   <body class="{{ page.slug | default: page.permalink }}">
+    {% if page.background %}
+    <div class="fullscreen-video">
+      <video loop muted autoplay controls="nocontrols" poster="{{ '/assets/images/poster-home.jpg' | relative_url }}">
+        <source src="{{ page.background | prepend: '/assets/videos/' | append: '.ogv' | relative_url }}" type="video/ogg" />
+        <source src="{{ page.background | prepend: '/assets/videos/' | append: '.webm' | relative_url }}" type="video/webm" />
+        <source src="{{ page.background | prepend: '/assets/videos/' | append: '.mp4' | relative_url }}" type="video/mp4" />
+      </video>
+    </div>
+    {% endif %}
 
     <div class="site-container">
       {% include header.html %}

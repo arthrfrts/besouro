@@ -1,0 +1,87 @@
+body {
+  background-color: $color__text;
+  color: $color__text;
+  font: $font__weight #{$font__size}/#{$font__line-height} $font-family__main;
+
+  &:before,
+  &:after {
+    background: inherit;
+    content: ' ';
+    display: block;
+    height: $spacing-unit / 2;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+
+    @include media-query($on-palm) {
+      height: $spacing-unit / 4;
+    }
+  }
+
+  &:before {
+    top: 0;
+  }
+
+  &:after {
+    bottom: 0;
+  }
+}
+
+.site-container {
+  background-color: none;
+  margin: $spacing-unit / 2;
+
+  &:before,
+  &:after {
+    background: $color__text;
+    content: ' ';
+    display: block;
+    width: $spacing-unit / 2;
+    top: 0;
+    position: fixed;
+    height: 100%;
+    z-index: 99;
+  }
+
+  &:before {
+    left: 0;
+  }
+
+  &:after {
+    right: 0;
+  }
+
+  @include media-query($on-palm) {
+    margin: $spacing-unit / 4;
+
+    &:before,
+    &:after {
+      width: $spacing-unit / 4;
+    }
+  }
+}
+
+/*
+    Video Background
+*/
+.fullscreen-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  z-index: -1;
+
+  video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+  }
+}

@@ -1,0 +1,25 @@
+---
+# Hello, Jekyll!
+---
+
+// Style variables.
+$font-family__main: 'Rubik', 'Helvetica Neue', Helvetica, sans-serif;
+$font-family__head: 'Prata', "Times New Roman", serif;
+$font__size:  1.6rem;
+$font__line-height: 1.7;
+$font__weight: 400;
+
+$color__text: #EBEBE3;
+$color__background: #222222;
+
+$content-width: 98rem;
+$on-palm: 60rem;
+$on-laptop: 80rem;
+
+$spacing-unit: 3rem;
+
+@import "reset",
+        "mixins",
+        "fonts",
+        "layout",
+        "elements";
