@@ -3,7 +3,6 @@
 */
 html {
   height: 100%;
-  overflow: hidden;
 }
 
 body {
@@ -96,8 +95,7 @@ body {
 Site structure
 */
 .site-container {
-  height: 100vh;
-  overflow: scroll;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
 
@@ -108,7 +106,6 @@ Site structure
   }
 
   .site-content {
-    flex: 1 100%;
     min-height: calc(100vh - 5.6rem);
   }
 }

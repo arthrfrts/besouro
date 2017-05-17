@@ -23,3 +23,40 @@ $spacing-unit: 3rem;
         "fonts",
         "layout",
         "elements";
+
+.projects-list {
+  text-align: center;
+  padding: $spacing-unit * 2 0;
+
+  li {
+    display: inline-block;
+    margin-bottom: $spacing-unit / 2;
+    padding: 0 $spacing-unit;
+    text-align: left;
+
+    .project-title {
+      display: block;
+      font-size: $font__size * 2;
+      line-height: 1.2;
+      font-family: $font-family__head;
+    }
+
+    .project-meta {
+      font-size: $font__size * .75;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: darken($color__text, 25%);
+    }
+
+    @include media-query($on-palm) {
+      display: block;
+      padding: 0;
+      text-align: center;
+      margin-bottom: $spacing-unit;
+
+      .project-title {
+        font-size: $font__size * 1.5;
+      }
+    }
+  }
+}
