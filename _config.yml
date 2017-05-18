@@ -17,6 +17,7 @@ collections:
 # Build settings
 baseurl: ""
 url: "http://www.besourofilmes.com"
+permalink: pretty
 markdown: kramdown
 gems:
   - jekyll-sitemap
