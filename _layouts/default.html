@@ -2,26 +2,15 @@
 <html lang="{{ site.lang }}">
   {% include head.html %}
 
-  <body class="{{ page.slug | default: page.permalink }}">
-    {% if page.background.video %}
-    <div class="fullscreen-video">
-      <video loop muted preload autoplay poster="{{ page.background.video | prepend: '/assets/posters/' | append: '.gif' | relative_url }}">
-        <source src="{{ page.background.video | prepend: '/assets/videos/' | append: '.ogv' | relative_url }}" type="video/ogg" />
-        <source src="{{ page.background.video | prepend: '/assets/videos/' | append: '.webm' | relative_url }}" type="video/webm" />
-        <source src="{{ page.background.video | prepend: '/assets/videos/' | append: '.mp4' | relative_url }}" type="video/mp4" />
-      </video>
-    </div>
-    {% endif %}
+  <body {% if page.slug %}class="{{ page.slug }}"{% endif %}>
 
-    <div class="site-container">
-      {% include header.html %}
+    {% include header.html %}
 
-      <main class="site-content wrapper" role="main">
-        {{ content }}
-      </main>
+    <main class="site-content wrapper" role="main">
+      {{ content }}
+    </main>
 
-      {% include footer.html %}
-    </div>
+    {% include footer.html %}
 
   </body>
 </html>

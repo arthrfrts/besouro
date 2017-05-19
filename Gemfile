@@ -5,6 +5,7 @@ gem "jekyll"
 
 group :jekyll_plugins do
    gem "jekyll-sitemap"
+   gem "jekyll-octicons"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

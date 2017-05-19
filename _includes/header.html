@@ -1,11 +1,18 @@
-<header class="site-header wrapper" role="banner">
-  <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
 
-  <nav class="site-navigation" role="navigation">
-    <ul role="menu" aria-label="Menu de navegação">
-      <li><a href="{{ '/portfolio/' | relative_url }}">Portfólio</a></li>
-      <li><a href="{{ '/projetos/' | relative_url }}">Projetos</a></li>
-      <li><a href="{{ '/sobre/' | relative_url }}">Quem somos</a></li>
-    </ul>
-  </nav>
+    <nav class="site-nav" role="navigation">
+      <span class="menu-toggle" aria-label="Menu de navegação">
+        {% octicon three-bars height:32 %}
+      </span>
+
+      <ul class="menu">
+        <li><a href="{{ '/projetos/filmes/' | relative_url }}">Filmes</a></li>
+        <li><a href="{{ '/projetos/tv/' | relative_url }}">TV</a></li>
+        <li><a href="{{ '/projetos/desenvolvimento/' | relative_url }}">Projetos</a></li>
+        <li><a href="{{ '/sobre/' | relative_url }}">Sobre</a></li>
+      </ul>
+    </nav>
+  </div>
 </header>

@@ -2,78 +2,26 @@
 # Hello, Jekyll!
 ---
 
-// Style variables.
-$font-family__main: 'Rubik', 'Helvetica Neue', Helvetica, sans-serif;
-$font-family__head: 'Prata', "Times New Roman", serif;
-$font__size:  1.6rem;
-$font__line-height: 1.7;
-$font__weight: 400;
 
-$color__text: #EBEBE3;
-$color__background: #222222;
+// Font variables
+$font-family: 'Rubik', sans-serif;
+$font-size: 1.6rem;
+$font-small-size: $font-size * .75;
+$font-weight: 400;
+$line-height: 1.7;
 
-$content-width: 98rem;
+// Color variables
+$color-background: #f1f1f1;
+$color-text: #222222;
+$color-brand: #929487;
+
+// Structure variables
+$content-width: 95rem;
 $on-palm: 60rem;
 $on-laptop: 80rem;
-
 $spacing-unit: 3rem;
 
 @import "reset",
         "mixins",
-        "fonts",
         "layout",
         "elements";
-
-.projects-list {
-  text-align: center;
-  margin: $spacing-unit * 2 auto;
-
-  li {
-    display: inline-block;
-    margin-bottom: $spacing-unit / 2;
-    padding: 0 $spacing-unit;
-    text-align: left;
-
-    .project-title {
-      display: block;
-      font-size: $font__size * 2;
-      line-height: 1.2;
-      font-family: $font-family__head;
-    }
-
-    .project-meta {
-      font-size: $font__size * .75;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      color: darken($color__text, 25%);
-    }
-
-    @include media-query($on-palm) {
-      display: block;
-      padding: 0;
-      text-align: center;
-      margin-bottom: $spacing-unit;
-
-      .project-title {
-        font-size: $font__size * 1.5;
-      }
-    }
-  }
-}
-
-{% for page in site.pages %}
-  {% unless page.background.video %}
-    {% if page.background.image %}
-    .{{ page.slug }} .site-container {
-      background-image: url('{{ page.background.image }}');
-      background-size: cover;
-    }
-  {% else %}
-    {% if page.slug %}
-    .{{ page.slug }} .site-container {
-      background: $color__background;
-    }
-    {% endif %}
-  {% endif %}
-  {% endunless %}
-{% endfor %}

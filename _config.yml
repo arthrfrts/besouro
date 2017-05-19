@@ -2,7 +2,7 @@
 title: Besouro Filmes
 lang: pt
 description: >
-  A Besouro Filmes é uma produtora sediada em Porto Alegre, com foco na produção cinematográfica e de conteúdo televisivos.
+  Produtora de filmes e TV em Porto Alegre, Brasil.
 
 contact:
   email: besourofilmes@besourofilmes.com
@@ -21,6 +21,7 @@ permalink: pretty
 markdown: kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-octicons
 exclude:
   - Gemfile
   - Gemfile.lock

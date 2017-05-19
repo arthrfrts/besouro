@@ -1,4 +1,21 @@
+/*
+    Basic Styles
+*/
 body {
-  color: $color__text;
-  font: $font__weight #{$font__size}/#{$font__line-height} $font-family__main;
+  font-family: $font-family;
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $color-text;
+}
+
+/*
+    Links
+*/
+a {
+  color: $color-brand;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
