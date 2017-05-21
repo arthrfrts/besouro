@@ -15,8 +15,8 @@ collections:
     permalink: /projects/:name
 
 # Build settings
-baseurl: ""
-url: "http://www.besourofilmes.com"
+baseurl: "/besouro"
+url: "https://arthr.me"
 permalink: pretty
 markdown: kramdown
 gems:
