@@ -1,0 +1,34 @@
+---
+layout: default
+slug: project-page
+---
+
+<article class="project-page" role="article">
+  <figure class="project-cover">
+  {% if page.media.trailer %}
+
+  {% else %}
+  <img src="{{ page.media.image | relative_url }}" alt="Imagem do projeto" />
+  {% endif %}
+  </figure>
+
+  <header class="project-header">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.year }} <span role="separator">/</span> {{ page.format }} <span role="separator">/</span> {{ page.genre }}</p>
+    {% if page.team.director == page.team.writer %}
+    <p><span>Escrito e dirigido por</span> {{ page.team.director }}
+    {% else %}
+    <span>Dirigido por</span> {{ page.team.director }}
+    {% endif %}</p>
+  </header>
+
+  <div class="project-content">
+    {{ content }}
+
+    {% if page.festivals %}
+    <section class="project-festivals">
+
+    </section>
+    {% endif %}
+  </div>
+</article>

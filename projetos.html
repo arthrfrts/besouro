@@ -3,13 +3,17 @@ layout: page
 title: Projetos
 slug: projetos
 ---
-{% for project in site.projects limit:1 %}
+{% assign projects = site.projects | sort: year %}
+{% for project in projects limit:1 %}
   <figure class="project featured">
     {% if project.media.video %}
     <video preload autoplay muted loop poster="{{ project.media.image | relative_url }}">
       <source src="{{ project.media.video | relative_url }}" type="video/mp4" />
     </video>
     {% else %}
+    <a href="{{ project.url }}">
+      <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
+    </a>
     {% endif %}
     <figcaption>
       <a href="{{ project.url }}" title="{{ project.title }}">
@@ -19,3 +23,21 @@ slug: projetos
     </figcaption>
   </figure>
 {% endfor %}
+
+<ul class="project-list">
+  {% for project in projects offset: 1 %}
+  <li>
+    <figure class="project">
+      <a href="{{ project.url }}">
+        <img src="{{ project.media.image }}" alt="Imagem de “{{ project.title }}”" />
+      </a>
+      <figcaption>
+        <a href="{{ project.url }}">
+          <strong>{{ project.title }}</strong><br />
+          {{ project.year }} / {{ project.genre }}
+        </a>
+      </figcaption>
+    </figure>
+  </li>
+  {% endfor %}
+</ul>

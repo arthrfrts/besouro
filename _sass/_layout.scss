@@ -215,6 +215,10 @@ body {
   overflow: hidden;
   margin-bottom: $spacing-unit * 2;
 
+  img {
+    width: 100%;
+  }
+
   figcaption {
     position: absolute;
     color: $color-background;
@@ -244,7 +248,12 @@ body {
     }
   }
 
-  &:hover {
+  &:hover,
+  &:focus {
+    a {
+      text-decoration: none;
+    }
+
     figcaption {
       bottom: 0;
     }
@@ -256,7 +265,6 @@ body {
     margin-bottom: $spacing-unit;
 
     video {
-      width: 100%;
       margin-bottom: 0;
       height: 33%;
     }
@@ -264,15 +272,183 @@ body {
     figcaption {
       position: relative;
       bottom: 0;
+      padding-top: $spacing-unit / 4;
+
+      &:before {
+        border-top-color: $color-text;
+        padding-bottom: $spacing-unit / 4;
+      }
 
       a {
         color: $color-text;
+
+        strong {
+          font-size: $font-size * 1.2;
+        }
+
+        &:hover,
+        &:focus {
+          text-decoration: underline;
+        }
 
         strong {
           line-height: 1.2;
         }
       }
     }
+  }
+}
+
+.project-list {
+  @include row;
+
+  li {
+    margin-bottom: $spacing-unit;
+    position: relative;
+    height: 25rem;
+    overflow: hidden;
+
+    &:nth-child(odd) {
+      @include col(1,2, $gap: $spacing-unit / 2, $first: true);
+    }
+
+    &:nth-child(even) {
+      @include col(1,2,$gap: $spacing-unit / 2, $last: true);
+    }
+
+    &:nth-child(2n+1):before {
+      content: " ";
+      display: block;
+      width: 100%;
+      clear: both;
+    }
+
+    img {
+      max-width: 100%;
+      height: 25rem;
+      object-fit: cover;
+    }
+
+    figcaption {
+      padding: 0 $spacing-unit / 2;
+      position: absolute;
+      bottom: -6.1rem;
+      transition: bottom 500ms ease;
+
+      &:before {
+        content: ' ';
+        display: block;
+        width: $spacing-unit;
+        border-top: .2rem solid $color-background;
+        padding-top: $spacing-unit / 4;
+        margin-top: $spacing-unit / 4;
+      }
+
+      a {
+        color: $color-background;
+        font-size: $font-small-size;
+        line-height: 1.2;
+        text-shadow: 0 0 .1rem $color-text;
+      }
+
+      strong {
+        font-size: $font-size * 1.2;
+        line-height: 1.2;
+        font-weight: 300;
+      }
+    }
+
+    &:hover,
+    &:focus {
+      a {
+        text-decoration: none;
+      }
+
+      figcaption {
+        bottom: 0;
+      }
+    }
+
+    @include media-query($on-palm) {
+      overflow: visible;
+
+      img {
+        height: 17rem;
+      }
+
+      figcaption {
+        position: relative;
+        top: 0;
+
+        &:before {
+          border-top-color: $color-text;
+        }
+
+        a {
+          color: $color-text;
+          text-shadow: none;
+
+          &:hover,
+          &:focus {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+}
+
+/*
+    Project Page
+*/
+.project-page {
+  @include row;
+
+  .project-cover {
+    margin-bottom: $spacing-unit;
+    @include col(1,1);
+
+    &:after {
+      content: ' ';
+      display: block;
+      clear: both;
+      float: none;
+      white-space: wrap;
+    }
+  }
+
+  .project-header {
+    @include col(2,6);
+
+    h1 {
+      font-size: $font-size * 2;
+      line-height: 1.2;
+      font-weight: 300;
+      margin-bottom: $spacing-unit / 2;
+
+      &:after {
+        content: ' ';
+        display: block;
+        width: $spacing-unit * 2;
+        border-top: .2rem solid $color-brand;
+        margin-top: $spacing-unit / 2;
+      }
+    }
+
+    p {
+      font-size: $font-small-size;
+      color: lighten($color-text, 40%);
+      margin-bottom: 0;
+
+      span {
+        font-weight: 300;
+      }
+    }
+  }
+
+  .project-content {
+    @include col(4, 6, $gap: $spacing-unit, $last: true);
+    margin-bottom: $spacing-unit * 2;
   }
 }
 

@@ -8,6 +8,16 @@ body {
   color: $color-text;
 }
 
+::selection {
+  background-color: $color-text;
+  color: $color-background;
+}
+
+::-moz-selection {
+  background-color: $color-text;
+  color: $color-background;
+}
+
 /*
     Links
 */
@@ -18,4 +28,31 @@ a {
   &:hover {
     text-decoration: underline;
   }
+}
+
+/*
+    Images and Figures
+*/
+img {
+  max-width: 100%;
+}
+
+/*
+    Text Elements
+*/
+p, pre
+ul, ol, dl,
+table, address, blockquote,
+object, iframe, video, figure {
+  &:not(:last-child) {
+    margin-bottom: $spacing-unit / 2;
+  }
+}
+
+em, i, address {
+  font-style: italic;
+}
+
+strong, b, dt, th {
+  font-weight: 700;
 }
