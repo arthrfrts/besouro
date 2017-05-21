@@ -452,6 +452,42 @@ body {
   .project-content {
     @include col(4, 6, $gap: $spacing-unit, $last: true);
     margin-bottom: $spacing-unit * 2;
+
+    .project-festivals {
+      margin-top: $spacing-unit;
+
+      h2 {
+        font-weight: 300;
+        font-size: $font-size * 1.5;
+        margin-bottom: $spacing-unit / 2;
+
+        &:before {
+          content: ' ';
+          display: block;
+          width: $spacing-unit * 2;
+          border-top: .2rem solid $color-brand;
+          padding-bottom: $spacing-unit / 2;
+        }
+      }
+
+      ul {
+        li {
+          font-weight: 300;
+          line-height: 1.6;
+          margin-bottom: $spacing-unit / 2;
+
+          svg {
+            height: 1.8em;
+            width: 1rem;
+            vertical-align: middle;
+
+            path {
+              fill: $color-brand;
+            }
+          }
+        }
+      }
+    }
   }
 }
 

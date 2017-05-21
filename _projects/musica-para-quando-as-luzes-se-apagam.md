@@ -13,6 +13,10 @@ media:
 team:
   director: Ismael Caneppele
   writer: Ismael Caneppele
+fests:
+  - 'IDFA 2017 – Novos Diretores'
+  - 'Berlinale 2018 – Panorama'
+  - 'Cannes 2018 — Un Certain Regard'
 ---
 
 _Música para quando as luzes se apagam_ é um documentário que flutua na fina borda entre ficção e realidade. Ums autora chega em uma pequena vila no sul do Brasil, com a intenção de transformar a vida de Emelyn em uma narrativa ficcional.

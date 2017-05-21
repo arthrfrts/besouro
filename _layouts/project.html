@@ -25,9 +25,15 @@ slug: project-page
   <div class="project-content">
     {{ content }}
 
-    {% if page.festivals %}
+    {% if page.fests %}
     <section class="project-festivals">
+      <h2>Festivais</h2>
 
+      <ul>
+        {% for festival in page.fests %}
+        <li>{% include svg/laurel-before.svg %} <span>{{ festival }}</span> {% include svg/laurel-after.svg %}</li>
+        {% endfor %}
+      </ul>
     </section>
     {% endif %}
   </div>
