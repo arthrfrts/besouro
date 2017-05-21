@@ -215,8 +215,10 @@ body {
   overflow: hidden;
   margin-bottom: $spacing-unit;
 
-  img {
+  img,
+  video {
     width: 100%;
+    object-fit: cover;
   }
 
   figcaption {
