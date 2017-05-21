@@ -18,12 +18,12 @@ layout: page
       <source src="{{ project.media.video | relative_url }}" type="video/mp4" />
     </video>
     {% else %}
-    <a href="{{ project.url }}">
+    <a href="{{ project.url | relative_url }}">
       <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
     </a>
     {% endif %}
     <figcaption>
-      <a href="{{ project.url }}" title="{{ project.title }}">
+      <a href="{{ project.url | relativeurl }}" title="{{ project.title }}">
         <strong>{{ project.title }}</strong><br />
         {{ project.year }} {{ project.genre }} <abbr title="Direção">D:</abbr> {{ project.team.director }}
       </a>
@@ -35,11 +35,11 @@ layout: page
   {% for project in projects offset: 1 %}
   <li>
     <figure class="project">
-      <a href="{{ project.url }}">
+      <a href="{{ project.url | relative_url }}">
         <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
       </a>
       <figcaption>
-        <a href="{{ project.url }}">
+        <a href="{{ project.url | relative_url }}">
           <strong>{{ project.title }}</strong><br />
           {{ project.year }} / {{ project.genre }}
         </a>
