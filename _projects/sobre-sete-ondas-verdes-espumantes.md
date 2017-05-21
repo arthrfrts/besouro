@@ -9,5 +9,5 @@ format: Filme
 team:
   director: Bruno Polidoro
 media:
-  image: /assets/projects/images/ondas.png
+  image: /assets/projects/images/ondas.jpg
 ---

@@ -9,5 +9,5 @@ status: released
 team:
   director: Mirela Kruel
 media:
-  image: /assets/projects/images/poema.png
+  image: /assets/projects/images/poema.jpg
 ---

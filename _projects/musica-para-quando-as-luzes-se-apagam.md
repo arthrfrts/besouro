@@ -7,7 +7,7 @@ genre: Documentário
 category: cinema
 status: released
 media:
-  image: /assets/projects/images/mpqla.png
+  image: /assets/projects/images/mpqla.jpg
   video: /assets/projects/videos/mpqla.mp4
 team:
   director: Ismael Caneppele
