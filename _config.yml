@@ -21,7 +21,6 @@ permalink: pretty
 markdown: kramdown
 gems:
   - jekyll-sitemap
-  - jekyll-octicons
 exclude:
   - Gemfile
   - Gemfile.lock
