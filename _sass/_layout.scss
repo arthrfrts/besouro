@@ -186,6 +186,97 @@ body {
 }
 
 /*
+    Page Layout
+*/
+.page {
+  .page-header {
+    margin-bottom: $spacing-unit;
+
+    h1 {
+      font-size: $font-size * 2;
+      font-weight: 300;
+
+      &:after {
+        content: ' ';
+        display: block;
+        width: $spacing-unit * 2;
+        border-top: .2rem solid $color-brand;
+      }
+    }
+  }
+}
+
+/*
+    Project Listings
+*/
+.project.featured {
+  height: 35rem;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: $spacing-unit * 2;
+
+  figcaption {
+    position: absolute;
+    color: $color-background;
+    bottom: -$spacing-unit * 2.5;
+    padding: 0 0 $spacing-unit / 2 $spacing-unit / 2;
+    font-size: $font-small-size;
+    transition: bottom 500ms ease;
+
+    &:before {
+      content: ' ';
+      display: block;
+      width: $spacing-unit;
+      border-top: .2rem solid $color-background;
+    }
+
+    a {
+      color: $color-background;
+    }
+
+    strong {
+      font-size: $font-size * 1.5;
+      font-weight: 300;
+    }
+
+    abbr {
+      font-weight: 300;
+    }
+  }
+
+  &:hover {
+    figcaption {
+      bottom: 0;
+    }
+  }
+
+  @include media-query($on-palm) {
+    overflow: visible;
+    height: auto;
+    margin-bottom: $spacing-unit;
+
+    video {
+      width: 100%;
+      margin-bottom: 0;
+      height: 33%;
+    }
+
+    figcaption {
+      position: relative;
+      bottom: 0;
+
+      a {
+        color: $color-text;
+
+        strong {
+          line-height: 1.2;
+        }
+      }
+    }
+  }
+}
+
+/*
     Site Footer
 */
 .site-footer {

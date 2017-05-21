@@ -1,0 +1,21 @@
+---
+layout: page
+title: Projetos
+slug: projetos
+---
+{% for project in site.projects limit:1 %}
+  <figure class="project featured">
+    {% if project.media.video %}
+    <video preload autoplay muted loop poster="{{ project.media.image | relative_url }}">
+      <source src="{{ project.media.video | relative_url }}" type="video/mp4" />
+    </video>
+    {% else %}
+    {% endif %}
+    <figcaption>
+      <a href="{{ project.url }}" title="{{ project.title }}">
+        <strong>{{ project.title }}</strong><br />
+        {{ project.year }} {{ project.genre }} <abbr title="Direção">D:</abbr> {{ project.team.director }}
+      </a>
+    </figcaption>
+  </figure>
+{% endfor %}

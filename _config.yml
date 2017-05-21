@@ -12,7 +12,7 @@ contact:
 collections:
   projects:
     output: true
-    permalink: /projetos/:name
+    permalink: /projects/:name
 
 # Build settings
 baseurl: ""
