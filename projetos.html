@@ -29,7 +29,7 @@ slug: projetos
   <li>
     <figure class="project">
       <a href="{{ project.url }}">
-        <img src="{{ project.media.image }}" alt="Imagem de “{{ project.title }}”" />
+        <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
       </a>
       <figcaption>
         <a href="{{ project.url }}">
