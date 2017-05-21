@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Sobre sete ondas verdes espumantes
 year: 2013
 status: released

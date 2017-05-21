@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: O Último Poema
 year: 2015
 genre: Documentário

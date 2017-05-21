@@ -6,7 +6,7 @@ slug: project-page
 <article class="project-page" role="article">
   <figure class="project-cover">
   {% if page.media.trailer %}
-
+  <iframe src="{{ page.media.trailer | replace:'https://vimeo.com/','https://player.vimeo.com/video/' }}" width="890" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   {% else %}
   <img src="{{ page.media.image | relative_url }}" alt="Imagem do projeto" />
   {% endif %}
@@ -16,10 +16,10 @@ slug: project-page
     <h1>{{ page.title }}</h1>
     <p>{{ page.year }} <span role="separator">/</span> {{ page.format }} <span role="separator">/</span> {{ page.genre }}</p>
     {% if page.team.director == page.team.writer %}
-    <p><span>Escrito e dirigido por</span> {{ page.team.director }}
+    <p><span>Escrito e dirigido por</span> {{ page.team.director }}</p>
     {% else %}
-    <span>Dirigido por</span> {{ page.team.director }}
-    {% endif %}</p>
+    <p><span>Dirigido por</span> {{ page.team.director }}</p>
+    {% endif %}
   </header>
 
   <div class="project-content">
