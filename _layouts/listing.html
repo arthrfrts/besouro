@@ -23,7 +23,7 @@ layout: page
     </a>
     {% endif %}
     <figcaption>
-      <a href="{{ project.url | relativeurl }}" title="{{ project.title }}">
+      <a href="{{ project.url | relativ_url }}" title="{{ project.title }}">
         <strong>{{ project.title }}</strong><br />
         {{ project.year }} {{ project.genre }} <abbr title="Direção">D:</abbr> {{ project.team.director }}
       </a>
