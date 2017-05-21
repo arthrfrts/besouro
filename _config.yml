@@ -12,11 +12,11 @@ contact:
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /projetos/:name
 
 # Build settings
 baseurl: "/besouro"
-url: ""
+url: "https://arthr.me"
 permalink: pretty
 markdown: kramdown
 gems:
