@@ -193,7 +193,8 @@ body {
 /*
     Page Layout
 */
-.page {
+.page,
+.scaffolding {
   .page-header {
     margin-bottom: $spacing-unit;
 
@@ -289,14 +290,10 @@ body {
 
       a {
         color: $color-text;
+        text-decoration: none;
 
         strong {
           font-size: $font-size * 1.2;
-        }
-
-        &:hover,
-        &:focus {
-          text-decoration: underline;
         }
 
         strong {
