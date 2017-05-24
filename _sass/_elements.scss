@@ -22,11 +22,15 @@ body {
     Links
 */
 a {
-  color: $color-brand;
-  text-decoration: none;
+  color: $color-text;
+  text-decoration: underline;
+  text-decoration-style: underline $color-brand;
+  -webkit-text-decoration-color: $color-brand;
+  transition: color 360ms ease;
 
   &:hover {
     text-decoration: underline;
+    color: $color-brand;
   }
 }
 
