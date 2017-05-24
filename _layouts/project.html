@@ -20,6 +20,9 @@ slug: project-page
     {% else %}
     <p><span>Dirigido por</span> {{ page.team.director }}</p>
     {% endif %}
+    {% if page.team.copro %}
+    <p><span>Co-produção:</span> {{ page.team.copro }}
+    {% endif %}
   </header>
 
   <div class="project-content">
