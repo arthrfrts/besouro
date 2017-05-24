@@ -442,6 +442,7 @@ body {
 
   .project-header {
     @include col(2,6);
+    margin-bottom: $spacing-unit;
 
     h1 {
       font-size: $font-size * 2;
@@ -465,6 +466,16 @@ body {
 
       span {
         font-weight: 300;
+      }
+    }
+
+    @include media-query($on-palm) {
+      text-align: center;
+
+      h1 {
+        &:after {
+          margin: $spacing-unit / 2 auto 0;
+        }
       }
     }
   }
