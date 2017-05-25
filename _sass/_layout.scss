@@ -212,6 +212,8 @@ body {
     margin-right: $spacing-unit * 4;
     text-align: justify;
     hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
 
     @include media-query($on-palm) {
       margin-left: 0;
