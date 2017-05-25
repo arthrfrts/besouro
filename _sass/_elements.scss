@@ -63,30 +63,26 @@ figure {
 
     &.right {
       float: right;
-      margin-right: -($spacing-unit * 4);
       margin-left: $spacing-unit / 2;
       margin-bottom: $spacing-unit / 3;
-
-      @include media-query($on-laptop) {
-        margin-right: 0;
-      }
     }
 
     &.left {
       float: left;
-      margin-left: -($spacing-unit * 4);
       margin-right: $spacing-unit / 2;
       margin-bottom: $spacing-unit / 3;
-
-      @include media-query($on-laptop) {
-        margin-left: 0;
-      }
     }
 
     @include media-query($on-laptop) {
       &.left,
       &.right {
         max-width: 50%;
+      }
+
+      &.left {
+        margin-left: $spacing-unit / 2;
+        margin-right: 0;
+        float: right;
       }
     }
   }

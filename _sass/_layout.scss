@@ -210,6 +210,8 @@ body {
   .page-content {
     margin-left: $spacing-unit * 4;
     margin-right: $spacing-unit * 4;
+    text-align: justify;
+    hyphens: auto;
 
     @include media-query($on-palm) {
       margin-left: 0;
