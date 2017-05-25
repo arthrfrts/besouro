@@ -11,5 +11,3 @@ media:
 team:
   director: Zeca Brito
 ---
-
-_Financiamento: Fumproarte de Porto Alegre._

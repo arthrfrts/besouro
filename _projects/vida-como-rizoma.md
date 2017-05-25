@@ -8,6 +8,7 @@ category: cinema
 status: released
 media:
   image: /assets/projects/images/rizoma.jpg
+  trailer: https://vimeo.com/133766113
 team:
   director: Lisi Kieling
   copro: Cabana Filmes e Besouro Filmes
