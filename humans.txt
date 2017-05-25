@@ -1,22 +1,21 @@
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
-|                       .',:ldO0XNWWMMMWX0d:.      |
-|                   .'cx0NWWMMMMMMMMMMMMMMMWKl     |
-|                .,o0NMMMMMMMMMMMMMMMMMMMMMMMW     |
-|              .lONMMMMMMMMMMMMMMMMMMMMMMWNKOo     |
-|            'dXWMMMMMMMMMMMMMMMMMMMWXko:,..       |
-|          .oXMMMMMMMMMMMMMMMMMMMNOo;.  .;,        |
-|        .cKWMMMMMMMMMMMMMMMMWXxc'   'lOXWK,       |
-|       .xNMMMMMMMMMMMMMMWWXx:.   .cONMMMXo.       |
-|      'OWMMMMMMMMMMMMMNOc,.   .;xXWMMMWO;         |
-|     ,0MMMMMMMMMMMMMWO:.   .,o0WMMMMW0c.          |
-|     kWMMMMMMMMMMMMM0, .,:oONMMMMMWKl.     ..     |
-|     WMMMMMMMMMMMMMMN0OKNWMMMMMMMNx.   .,oOXx     |
-|     WMMMMMMMMMMMMMMMWXxdxKMMMMMNl.  'lONWKo'     |
-|     KMMMMMMMMMMMMWXkc..:OXMMMMM0:,lONWXk:.       |
-|     :KWMMMMMMMWKxc'   .OMMMMMMMWNWWXkc.          |
-|      .lO0KKOxl,.      .xNWMMMMWN0d:.             |
-|         ....           .:dXWWKx:.       arthr.me |
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
+                       .',:ldO0XNWWMMMWX0d:.
+                   .'cx0NWWMMMMMMMMMMMMMMMWKl
+                .,o0NMMMMMMMMMMMMMMMMMMMMMMMW
+              .lONMMMMMMMMMMMMMMMMMMMMMMWNKOo
+            'dXWMMMMMMMMMMMMMMMMMMMWXko:,..
+          .oXMMMMMMMMMMMMMMMMMMMNOo;.  .;,
+        .cKWMMMMMMMMMMMMMMMMWXxc'   'lOXWK,
+       .xNMMMMMMMMMMMMMMWWXx:.   .cONMMMXo.
+      'OWMMMMMMMMMMMMMNOc,.   .;xXWMMMWO;
+     ,0MMMMMMMMMMMMMWO:.   .,o0WMMMMW0c.
+     kWMMMMMMMMMMMMM0, .,:oONMMMMMWKl.     ..
+     WMMMMMMMMMMMMMMN0OKNWMMMMMMMNx.   .,oOXx
+     WMMMMMMMMMMMMMMMWXxdxKMMMMMNl.  'lONWKo'
+     KMMMMMMMMMMMMWXkc..:OXMMMMM0:,lONWXk:.
+     :KWMMMMMMMWKxc'   .OMMMMMMMWNWWXkc.
+      .lO0KKOxl,.      .xNWMMMMWN0d:.
+         ....           .:dXWWKx:.       arthr.me
+         
 # The humans responsible and technology colophon.
 
 
