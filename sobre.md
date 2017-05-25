@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Bruno Polidoro
 Bruno Polidoro é graduado em Realização Audiovisual e mestre em
 Comunicação pela Unisinos. Atua como diretor de fotografia em filmes,
-videoartes e programas de televisão. Assina a fotografia dos longas [_O Guri_]({{ '/projetos/o-guri/' | relative_url }}), [_Dromedário no Asfalto_]({{ '/projetos/dromedario-no-asfalto/' | relative+url }}) (prêmio de Melhor Fotografia no Festival de Cinema da Fronteira), _Filme sobre um Bom Fim_ (2014), de Boca Migotto, _Nós duas descendo a escada_ (2015), de Fabiano de Souza, _Em 97 era assim_ (2015) e _Legalidade_ (2018), ambos de Zeca Brito.
+videoartes e programas de televisão. Assina a fotografia dos longas [_O Guri_]({{ '/projetos/o-guri/' | relative_url }}), [_Dromedário no Asfalto_]({{ '/projetos/dromedario-no-asfalto/' | relative_url }}) (prêmio de Melhor Fotografia no Festival de Cinema da Fronteira), _Filme sobre um Bom Fim_ (2014), de Boca Migotto, _Nós duas descendo a escada_ (2015), de Fabiano de Souza, _Em 97 era assim_ (2015) e _Legalidade_ (2018), ambos de Zeca Brito.
 
 ---
 
