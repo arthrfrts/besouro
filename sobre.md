@@ -3,14 +3,34 @@ layout: page
 title: Quem somos
 ---
 
+{% include figure.html src="https://placehold.it/890x330/929487/222222?text=Imagem+do+pessoal" alt="Imagem do pessoal" class="full-width" %}
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
+{% include figure.html src="https://placehold.it/180x250/222222/f1f1f1?text=Foto+do+Bruno" class="align right" %}
 ## Bruno Polidoro
-Bruno Polidoro é graduado em Realização Audiovisual e mestre em Comunicação pela Unisinos. Atua há dez anos como diretor de fotografia em filmes, videoartes e programas de televisão. Com foco em conteúdo, assina a fotografia dos longas “O Guri” (2011), dirigido por Zeca Brito, “Balões, lembranças e pedaços de nossas vidas” (2013), de Frederico Pinto, “Dromedário no Asfalto” (2013 – melhor fotografia no VI Festival Internacional de Cinema da Fronteira), de Gilson Vargas, “Filme sobre um Bom Fim” (2014), de Boca Migotto, “Nós duas descendo a escada” (2015), de Fabiano de Souza, e “Em 97 era assim” (2015), de Zeca Brito.
+Bruno Polidoro é graduado em Realização Audiovisual e mestre em
+Comunicação pela Unisinos. Atua como diretor de fotografia em filmes,
+videoartes e programas de televisão. Assina a fotografia dos longas “O
+Guri” (2011), dirigido por Zeca Brito, “Dromedário no Asfalto” (2013 – melhor fotografia no VI Festival Internacional de Cinema da
+Fronteira), de Gilson Vargas, “Filme sobre um Bom Fim” (2014), de Boca
+Migotto, “Nós duas descendo a escada” (2015), de Fabiano de Souza, e
+“Em 97 era assim” (2015) e Legalidade (2018), ambos de Zeca Brito.
 
 ---
 
+{% include figure.html src="/assets/images/jess.jpg" class="align right" %}
 ## Jessica Luz
-Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cultura (UFRGS) e Diseño y Gestión de la Producción Audiovisual (UAB). Em 2014, participou do Writers and Creative Producers Lab do Binger FilmLab na Holanda. Sócia da Besouro Filmes desde 2006, além de “Barões detrás do Morro”, produz o longa “GarotoNeon”, de Filipe Matzembacher e Marcio Reolon, com apoio do Hubert Bals Fund, e desenvolve o documentário “5 Casas”, de Bruno Gularte Barreto, vencedor do IDFA Bertha Fund.
+Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cultura (UFRGS) e Diseño y Gestión de la Producción Audiovisual (UAB). Em 2014, participou do Writers and Creative Producers Lab do Binger FilmLab na Holanda. Sócia da Besouro Filmes desde 2006, além de [_Barões detrás do morro_]({{ '/projetos/baroes-detras-do-morro/' | relative_url }}), produz o longa [_GarotoNeon_]({{ '/projetos/garotoneon/' | relative_url }}), de Filipe Matzembacher e Marcio Reolon, com apoio do Hubert Bals Fund, e desenvolve o documentário [_5 Casas_]({{ '/projetos/5-casas/' | relative_url }}), de Bruno Gularte Barreto, vencedor do IDFA Bertha Fund.
+
+---
+
+{% include figure.html src="https://placehold.it/180x250/222222/f1f1f1?text=Foto+do+Fabiano" class="align right" %}
+## Fabiano Ferraz
+É diretor e produtor na área audiovisual. Fez a
+direção de produção e produção executiva de vários projetos para
+cinema e televisão. Em 2004 ganhou o prêmio de Melhor Curta Gaúcho
+16mm do 32º Festival de Cinema de Gramado com o documentário Jesus, o
+Verdadeiro.

@@ -42,6 +42,56 @@ img, video {
   object-fit: cover;
 }
 
+figure {
+  &.full-width {
+    margin-left: -($spacing-unit * 4);
+    margin-right: -($spacing-unit * 4);
+
+    @include media-query($on-palm) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  &.align {
+    display: block;
+    max-width: 18rem;
+
+    img {
+      max-width: 100%;
+    }
+
+    &.right {
+      float: right;
+      margin-right: -($spacing-unit * 4);
+      margin-left: $spacing-unit / 2;
+      margin-bottom: $spacing-unit / 3;
+
+      @include media-query($on-laptop) {
+        margin-right: 0;
+      }
+    }
+
+    &.left {
+      float: left;
+      margin-left: -($spacing-unit * 4);
+      margin-right: $spacing-unit / 2;
+      margin-bottom: $spacing-unit / 3;
+
+      @include media-query($on-laptop) {
+        margin-left: 0;
+      }
+    }
+
+    @include media-query($on-laptop) {
+      &.left,
+      &.right {
+        max-width: 50%;
+      }
+    }
+  }
+}
+
 /*
     Text Elements
 */
@@ -49,8 +99,10 @@ p, pre
 ul, ol, dl,
 table, address, blockquote,
 object, iframe, video, figure {
-  &:not(:last-child) {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+
+  &:last-child {
+    margin-bottom: $spacing-unit;
   }
 }
 
@@ -60,4 +112,76 @@ em, i, address {
 
 strong, b, dt, th {
   font-weight: 700;
+}
+
+/*
+  Titles
+*/
+h2 {
+  font-weight: 300;
+  font-size: $font-size * 1.5;
+  margin-bottom: $spacing-unit / 2;
+
+  &:after {
+    content: ' ';
+    display: block;
+    width: $spacing-unit * 2;
+    border-top: .2rem solid $color-brand;
+    margin-top: $spacing-unit / 4;
+  }
+}
+
+/*
+    Lists
+*/
+ul, ol {
+  margin-left: $spacing-unit / 2;
+
+  ul, ol {
+    margin-bottom: 0;
+  }
+}
+
+ul {
+  list-style: square;
+}
+
+ol {
+  list-style: numeric;
+
+  ol {
+    list-style: lower-alpha;
+
+    ol {
+      list-style: lower-roman;
+    }
+  }
+}
+
+dl {
+  margin-left: 0;
+
+  dt {
+    font-weight: 700;
+
+  }
+}
+
+/*
+    Horizontal bar
+*/
+hr {
+  display: block;
+  width: 100%;
+  border: none;
+  background: none;
+  margin: $spacing-unit 0;
+
+  &:before {
+    content: ' ';
+    display: block;
+    width: $spacing-unit * 2;
+    border-top: .2rem solid $color-brand;
+    margin: 0 auto;
+  }
 }

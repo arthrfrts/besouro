@@ -10,6 +10,7 @@ team:
   director: Bruno Polidoro
 media:
   image: /assets/projects/images/ondas.jpg
+  trailer: https://vimeo.com/87435846
 fests:
   - É Tudo Verdade 2013
   - Festival de Gramado 2013
