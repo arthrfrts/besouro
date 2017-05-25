@@ -46,6 +46,7 @@ figure {
   &.full-width {
     margin-left: -($spacing-unit * 4);
     margin-right: -($spacing-unit * 4);
+    text-align: center;
 
     @include media-query($on-palm) {
       margin-left: 0;

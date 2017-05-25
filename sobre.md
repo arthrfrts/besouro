@@ -3,13 +3,12 @@ layout: page
 title: Quem somos
 ---
 
-{% include figure.html src="https://placehold.it/890x330/929487/222222?text=Imagem+do+pessoal" alt="Imagem do pessoal" class="full-width" %}
+{% include figure.html src="/assets/images/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-{% include figure.html src="https://placehold.it/180x250/222222/f1f1f1?text=Foto+do+Bruno" class="align right" %}
 ## Bruno Polidoro
 Bruno Polidoro é graduado em Realização Audiovisual e mestre em
 Comunicação pela Unisinos. Atua como diretor de fotografia em filmes,
@@ -27,7 +26,6 @@ Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cult
 
 ---
 
-{% include figure.html src="https://placehold.it/180x250/222222/f1f1f1?text=Foto+do+Fabiano" class="align right" %}
 ## Fabiano Ferraz
 É diretor e produtor na área audiovisual. Fez a
 direção de produção e produção executiva de vários projetos para
