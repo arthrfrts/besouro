@@ -4,16 +4,16 @@
 
 
 // Font variables
-$font-family: 'Rubik', sans-serif;
+$font-family: 'campton', sans-serif;
 $font-size: 1.6rem;
 $font-small-size: $font-size * .75;
 $font-weight: 400;
 $line-height: 1.7;
 
 // Color variables
-$color-background: #f1f1f1;
-$color-text: #222222;
-$color-brand: #929487;
+$color-background: #fff;
+$color-text: #333;
+$color-brand: #ED4C49;
 
 // Structure variables
 $content-width: 95rem;
@@ -23,5 +23,6 @@ $spacing-unit: 3rem;
 
 @import "reset",
         "mixins",
+        "fonts",
         "layout",
         "elements";

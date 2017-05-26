@@ -3,18 +3,19 @@
 */
 body {
   font-family: $font-family;
+  font-feature-settings: "kern" 1, "liga" 1, "pnum" 1, "tnum" 0, "onum" 0, "lnum" 1;
   font-size: $font-size;
   line-height: $line-height;
   color: $color-text;
 }
 
 ::selection {
-  background-color: $color-text;
+  background-color: $color-brand;
   color: $color-background;
 }
 
 ::-moz-selection {
-  background-color: $color-text;
+  background-color: $color-brand;
   color: $color-background;
 }
 
@@ -23,14 +24,13 @@ body {
 */
 a {
   color: $color-text;
-  text-decoration: underline;
-  text-decoration-style: underline $color-brand;
-  -webkit-text-decoration-color: $color-brand;
-  transition: color 360ms ease;
+  text-decoration: none;
+  box-shadow: 0 .2rem 0 $color-brand;
+  transition: color .6s ease, box-shadow .3s linear;
 
   &:hover {
-    text-decoration: underline;
     color: $color-brand;
+    box-shadow: 0 0 0 $color-brand;
   }
 }
 
