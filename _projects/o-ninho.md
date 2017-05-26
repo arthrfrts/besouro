@@ -8,6 +8,7 @@ category: tv
 status: released
 media:
   image: /assets/projects/images/ninho.jpg
+  video: /assets/projects/videos/ninho.mp4
 team:
   director: Filipe Matzembacher e Marcio Reolon
   copro: Avante Filmes e Besouro Filmes
