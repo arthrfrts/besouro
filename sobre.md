@@ -16,13 +16,12 @@ videoartes e programas de televisão. Assina a fotografia dos longas [_O Guri_](
 
 ---
 
-{% include figure.html src="/assets/images/jess.jpg" class="align right" %}
 ## Jessica Luz
 Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cultura (UFRGS) e Diseño y Gestión de la Producción Audiovisual (UAB). Em 2014, participou do Writers and Creative Producers Lab do Binger FilmLab na Holanda. Sócia da Besouro Filmes desde 2006, além de [_Barões detrás do morro_]({{ '/projetos/baroes-detras-do-morro/' | relative_url }}), produz o longa [_GarotoNeon_]({{ '/projetos/garotoneon/' | relative_url }}), de Filipe Matzembacher e Marcio Reolon, com apoio do Hubert Bals Fund, e desenvolve o documentário [_5 Casas_]({{ '/projetos/5-casas/' | relative_url }}), de Bruno Gularte Barreto, vencedor do IDFA Bertha Fund.
 
 ---
 
-## Fabiano Ferraz
+## Fabiano Florez
 É diretor e produtor na área audiovisual. Fez a
 direção de produção e produção executiva de vários projetos para
 cinema e televisão. Em 2004 ganhou o prêmio de Melhor Curta Gaúcho
