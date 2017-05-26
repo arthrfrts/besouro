@@ -96,11 +96,7 @@ p, pre
 ul, ol, dl,
 table, address, blockquote,
 object, iframe, video, figure {
-  margin-bottom: $spacing-unit / 2;
-
-  &:last-child {
-    margin-bottom: $spacing-unit;
-  }
+  margin-bottom: $spacing-unit;
 }
 
 em, i, address {
@@ -118,6 +114,7 @@ h2 {
   font-weight: 300;
   font-size: $font-size * 1.5;
   margin-bottom: $spacing-unit / 2;
+  margin-top: $spacing-unit;
 
   &:after {
     content: ' ';
@@ -141,6 +138,10 @@ ul, ol {
 
 ul {
   list-style: square;
+
+  ul {
+    list-style: none;
+  }
 }
 
 ol {

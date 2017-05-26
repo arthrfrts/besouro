@@ -20,23 +20,14 @@ layout: default
     <p><span>Dirigido por</span> {{ page.team.director }}</p>
     {% endif %}
     {% if page.team.copro %}
-    <p><span>Co-produção:</span> {{ page.team.copro }}
+    <p><span>Co-produção:</span> {{ page.team.copro }}</p>
+    {% endif %}
+    {% if page.funds %}
+    <p><span>Financiamento:</span> {{ page.funds | join: ', '}}</p>
     {% endif %}
   </header>
 
   <div class="project-content">
     {{ content }}
-
-    {% if page.fests %}
-    <section class="project-festivals">
-      <h2>Festivais</h2>
-
-      <ul>
-        {% for festival in page.fests %}
-        <li>{% include svg/laurel-before.svg %} <span>{{ festival }}</span> {% include svg/laurel-after.svg %}</li>
-        {% endfor %}
-      </ul>
-    </section>
-    {% endif %}
   </div>
 </article>

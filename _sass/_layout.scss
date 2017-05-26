@@ -474,7 +474,7 @@ body {
       }
     }
 
-    p {
+    p, ul {
       font-size: $font-small-size;
       color: lighten($color-text, 40%);
       margin-bottom: 0;

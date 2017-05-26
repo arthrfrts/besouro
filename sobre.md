@@ -5,8 +5,9 @@ title: Quem somos
 
 {% include figure.html src="/assets/images/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Trabalhamos como cúmplices de nossos diretores. Produzimos histórias universais que nos levam para um mundo diferente e emocionam. Filmes para o público.
 
+A Besouro Filmes foi criada em 2006 por um grupo de amigos oriundos do primeiro curso de Realização Audiovisual do Rio Grande do Sul. Jovens que desde cedo acumulam experiências e premiações nas áreas em que atuam. Com base em Porto Alegre e foco na produção de conteúdo, a Besouro trabalha em parceria com outras empresas e diretores, buscando uma identidade única em suas obras.
 ---
 
 ## Bruno Polidoro
