@@ -16,12 +16,8 @@ Bruno Polidoro é graduado em Realização Audiovisual e mestre em
 Comunicação pela Unisinos. Atua como diretor de fotografia em filmes,
 videoartes e programas de televisão. Assina a fotografia dos longas [_O Guri_]({{ '/projetos/o-guri/' | relative_url }}), [_Dromedário no Asfalto_]({{ '/projetos/dromedario-no-asfalto/' | relative_url }}) (prêmio de Melhor Fotografia no Festival de Cinema da Fronteira), _Filme sobre um Bom Fim_ (2014), de Boca Migotto, _Nós duas descendo a escada_ (2015), de Fabiano de Souza, _Em 97 era assim_ (2015) e _Legalidade_ (2018), ambos de Zeca Brito.
 
----
-
 ## Jessica Luz
 Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cultura (UFRGS) e Diseño y Gestión de la Producción Audiovisual (UAB). Em 2014, participou do Writers and Creative Producers Lab do Binger FilmLab na Holanda. Sócia da Besouro Filmes desde 2006, além de [_Barões detrás do morro_]({{ '/projetos/baroes-detras-do-morro/' | relative_url }}), produz o longa [_GarotoNeon_]({{ '/projetos/garotoneon/' | relative_url }}), de Filipe Matzembacher e Marcio Reolon, com apoio do Hubert Bals Fund, e desenvolve o documentário [_5 Casas_]({{ '/projetos/5-casas/' | relative_url }}), de Bruno Gularte Barreto, vencedor do IDFA Bertha Fund.
-
----
 
 ## Fabiano Florez
 É diretor e produtor na área audiovisual. Fez a
