@@ -12,3 +12,34 @@ team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 para curta-metragem
 ---
+
+Com uma mala em punho, um filho já adulto chega para visitar sua idosa mãe.
+
+A casa continua a mesma, porém degradada pelo tempo, degradação essa que se estende ao corpo da velha senhora. A mãe vive só acompanhada apenas de uma cadela, igualmente combalida pela idade, chamada Linda. Filho e mãe conversam, e nas entrelinhas de seu dialogo superficialmente banal descobrimos uma série de fatores que o filho se esquiva de revelar e que a mãe prefere não conhecer. Revelações que vão dar um desfecho surpreendente para essa história triste, tão cheia de ternura e brutalidade, uma história linda e horrível.
+
+---
+
+## Festivais
+
+* XXI **Festival Mix Brasil de Cultura e Diversidade**
+  * Prêmio de Melhor Direção de Fotografia / Júri Técnico
+  * Prêmio de Incentivo ao Curta-Metragem / Canal Brasil
+* **Diálogo de Cinema** / Mostra Cercanias
+  * Melhor Atuação (Sandra Dani)
+  * Melhor Fotografia
+  * Melhor Filme / Júri Popular
+  * Menção Honrosa do Júri
+* **CLOSE – Festival Nacional de Cinema e Diversidade Sexual**
+  * Melhor Montagem
+  * Melhor Atriz
+* V **Festival Internacional de Cinema da Fronteira**
+* XLII **Festival Internacional de Cine de Huesca**
+* **FAM** 2014
+* XLII **Festival de Cinema de Gramado** / Mostra de Curtas Gaúchos
+  * Melhor Produção
+  * Melhor Música
+  * Melhor Direção de Arte
+  * Melhor Ator
+  * Melhor Atriz
+* **FECIM** 2014
+  * Melhor Ator
