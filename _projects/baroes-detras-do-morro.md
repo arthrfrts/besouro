@@ -15,3 +15,9 @@ media:
 ---
 
 O cotidiano de um pequeno vilarejo rural no extremo sul do Brasil, localizado entre os morros, a neblina e trilhos de trem abandonados, é abalado com a chegada de um misterioso grupo que se instala na outra margem do rio.
+
+---
+
+## Labs e mercados:
+
+* Olhar de Cinema '16 / **Curitiba_Lab**

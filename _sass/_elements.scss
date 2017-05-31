@@ -23,14 +23,14 @@ body {
     Links
 */
 a {
-  color: $color-text;
-  text-decoration: none;
-  box-shadow: 0 .2rem 0 $color-brand;
-  transition: color .6s ease, box-shadow .3s linear;
+  color: $color-brand;
+  text-decoration: underline;
+  text-decoration-color: $color-brand;
+  -webkit-text-decoration-color: $color-brand;
+  transition: color .3s ease;
 
   &:hover {
-    color: $color-brand;
-    box-shadow: 0 0 0 $color-brand;
+    color: $color-text;
   }
 }
 

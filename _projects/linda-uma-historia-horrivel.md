@@ -10,6 +10,5 @@ media:
   image: /assets/projects/images/linda.jpg
 team:
   director: Bruno Gularte Barreto
+funds: Edital Petrobras 2010 para curta-metragem
 ---
-
-_Financiamento: Edital Petrobras 2010 para curta-metragem_

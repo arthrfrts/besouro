@@ -12,8 +12,12 @@ media:
 team:
   director: Lisi Kieling
   copro: Cabana Filmes e Besouro Filmes
-fests:
-  - Festival de Gramado / Mostra Gaúcha de Curtas
 ---
 
 Klaus Volkmann é um homem que leva uma vida simples com uma visão positiva do mundo. Ele mostra como nossa existência pode se ramificar em qualquer ponto e para qualquer direção, como um rizoma.
+
+---
+
+## Festivais
+
+* **Festival de Gramado** 2016 / Mostra de Curtas Gaúchos

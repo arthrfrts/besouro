@@ -41,7 +41,7 @@ body {
     display: inline-block;
     height: 5.6rem;
     width: 9.5rem;
-    box-shadow: none;
+    text-decoration: none;
   }
 
   // Site Navigation
@@ -64,7 +64,7 @@ body {
 
         a {
           color: $color-text;
-          box-shadow: none;
+          text-decoration: none;
 
           &:hover,
           &:focus {
@@ -114,7 +114,7 @@ body {
 
             &:hover,
             &:focus {
-              box-shadow: none;
+              text-decoration: none;
               color: $color-brand;
             }
           }
@@ -234,6 +234,7 @@ body {
   video {
     width: 100%;
     object-fit: cover;
+    object-position: center center;
   }
 
   figcaption {
@@ -253,7 +254,7 @@ body {
 
     a {
       color: $color-background;
-      box-shadow: none;
+      text-decoration: none;
     }
 
     strong {
@@ -269,7 +270,7 @@ body {
   &:hover,
   &:focus {
     a {
-      box-shadow: none;
+      text-decoration: none;
     }
 
     figcaption {
@@ -300,7 +301,7 @@ body {
 
       a {
         color: $color-text;
-        box-shadow: none;
+        text-decoration: none;
 
         strong {
           font-size: $font-size * 1.2;
@@ -322,7 +323,7 @@ body {
   li {
     margin-bottom: $spacing-unit;
     position: relative;
-    height: 25rem;
+    height: 30rem;
     overflow: hidden;
 
     &:nth-child(odd) {
@@ -342,8 +343,9 @@ body {
 
     img {
       width: 100%;
-      height: 25rem;
+      height: 30rem;
       object-fit: cover;
+      object-position: center center;
     }
 
     figcaption {
@@ -365,8 +367,8 @@ body {
         color: $color-background;
         font-size: $font-small-size;
         line-height: 1.2;
-        text-shadow: 0 0 .1rem $color-text;
-        box-shadow: none;
+        text-shadow: 0 0 .3rem #000;
+        text-decoration: none;
       }
 
       strong {
@@ -379,7 +381,7 @@ body {
     &:hover,
     &:focus {
       a {
-        box-shadow: none;
+        text-decoration: none;
       }
 
       figcaption {
@@ -435,7 +437,9 @@ body {
 
     img {
       width: 100%;
+      height: 100%;
       object-fit: cover;
+      object-position: center center;
     }
 
     &:after {
@@ -538,11 +542,11 @@ body {
 
   a {
     color: $color-background;
-    box-shadow: none;
+    text-decoration: none;
 
     &:hover {
       color: $color-brand;
-      box-shadow: none;
+      text-decoration: none;
     }
   }
 
@@ -561,7 +565,7 @@ body {
         letter-spacing: 0.1em;
         line-height: 3.5rem;
         font-size: $font-size;
-        box-shadow: none;
+        text-decoration: none;
 
         img {
           max-height: 3.5rem;

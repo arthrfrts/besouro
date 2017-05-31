@@ -10,7 +10,9 @@ media:
   image: /assets/projects/images/ultima-foto.png
 team:
   director: Thais Fernandes
+  writer: Thais Fernandes
   copro: Cena Expandida, Besouro Filmes e Kiko Ferraz Studio
-fests:
-  - Canon Short Film Competition
+funds: Canon Short Film Competition
 ---
+
+Eduardo é um adolescente que vive intensamente a realidade excessivamente documentada e compartilhada dos tempos atuais. Um dia ele é confrontado com a difícil tarefa de decidir qual será a última imagem registrada pela antiga máquina fotográfica de seu avô.

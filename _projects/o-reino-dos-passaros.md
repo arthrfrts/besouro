@@ -1,7 +1,7 @@
 ---
 layout: project
 title: O Reino dos Pássaros
-year: 2019
+year: 2020
 status: unreleased
 format: Filme
 genre: Animação

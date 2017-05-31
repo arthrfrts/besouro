@@ -12,6 +12,5 @@ media:
 team:
   director: Bruno Polidoro
   writer: Bruno Polidoro
+funds: Fundoprocultura de Caxias do Sul
 ---
-
-_Financiamento: Fundoprocultura da Prefeitura Municipal de Caxias do Sul._
