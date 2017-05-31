@@ -32,14 +32,12 @@ A casa continua a mesma, porém degradada pelo tempo, degradação essa que se e
 * **CLOSE – Festival Nacional de Cinema e Diversidade Sexual**
   * Melhor Montagem
   * Melhor Atriz
-* V **Festival Internacional de Cinema da Fronteira**
 * XLII **Festival Internacional de Cine de Huesca**
-* **FAM** 2014
 * XLII **Festival de Cinema de Gramado** / Mostra de Curtas Gaúchos
   * Melhor Produção
   * Melhor Música
   * Melhor Direção de Arte
   * Melhor Ator
   * Melhor Atriz
-* **FECIM** 2014
-  * Melhor Ator
+* **Queer Lisboa** 2014
+* XXVI **Festival Internacional de Viña Del Mar** / Competencia Latinoamericana de Cortometraje
