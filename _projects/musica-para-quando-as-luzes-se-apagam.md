@@ -9,6 +9,7 @@ status: released
 media:
   image: /assets/projects/images/mpqla.jpg
   video: /assets/projects/videos/mpqla.mp4
+  gif: /assets/projects/videos/mpqla.gif
   trailer: https://vimeo.com/187648643
 team:
   director: Ismael Caneppele

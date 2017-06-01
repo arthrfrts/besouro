@@ -15,7 +15,7 @@ layout: scaffolding
 {% for project in projects limit:1 %}
   <figure class="project featured">
     {% if project.media.video %}
-    <video preload autoplay muted loop poster="{{ project.media.image | relative_url }}">
+    <video autoplay loop muted playsinline poster="{{ project.media.image | relative_url }}">
       <source src="{{ project.media.video | relative_url }}" type="video/mp4" />
     </video>
     {% else %}
