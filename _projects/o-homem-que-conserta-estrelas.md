@@ -15,3 +15,14 @@ team:
 ---
 
 A rotina de Ary Nienow, técnico que participou da montagem do Planetário de Porto Alegre e, 40 anos depois, continua trabalhando lá. Apaixonado por engrenagens e consertar aparelhos mecânicos e eletrônicos, Ary é apaixonado pelas imagens de astros, planetas e estrelas que projeta no teto do Planetário.
+
+---
+
+## Festivais
+
+* XIII **Prêmio Histórias Curtas**
+  * Melhor Filme / Júri Oficial
+  * Melhor Música Original
+  * Melhor Montagem
+* **FICI** 2014
+* **Curta-SE** 2014

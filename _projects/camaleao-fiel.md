@@ -11,6 +11,13 @@ media:
 team:
   director: Gabriel Honzik
   writer: Gabriel Honzik
+  copro: Besouro Filmes e Galo de Briga Produções
 ---
 
-Nas entranhas das paisagens pré-moldadas de Gramado, um comissário de bordo hospeda-se no hotel de sua família 8 anos depois de sua partida. Sua visita e o torpor das festas de  m de ano coincidem com a morte de seu primo. Assim como as paisagens arti ciais, Marcel projeta uma existência imaginada.
+Nas entranhas das paisagens pré-moldadas de Gramado, um comissário de bordo hospeda-se no hotel de sua família 8 anos depois de sua partida. Sua visita e o torpor das festas de fim de ano coincidem com a morte de seu primo. Assim como as paisagens artificiais, Marcel projeta uma existência imaginada.
+
+---
+
+## Eventos
+
+* **Plataforma_Lab** 2016

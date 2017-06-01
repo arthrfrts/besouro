@@ -15,3 +15,14 @@ team:
 ---
 
 Érico está sem idéias para escrever um conto. Em busca de inspiração ele resolve ir até a beira do rio. Mas, ao sair de casa, fica preso no elevador com sua vizinha Joana e um entregador de pizza.
+
+---
+
+## Festivais
+
+* **Festival do Rio** 2012
+  * Mostra Geração
+* **Kinofórum — Festival Internacional de Curta-Metragens de São Paulo** 2012
+* **FESTin** 2012
+* **Mostra de Cinema Infantil de Florianópolis** 2012
+* **Festival Art Déco** 2012

@@ -10,6 +10,9 @@ media:
   image: /assets/projects/images/portunol.jpg
 team:
   director: Thaís Fernandes
+  copro: Globo News, Besouro Filmes e Epifania Filmes
+funds:
+  - Globo News
 ---
 
 PORTUÑOL faz um mergulho na cultura fronteiriça do Brasil com seus vizinhos Uruguai, Argentina, Paraguai, Bolívia, Colômbia, Peru e Venezuela. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Uma viagem que vai do sul ao norte do país, desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Um trajeto desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.

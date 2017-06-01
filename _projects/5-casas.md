@@ -3,7 +3,7 @@ layout: project
 title: 5 Casas
 year: 2018
 format: Filme
-genre: Documantário
+genre: Documentário
 category: cinema
 status: unreleased
 media:
@@ -14,8 +14,8 @@ team:
   writer: Bruno Gularte Barreto
   copro: Besouro Filmes, TAG / TRAUM Filmproduktion
 funds:
+  - PRODAV 04/2014
   - IDFA Bertha Fund (2015) / Desenvolvimento
-  - IDFA Bertha Fund Classic (2015)
 ---
 
 _5 Casas_ e as pessoas que as habitam. Uma velha professora de francês, um jovem homossexual, um homem que vive em uma fazenda isolada, um grupo de freiras que conduzem uma escola e um menino cujos pais morreram 20 anos atrás.

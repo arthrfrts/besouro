@@ -8,10 +8,20 @@ category: cinema
 status: released
 team:
   director: Mirela Kruel
-  copro: Besouro Filmes e Mirela Kruel Criação de Imagens
 media:
   image: /assets/projects/images/poema.jpg
   trailer: https://vimeo.com/96622776
+funds:
+  - FUMPROARTE Pós-produção (2014)
 ---
 
 Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspondeu durante 24 anos com Carlos Drummond de Andrade, poeta modernista brasileiro. O filme revela parte desta rica correspondência. Em cenas poéticas e de extrema beleza, esta amizade é reinventada, ressignificada, tecendo no imaginário do espectador o encontro entre o universo particular de Helena Maria e a poesia de Drummond.
+
+---
+
+## Eventos
+* **Doc Montevideo** 2015 / Meetings
+
+## Festivais
+* **Festival de Cine de Bogotá** 2015
+  * Melhor Documentário de Arte

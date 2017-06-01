@@ -8,9 +8,12 @@ format: Curta
 genre: Documentário
 team:
   director: Tatiana Nequete
+  copro: Besouro Filmes e BUMKER Studio
 media:
   image: /assets/projects/images/barba.png
   trailer: https://vimeo.com/89429107
+funds:
+  - Edital FUMPROARTE
 ---
 
 Numa barbearia de calçada em um bairro da zona norte de Porto Alegre encontram-se Seu Machado, Professor Menoti, Soninha, Cássio e os irmãos Camanga e Camanguinha. Em meio a cabelos, barbas e as histórias que acumularam durante os quarenta anos de amizade, todos os sábados à noite esse grupo reúne amigos e fecha a barbearia com uma agradável sessão de Chorinho. No documentário Fez a Barba e o Choro, acompanhamos a movimentação do salão até ele ir gradualmente se transformando em um clube de choro, acompanhamos também as histórias desse grupo de amigos, que transformou a rotina dos moradores locais, e seu sonho de levar o conjunto a outros cantos da cidade.

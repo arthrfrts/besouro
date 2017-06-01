@@ -19,3 +19,10 @@ team:
 _Música para quando as luzes se apagam_ é um documentário que flutua na fina borda entre ficção e realidade. Ums autora chega em uma pequena vila no sul do Brasil, com a intenção de transformar a vida de Emelyn em uma narrativa ficcional.
 
 Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bernardo, um adolescente dividido entre viver o seu desejo e continuar desejando.
+
+---
+
+## Eventos
+
+* **DOCSP** 2015
+* **Plataforma_Lab** 2015

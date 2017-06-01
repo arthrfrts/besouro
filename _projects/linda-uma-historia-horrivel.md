@@ -25,7 +25,7 @@ A casa continua a mesma, porém degradada pelo tempo, degradação essa que se e
   * Prêmio de Melhor Direção de Fotografia / Júri Técnico
   * Prêmio de Incentivo ao Curta-Metragem / Canal Brasil
 * **Diálogo de Cinema** / Mostra Cercanias
-  * Melhor Atuação (Sandra Dani)
+  * Melhor Atriz
   * Melhor Fotografia
   * Melhor Filme / Júri Popular
   * Menção Honrosa do Júri

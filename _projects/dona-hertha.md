@@ -15,3 +15,12 @@ team:
 ---
 
 Hertha Spier é uma sobrevivente do Holocausto que vive em Porto Alegre. Hoje, com 93 anos, depois de passar pelos campos de concentração nazistas, ela refez sua vida e recuperou-se do sofrimento de perder familiares e amigos durante a 2ª Guerra Mundial, construindo uma nova família.
+
+---
+
+## Festivais
+
+* XII **Prêmio Histórias Curtas**
+  * Melhor Filme / Júri Popular
+* **Festival Art Déco** 2012
+  * Melhor Documentário
