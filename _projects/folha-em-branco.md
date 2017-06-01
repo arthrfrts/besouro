@@ -22,7 +22,7 @@ team:
 
 * **Festival do Rio** 2012
   * Mostra Geração
-* **Kinofórum — Festival Internacional de Curta-Metragens de São Paulo** 2012
+* XXIII **Kinoforum — Festival Internacional de Curta-Metragens de São Paulo**
 * **FESTin** 2012
 * **Mostra de Cinema Infantil de Florianópolis** 2012
 * **Festival Art Déco** 2012

@@ -22,4 +22,4 @@ O cotidiano de um pequeno vilarejo rural no extremo sul do Brasil, localizado en
 
 ## Labs e mercados:
 
-* Olhar de Cinema '16 / **Curitiba_Lab**
+* **Olhar de Cinema** '16 / Curitiba_Lab

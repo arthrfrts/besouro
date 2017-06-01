@@ -18,6 +18,5 @@ Nas entranhas das paisagens pré-moldadas de Gramado, um comissário de bordo 
 
 ---
 
-## Eventos
-
-* **Plataforma_Lab** 2016
+## Labs, mercados e eventos
+* **Plataforma:LAB** 2016

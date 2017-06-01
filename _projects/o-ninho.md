@@ -23,12 +23,13 @@ Bruno está procurando por seu irmão, mas acaba encontrando uma nova família.
 
 ## Festivais
 
-* **II Telas – Festival Internacional de Televisão de São Paulo**
+* II **Telas – Festival Internacional de Televisão de São Paulo**
   * Novos Talentos e Ousadia Temática / Menção Honrosa
-* **OutFest LA** 2016 / Menção Especial do Juri (International Narrative)
+* **OutFest LA** 2016
+  * Narrativa Internacional / Menção Honrosa do Júri
 * **Kaleidoscope Arkansas International Film Festival** 2016
 * **InsideOut Toronto LGBT Film Festival** 2016
 * **Torino Gay and Lesbian International Film Festival** 2016
 * **Pink Apple LGBT Zurich International Film Festival** 2016
-* **Götemborg Film Festival**
-* **Mardi Gras Film Festival – Sydney**
+* XL **Götemborg Film Festival**
+* **Mardi Gras Film Festival** 2017

@@ -21,9 +21,8 @@ Pedro, 25 anos, é forçado a despedir-se de sua irmã, que está indo morar em 
 
 ---
 
-## Eventos
-
-* 66ª **Berlindale** / Talent Project Market
-* **Rencontres de Toulouse** / Cinéma en Developpment
-* VI **CineMundi Brasil International Coproduction Meeting**
+## Labs, mercados e eventos
+* LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
+* XXVII Rencontres de Toulouse / **Cinéma en Developpment 10**
+* VI **Brasil CineMundi** / International Coproduction Meeting
 * I **PlataformaLAB**

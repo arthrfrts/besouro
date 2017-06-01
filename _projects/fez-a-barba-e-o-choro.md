@@ -28,5 +28,5 @@ Numa barbearia de calçada em um bairro da zona norte de Porto Alegre encontram-
   * Prêmio de Melhor Fotografia
 * **Festival de Cinema de Havana** 2012 / Convidado Especial
 * **FESTin** 2013 / Convidado Especial
-* **VII Encuentro Contra el Silencio Todas Las Voces** 2014
+* VII **Encuentro Contra el Silencio Todas Las Voces**
 * **FECIM** 2014 / Muestra Internacional Curtadoc

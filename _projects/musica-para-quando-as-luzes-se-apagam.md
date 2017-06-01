@@ -14,6 +14,8 @@ team:
   director: Ismael Caneppele
   writer: Ismael Caneppele
   copro: Zeppelin Filmes e Besouro Filmes
+funds:
+  - Edital SEDAC 11 2014
 ---
 
 _Música para quando as luzes se apagam_ é um documentário que flutua na fina borda entre ficção e realidade. Ums autora chega em uma pequena vila no sul do Brasil, com a intenção de transformar a vida de Emelyn em uma narrativa ficcional.
@@ -24,5 +26,5 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 
 ## Eventos
 
-* **DOCSP** 2015
-* **Plataforma_Lab** 2015
+* **DocSP** 2016 / Rough Cut Lab
+* **Plataforma:LAB** 2016

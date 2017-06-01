@@ -20,6 +20,5 @@ Hugo passa os seus dias na casa da praia da família junto de Rafaella, sua ma�
 
 ---
 
-## Eventos
-
-* **Laboratório Novas Histórias** – SESC
+## Labs, mercados e eventos
+* VI **Laboratório Novas Histórias** / Roteiros para Público Adulto

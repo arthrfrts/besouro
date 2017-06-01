@@ -28,7 +28,7 @@ Gianoukas e Adriana Calcanhoto.
 ## Festivais
 
 * **É Tudo Verdade** 2013
-* **Festival de Gramado** 2013
+* XLI **Festival de Cinema de Gramado**
 * **Festival Iberoamericano de Cinema do Sergipe** 2013
 * **CLOSE – Festival Nacional de Cinema da Diversidade Sexual** 2013
-* **Festival Internacional de Cinema da Fronteira**
+* III **Festival Internacional de Cinema da Fronteira**

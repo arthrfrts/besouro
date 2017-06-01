@@ -23,5 +23,5 @@ Klaus Volkmann é um homem que leva uma vida simples com uma visão positiva do 
 ## Festivais
 
 * **É Tudo Verdade** 2016
-* **Festival de Gramado** 2016 / Mostra de Curtas Gaúchos
+* XLIV **Festival de Cinema de Gramado** / Mostra de Curtas Gaúchos
   * Prêmio Aquisição – RBS TV

@@ -22,5 +22,5 @@ Hertha Spier é uma sobrevivente do Holocausto que vive em Porto Alegre. Hoje, c
 
 * XII **Prêmio Histórias Curtas**
   * Melhor Filme / Júri Popular
-* **Festival Art Déco** 2012
+* **Festival ArtDeco** 2012
   * Melhor Documentário
