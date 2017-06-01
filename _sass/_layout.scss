@@ -47,6 +47,10 @@ body {
     float: right;
     text-align: right;
 
+    #nav-trigger {
+      display: none;
+    }
+
     .menu-toggle {
       display: none;
     }
@@ -76,6 +80,7 @@ body {
     @include media-query($on-palm) {
       position: relative;
       overflow: hidden;
+      cursor: pointer;
 
       .menu-toggle {
         display: block;
@@ -126,7 +131,7 @@ body {
       &:active {
         overflow: visible;
 
-        .menu {
+        input:checked ~ .menu {
           right: 0;
         }
       }
