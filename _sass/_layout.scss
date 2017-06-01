@@ -26,7 +26,7 @@ body {
     Site Header
 */
 .site-header {
-  margin-bottom: $spacing-unit * 2;
+  margin-bottom: $spacing-unit;
 
   .site-title {
     background-image: url('images/logo.png');
@@ -441,7 +441,6 @@ body {
     @include col(1,1);
     position: relative;
   	padding-bottom: 56.25%;
-  	padding-top: $spacing-unit;
     height: 0;
   	overflow: hidden;
 
