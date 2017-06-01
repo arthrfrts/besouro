@@ -187,6 +187,10 @@ body {
       }
     }
   }
+
+  @media screen and (min-height: 1000px) {
+    height: 70rem;
+  }
 }
 
 /*
