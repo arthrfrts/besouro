@@ -11,6 +11,8 @@ media:
 team:
   copro: Besouro Filmes e Rainer Cine
   director: Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz
+funds:
+  - FAC 2013 / Histórias do Sul
 ---
 
 A cidade vista através de histórias que se passam no Ocidente, o bar que acompanhou os descaminhos artísticos e amorosos de gerações e gerações. Entre os sabores particulares das madrugadas dos últimos anos, _Ocidentes_ mostra como o DNA festeiro de Porto Alegre foi sofrendo mutações no decorrer de quatro décadas.

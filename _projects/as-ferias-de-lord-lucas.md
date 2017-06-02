@@ -28,3 +28,8 @@ Uma marca roxa no pescoço da irmã deixa preocupado Lucas, um menino de 8 anos.
   * Melhor Filme
 * IX **FICI - Festival Internacional de Cinema Infantil**
   * Melhor Filme de Ficção
+* **Prix Jeunesse Iberoamericano** 2009
+  * Primeiro Lugar / Competição de curtas de ficção (7-11)
+* **Prix Jeunesse International** 2010
+  * Prêmio _Next Generation_
+  * Segundo Lugar / Competição de curtas (7-11)

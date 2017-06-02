@@ -12,7 +12,8 @@ media:
   image: /assets/projects/images/poema.jpg
   trailer: https://vimeo.com/96622776
 funds:
-  - FUMPROARTE Pós-produção (2014)
+  - FUMPROARTE
+  - Edital SEDAC-RS Finalização de longa-metragem
 ---
 
 Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspondeu durante 24 anos com Carlos Drummond de Andrade, poeta modernista brasileiro. O filme revela parte desta rica correspondência. Em cenas poéticas e de extrema beleza, esta amizade é reinventada, ressignificada, tecendo no imaginário do espectador o encontro entre o universo particular de Helena Maria e a poesia de Drummond.

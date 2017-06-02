@@ -12,6 +12,8 @@ media:
 team:
   director: Lisi Kieling
   copro: Cabana Filmes e Besouro Filmes
+funds:
+  - Edital Curta MINC 2013/2014
 ---
 
 Klaus Volkmann é um homem que leva uma vida simples com uma visão positiva do mundo. Ele mostra como nossa existência pode se ramificar em qualquer ponto e para qualquer direção, como um rizoma.
