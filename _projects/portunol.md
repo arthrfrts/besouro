@@ -9,7 +9,7 @@ status: unreleased
 media:
   image: /assets/projects/images/portunol.jpg
 team:
-  director: Thaís Fernandes
+  director: Thais Fernandes
   copro: Globo News, Besouro Filmes e Epifania Filmes
 funds:
   - Globo News

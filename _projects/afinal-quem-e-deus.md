@@ -7,7 +7,7 @@ category: tv
 format: Série
 genre: Documentário
 team:
-  director: Thaís Fernandes
+  director: Thais Fernandes
 media:
   image: /assets/projects/images/deus.jpg
 funds:
