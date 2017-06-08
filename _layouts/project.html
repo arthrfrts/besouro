@@ -13,6 +13,9 @@ layout: default
 
   <header class="project-header">
     <h1>{{ page.title }}</h1>
+    {% if page.o_title %}
+    <p class="original-title">{{ page.o_title }}</p>
+    {% endif %}
     <p>{{ page.year }} <span role="separator">/</span> {{ page.format }} <span role="separator">/</span> {{ page.genre }}</p>
     {% if page.team.director == page.team.writer %}
     <p><span>Escrito e dirigido por</span> {{ page.team.director }}</p>
