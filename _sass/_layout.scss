@@ -68,6 +68,12 @@ body {
           color: $color-text;
           text-decoration: none;
 
+          svg {
+            width: 2.2rem;
+            height: 2.2rem;
+            vertical-align: middle;
+          }
+
           &:hover,
           &:focus,
           &:active {
