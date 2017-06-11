@@ -567,7 +567,9 @@ body {
   .wrapper {
     @include row;
 
-    section {
+    .site-brand,
+    .contact-links,
+    .contact-address {
       @include col(1,3);
     }
 
