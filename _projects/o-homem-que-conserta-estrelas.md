@@ -1,14 +1,13 @@
 ---
-title: O Homem que Conserta Estrelas
-categories:
-- tv
 layout: project
+title: O Homem que Conserta Estrelas
 year: 2013
 format: Curta
 genre: Documentário
+category: tv
 status: released
 media:
-  image: "/assets/projects/images/estrelas.jpg"
+  image: /assets/projects/images/estrelas.jpg
   trailer: https://vimeo.com/96107699
 team:
   director: Denise Marchi

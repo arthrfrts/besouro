@@ -1,20 +1,19 @@
 ---
-title: O Último Poema
-categories:
-- cinema
 layout: project
+title: O Último Poema
 year: 2015
 genre: Documentário
 format: Filme
+category: cinema
 status: released
 team:
   director: Mirela Kruel
 media:
-  image: "/assets/projects/images/poema.jpg"
+  image: /assets/projects/images/poema.jpg
   trailer: https://vimeo.com/96622776
 funds:
-- FUMPROARTE
-- Edital SEDAC-RS Finalização de longa-metragem
+  - FUMPROARTE
+  - Edital SEDAC-RS Finalização de longa-metragem
 ---
 
 Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspondeu durante 24 anos com Carlos Drummond de Andrade, poeta modernista brasileiro. O filme revela parte desta rica correspondência. Em cenas poéticas e de extrema beleza, esta amizade é reinventada, ressignificada, tecendo no imaginário do espectador o encontro entre o universo particular de Helena Maria e a poesia de Drummond.

@@ -1,14 +1,13 @@
 ---
-title: Dona Hertha
-categories:
-- tv
 layout: project
+title: Dona Hertha
 year: 2012
 format: Curta
 genre: Documentário
+category: tv
 status: released
 media:
-  image: "/assets/projects/images/hertha.jpg"
+  image: /assets/projects/images/hertha.jpg
   trailer: https://vimeo.com/96510340
 team:
   director: Luis Mário Fontoura
