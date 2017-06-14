@@ -1,13 +1,14 @@
 ---
-layout: project
 title: A Última Foto
+categories:
+- cinema
+layout: project
 year: 2014
 format: Curta
 genre: Drama
-category: cinema
 status: released
 media:
-  image: /assets/projects/images/ultima-foto.png
+  image: "/assets/projects/images/ultima-foto.png"
 team:
   director: Thais Fernandes
   writer: Thais Fernandes

@@ -1,6 +1,7 @@
 ---
 layout: scaffolding
 ---
+
 {% if page.category and page.status %}
 {% assign projects = site.projects | sort: 'year' | reverse | where: 'category', page.category | where: 'status', page.status  %}
 {% else if page.status %}
