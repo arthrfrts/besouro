@@ -9,7 +9,7 @@ category: cinema
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues
-  copro: Coelho Voador, Besouro Filmes e Animasing
+  copro: Vanessa Remonti, Coelho Voador, Besouro Filmes e Animasing
 media:
   image: /assets/projects/images/passaros.jpg
 ---
