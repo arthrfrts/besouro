@@ -18,15 +18,31 @@ layout: default
     {% endif %}
     <p>{{ page.year }} <span role="separator">/</span> {{ page.format }} <span role="separator">/</span> {{ page.genre }}</p>
     {% if page.team.director == page.team.writer %}
-    <p><span>Escrito e dirigido por</span> {{ page.team.director }}</p>
+      {% if page.lang == 'en' %}
+      <p><span>Written and directed by</span> {{ page.team.director }}</p>
+      {% else %}
+      <p><span>Escrito e dirigido por</span> {{ page.team.director }}</p>
+      {% endif %}
     {% else %}
-    <p><span>Dirigido por</span> {{ page.team.director }}</p>
+      {% if page.lang == 'en' %}
+      <p><span>Directed by</span> {{ page.team.director }}</p>
+      {% else %}
+      <p><span>Dirigido por</span> {{ page.team.director }}</p>
+      {% endif %}
     {% endif %}
     {% if page.team.copro %}
-    <p><span>Produção:</span> {{ page.team.copro }}</p>
+      {% if page.lang == 'en' %}
+      <p><span>Production Companies:</span> {{ page.team.director }}</p>
+      {% else %}
+      <p><span>Produção:</span> {{ page.team.director }}</p>
+      {% endif %}
     {% endif %}
     {% if page.funds %}
-    <p><span>Financiamento:</span> {{ page.funds | join: ', '}}</p>
+      {% if page.lang == 'en' %}
+      <p><span>Funds:</span> {{ page.funds | join: ', '}}</p>
+      {% else %}
+      <p><span>Financiamento:</span> {{ page.funds | join: ', '}}</p>
+      {% endif %}
     {% endif %}
   </header>
 
