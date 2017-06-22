@@ -14,8 +14,7 @@ media:
 funds:
   - Edital FUMPROARTE
 ---
-Um roadmovie poético construído através da vida e obra do escritor Caio
-Fernando Abreu.
+Um roadmovie poético construído através da vida e obra do escritor Caio Fernando Abreu.
 
 Santiago, Amsterdã, Berlim, Colônia, Paris, Londres, Porto Alegre, São Paulo. As
 cidades que testemunharam a vida breve do poeta, dramaturgo e escritor Caio
