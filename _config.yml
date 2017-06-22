@@ -8,7 +8,7 @@ collections:
   projects:
     title: Projects
     output: true
-    permalink: "/projetos/:name"
+    permalink: "/projetos/:name/"
     layout: project
   uploads:
     title: Uploads
@@ -19,7 +19,7 @@ contact:
   email: besourofilmes@besourofilmes.com
   facebook: besourofilmes
   vimeo: besourofilmes
-baseurl: 
+baseurl:
 url: http://besourofilmes.com
 permalink: pretty
 markdown: kramdown
