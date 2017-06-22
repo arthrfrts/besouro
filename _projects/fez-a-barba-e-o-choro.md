@@ -11,7 +11,7 @@ team:
   director: Tatiana Nequete
   copro: Besouro Filmes e BUMKER Studio
 media:
-  image: "/assets/projects/images/barba.png"
+  image: "/assets/media/barba.png"
   trailer: https://vimeo.com/89429107
 funds:
 - Edital FUMPROARTE

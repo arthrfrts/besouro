@@ -8,7 +8,7 @@ genre: Documentary
 year: 2018
 status: unreleased
 media:
-  image: "/assets/projects/images/portunol.jpg"
+  image: "/assets/media/portunol.jpg"
 team:
   director: Thais Fernandes
   copro: Globo News, Besouro Filmes and Epifania Filmes

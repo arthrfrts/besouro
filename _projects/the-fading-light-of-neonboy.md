@@ -9,7 +9,7 @@ genre: Drama
 cat: cinema
 status: unreleased
 media:
-  image: "/assets/projects/images/neon.jpg"
+  image: "/assets/media/neon.jpg"
 team:
   director: Filipe Matzembacher and Marcio Reolon
   writer: Filipe Matzembacher and Marcio Reolon

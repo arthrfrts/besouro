@@ -8,8 +8,8 @@ format: Série
 genre: Drama
 status: released
 media:
-  image: "/assets/projects/images/ninho.jpg"
-  video: "/assets/projects/videos/ninho.mp4"
+  image: "/assets/media/ninho.jpg"
+  video: "/assets/media/ninho.mp4"
   trailer: https://vimeo.com/148541526
 team:
   director: Filipe Matzembacher e Marcio Reolon

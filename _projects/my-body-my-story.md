@@ -9,7 +9,7 @@ cat: cinema
 genre: Documentary
 format: Short
 media:
-  image: "/assets/projects/images/corpo.jpg"
+  image: "/assets/media/corpo.jpg"
 team:
   director: Thais Fernandes
   copro: Besouro Filmes and Cena Expandida

@@ -9,7 +9,7 @@ genre: Drama
 cat: cinema
 status: released
 media:
-  image: "/assets/projects/images/aos-pes.jpg"
+  image: "/assets/media/aos-pes.jpg"
 team:
   director: Zeca Brito
 ---

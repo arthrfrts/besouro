@@ -8,7 +8,7 @@ format: Curta
 genre: Documentário
 status: released
 media:
-  image: "/assets/projects/images/rizoma.jpg"
+  image: "/assets/media/rizoma.jpg"
   trailer: https://vimeo.com/133766113
 team:
   director: Lisi Kieling

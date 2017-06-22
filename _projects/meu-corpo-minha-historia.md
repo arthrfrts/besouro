@@ -8,7 +8,7 @@ year: 2018
 genre: Documentário
 format: Curta
 media:
-  image: "/assets/projects/images/corpo.jpg"
+  image: "/assets/media/corpo.jpg"
 team:
   director: Thais Fernandes
   copro: Besouro Filmes e Cena Expandida

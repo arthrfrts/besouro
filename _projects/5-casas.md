@@ -8,8 +8,8 @@ format: Filme
 genre: Documentário
 status: unreleased
 media:
-  image: "/assets/projects/images/casas.jpg"
-  video: "/assets/projects/videos/casas.mp4"
+  image: "/assets/media/casas.jpg"
+  video: "/assets/media/casas.mp4"
 team:
   director: Bruno Gularte Barreto
   writer: Bruno Gularte Barreto

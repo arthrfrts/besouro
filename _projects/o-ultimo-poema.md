@@ -10,7 +10,7 @@ status: released
 team:
   director: Mirela Kruel
 media:
-  image: "/assets/projects/images/poema.jpg"
+  image: "/assets/media/poema.jpg"
   trailer: https://vimeo.com/96622776
 funds:
 - FUMPROARTE

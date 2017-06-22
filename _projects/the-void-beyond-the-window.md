@@ -9,7 +9,7 @@ genre: Drama
 cat: cinema
 status: released
 media:
-  image: "/assets/projects/images/alemjanela.jpg"
+  image: "/assets/media/alemjanela.jpg"
   trailer: https://vimeo.com/38340401
 team:
   director: Bruno Polidoro

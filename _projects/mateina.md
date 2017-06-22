@@ -11,7 +11,7 @@ team:
   director: Joaquín Peñagaricano e Pablo Abdala
   copro: Besouro Filmes, Jengibre Producciones e Coelho Voador
 media:
-  image: "/assets/projects/images/mateina.jpg"
+  image: "/assets/media/mateina.jpg"
 funds:
 - Edital ANCINE/ICAU 2016
 - ICAU Fundo de desenvolvimento

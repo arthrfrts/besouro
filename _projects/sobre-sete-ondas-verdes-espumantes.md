@@ -10,7 +10,7 @@ format: Filme
 team:
   director: Bruno Polidoro e Cacá Nazario
 media:
-  image: "/assets/projects/images/seteondas.jpg"
+  image: "/assets/media/seteondas.jpg"
   trailer: https://vimeo.com/87435846
 funds:
 - Edital FUMPROARTE

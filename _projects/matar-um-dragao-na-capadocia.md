@@ -8,7 +8,7 @@ year: 2019
 format: Filme
 genre: Drama
 media:
-  image: "/assets/projects/images/dragao.jpg"
+  image: "/assets/media/dragao.jpg"
 team:
   director: Larissa Figueiredo
   writer: Larissa Figueiredo

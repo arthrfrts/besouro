@@ -8,7 +8,7 @@ format: Curta
 genre: Documentário
 status: released
 media:
-  image: "/assets/projects/images/hertha.jpg"
+  image: "/assets/media/hertha.jpg"
   trailer: https://vimeo.com/96510340
 team:
   director: Luis Mário Fontoura

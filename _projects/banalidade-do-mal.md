@@ -8,7 +8,7 @@ format: Série
 genre: Drama
 status: unreleased
 media:
-  image: "/assets/projects/images/banalidade.png"
+  image: "/assets/media/banalidade.png"
 team:
   director: Fabio Canale
   copro: Galo de Briga Produções e Besouro Filmes

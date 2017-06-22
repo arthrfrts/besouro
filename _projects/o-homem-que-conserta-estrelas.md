@@ -8,7 +8,7 @@ format: Curta
 genre: Documentário
 status: released
 media:
-  image: "/assets/projects/images/estrelas.jpg"
+  image: "/assets/media/estrelas.jpg"
   trailer: https://vimeo.com/96107699
 team:
   director: Denise Marchi

@@ -8,7 +8,7 @@ format: Série
 genre: Drama
 status: released
 media:
-  image: "/assets/projects/images/ocidentes.jpg"
+  image: "/assets/media/ocidentes.jpg"
 team:
   copro: Besouro Filmes e Rainer Cine
   director: Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz

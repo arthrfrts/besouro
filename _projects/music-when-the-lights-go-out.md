@@ -9,8 +9,8 @@ genre: Documentary
 cat: cinema
 status: released
 media:
-  image: "/assets/projects/images/mpqla.jpg"
-  video: "/assets/projects/videos/mpqla.mp4"
+  image: "/assets/media/mpqla.jpg"
+  video: "/assets/media/mpqla.mp4"
 team:
   director: Ismael Caneppele
   writer: Ismael Caneppele

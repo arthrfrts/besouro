@@ -2,9 +2,11 @@
 title: Quem somos
 lang: pt
 layout: page
+media:
+  image: /assets/media/equipe.jpg
 ---
 
-{% include figure.html src="/assets/images/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}
+{% include figure.html src="/assets/media/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}
 
 Trabalhamos como cúmplices de nossos diretores. Produzimos histórias universais que nos levam para um mundo diferente e emocionam. Filmes para o público.
 

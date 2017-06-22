@@ -12,7 +12,7 @@ team:
   writer: Germano de Oliveira e Marcela Bordin
   copro: Avante Filmes, Besouro Filmes e Casa de Cinema de Porto Alegre
 media:
-  image: "/assets/projects/images/baroes.jpg"
+  image: "/assets/media/baroes.jpg"
 funds:
 - Edital Plataforma FUMPROARTE 2016
 ---

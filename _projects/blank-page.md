@@ -9,7 +9,7 @@ genre: Drama
 cat: tv
 status: released
 media:
-  image: "/assets/projects/images/folha.jpg"
+  image: "/assets/media/folha.jpg"
   trailer: https://vimeo.com/47054299
 team:
   director: Iuli Gerbase

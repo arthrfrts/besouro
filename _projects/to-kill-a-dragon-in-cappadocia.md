@@ -9,7 +9,7 @@ format: Filme
 genre: Drama
 cat: cinema
 media:
-  image: "/assets/projects/images/dragao.jpg"
+  image: "/assets/media/dragao.jpg"
 team:
   director: Larissa Figueiredo
   writer: Larissa Figueiredo

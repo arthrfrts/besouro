@@ -9,7 +9,7 @@ format: Film
 genre: Drama
 status: unreleased
 media:
-  image: "/assets/projects/images/camaleao.jpg"
+  image: "/assets/media/camaleao.jpg"
 team:
   director: Gabriel Honzik
   writer: Gabriel Honzik

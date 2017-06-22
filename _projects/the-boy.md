@@ -9,7 +9,7 @@ genre: Drama
 cat: cinema
 status: released
 media:
-  image: "/assets/projects/images/guri.jpg"
+  image: "/assets/media/guri.jpg"
 team:
   director: Zeca Brito
   copro: Avalanche, Coletivo Inconsciente, Delicatessen Filmes and Besouro Filmes

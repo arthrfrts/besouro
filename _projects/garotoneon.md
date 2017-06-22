@@ -8,7 +8,7 @@ format: Filme
 genre: Drama
 status: unreleased
 media:
-  image: "/assets/projects/images/neon.jpg"
+  image: "/assets/media/neon.jpg"
 team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon
