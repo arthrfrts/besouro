@@ -19,7 +19,7 @@ contact:
   email: besourofilmes@besourofilmes.com
   facebook: besourofilmes
   vimeo: besourofilmes
-baseurl:
+baseurl: 
 url: http://besourofilmes.com
 permalink: pretty
 markdown: kramdown
