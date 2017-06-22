@@ -1,5 +1,18 @@
 ---
 title: Linda A Horrible Story
+lang: en
+layout: project
+o_title: Linda, uma história horrível
+year: 2013
+format: Short
+genre: Drama
+cat: cinema
+status: released
+media:
+  image: "/assets/projects/images/linda.jpg"
+team:
+  director: Bruno Gularte Barreto
+funds: Edital Petrobras 2010 for Short Film
 ---
 
 With a suitcase in hand, a son arrives to visit his elderly mother.

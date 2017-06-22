@@ -1,5 +1,21 @@
 ---
 title: Barons From Behind The Hill
+lang: en
+layout: project
+o_title: Barões detrás do morro
+year: 2018
+status: unreleased
+cat: cinema
+format: Filme
+genre: Drama
+team:
+  director: Germano de Oliveira
+  writer: Germano de Oliveira and Marcela Bordin
+  copro: Avante Filmes, Besouro Filmes and Casa de Cinema de Porto Alegre
+media:
+  image: "/assets/projects/images/baroes.jpg"
+funds:
+- Edital Plataforma FUMPROARTE 2016
 ---
 
 In 1820, the French explorer and naturalist Auguste de Saint Hilaire travels with his assistant Julien through the southern region of Brazil, while researching the local fauna and flora, and poetically reports his tedious days spent in the midst of the tropical nature. Two hundred years later, in the field where the explorer planted the seed of a sacred tree, lives Bertha, a 70-year-old woman, in an isolated German community.
