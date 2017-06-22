@@ -1,13 +1,15 @@
 ---
-layout: project
+lang: pt
 title: Folha em Branco
+cat:
+cat: tv
+layout: project
 year: 2011
 format: Curta
 genre: Drama
-category: tv
 status: released
 media:
-  image: /assets/projects/images/folha.jpg
+  image: "/assets/projects/images/folha.jpg"
   trailer: https://vimeo.com/47054299
 team:
   director: Iuli Gerbase

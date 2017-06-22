@@ -1,20 +1,22 @@
 ---
-layout: project
+lang: pt
 title: O Ninho
+cat:
+cat: tv
+layout: project
 year: 2015
 format: Série
 genre: Drama
-category: tv
 status: released
 media:
-  image: /assets/projects/images/ninho.jpg
-  video: /assets/projects/videos/ninho.mp4
+  image: "/assets/projects/images/ninho.jpg"
+  video: "/assets/projects/videos/ninho.mp4"
   trailer: https://vimeo.com/148541526
 team:
   director: Filipe Matzembacher e Marcio Reolon
   copro: Avante Filmes e Besouro Filmes
 funds:
-  - FAC 2014 / Histórias do Sul
+- FAC 2014 / Histórias do Sul
 ---
 
 Bruno está procurando por seu irmão, mas acaba encontrando uma nova família.

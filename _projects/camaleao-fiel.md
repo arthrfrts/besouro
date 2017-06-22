@@ -2,13 +2,14 @@
 lang: pt
 layout: project
 title: Camaleão Fiel
+cat:
+cat: cinema
 year: 2018
-category: cinema
 format: Filme
 genre: Drama
 status: unreleased
 media:
-  image: /assets/projects/images/camaleao.jpg
+  image: "/assets/projects/images/camaleao.jpg"
 team:
   director: Gabriel Honzik
   writer: Gabriel Honzik

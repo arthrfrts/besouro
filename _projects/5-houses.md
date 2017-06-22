@@ -6,7 +6,7 @@ o_title: 5 Casas
 year: 2018
 format: Film
 genre: Documentary
-category: cinema
+cat: cinema
 status: unreleased
 media:
   image: /assets/projects/images/casas.jpg

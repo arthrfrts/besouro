@@ -1,13 +1,15 @@
 ---
-layout: project
+lang: pt
 title: O Vazio Além da Janela
+cat:
+cat: cinema
+layout: project
 year: 2007
 format: Curta
 genre: Drama
-category: cinema
 status: released
 media:
-  image: /assets/projects/images/alemjanela.jpg
+  image: "/assets/projects/images/alemjanela.jpg"
   trailer: https://vimeo.com/38340401
 team:
   director: Bruno Polidoro
@@ -15,4 +17,4 @@ team:
 funds: Fundoprocultura de Caxias do Sul
 ---
 
-O fim de um relacionamento através de uma câmera fotográfica. 
+O fim de um relacionamento através de uma câmera fotográfica.

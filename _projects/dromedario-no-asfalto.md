@@ -1,18 +1,20 @@
 ---
-layout: project
+lang: pt
 title: Dromedário no Asfalto
+cat:
+cat: cinema
+layout: project
 year: 2014
 status: released
 format: Filme
 genre: Drama
-category: cinema
 team:
   director: Gilson Vargas
   writer: Gilson Vargas
   copro: Pata Negra, Besouro Filmes, BoomBoom, Ponto Cego
 media:
   trailer: https://vimeo.com/131981924
-  image: /assets/projects/images/dromedario.jpg
+  image: "/assets/projects/images/dromedario.jpg"
 ---
 
 Pedro anda e sente; caminha e cruza a fronteira entre países irmãos, Brasil e Uruguai. Segue em busca de um homem que, assim como ele, vive recluso em suas próprias divagações: seu pai.

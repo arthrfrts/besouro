@@ -1,26 +1,28 @@
-# Site settings
+---
 title: Besouro Filmes
-lang: pt
-description: >
-  Produtora de filmes e TV em Porto Alegre, Brasil.
+timezone: America/Sao_Paulo
+collections:
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projetos/:name"
+  uploads:
+    title: Uploads
+    output: true
+    permalink: "/assets/:name"
+description: 'Produtora de filmes e TV em Porto Alegre, Brasil.'
 
 contact:
   email: besourofilmes@besourofilmes.com
   facebook: besourofilmes
   vimeo: besourofilmes
 
-collections:
-  projects:
-    output: true
-    permalink: /projetos/:name
-
-# Build settings
-baseurl: ""
-url: "http://besourofilmes.com"
+baseurl: ''
+url: http://besourofilmes.com
 permalink: pretty
 markdown: kramdown
 gems:
-  - jekyll-sitemap
+- jekyll-sitemap
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock

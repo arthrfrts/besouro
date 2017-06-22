@@ -1,0 +1,26 @@
+---
+lang: en
+layout: project
+title: The Rough Life of the Animals of the Sky
+o_title: A Vida Bruta dos Animais do Céu
+year: 2019
+status: unreleased
+category: cinema
+format: Filme
+genre: Drama
+team:
+  director: Guilherme Zanella e Tyrell Spencer
+  writer: Guilherme Zanella
+  copro: Besouro Filmes e Galo de Briga Produções
+media:
+  image: /assets/projects/images/vidabruta.jpg
+---
+
+About to turn 11 years old, Hugo travels to the seaside with the expectation of meeting his father for the first time. While dealing with his own feelings and questioning issues such as family and abandonment, the boy completes the paternal absence with stories he creates for himself.
+
+Hugo spends his days at his family's beach house with Rafaella, his depressive mother; Gabriela, his pregnant aunt; Michele, his aunt's husband and Elena, his mother's lonely friend. At the same time that he learns the different tensions between his relatives, he finds in Ágatha, the neighbor's adventurous daughter, a refuge for his imagination. With Ágatha, his mission is to take care of the eggs they find in the backyard and prevent them from being abandoned.
+
+---
+
+## Labs, mercados e eventos
+* VI **Laboratório Novas Histórias**

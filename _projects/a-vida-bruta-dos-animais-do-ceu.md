@@ -2,9 +2,10 @@
 lang: pt
 layout: project
 title: A Vida Bruta dos Animais do Céu
+cat:
+cat: cinema
 year: 2019
 status: unreleased
-category: cinema
 format: Filme
 genre: Drama
 team:
@@ -12,7 +13,7 @@ team:
   writer: Guilherme Zanella
   copro: Besouro Filmes e Galo de Briga Produções
 media:
-  image: /assets/projects/images/vidabruta.jpg
+  image: "/assets/projects/images/vidabruta.jpg"
 ---
 
 Prestes a completar 11 anos de idade, Hugo segue viagem para o litoral gaúcho com a promessa de conhecer o seu pai pela primeira vez. Enquanto lida com os seus próprios sentimentos e questiona questões como família e abandono, o garoto completa a ausência paterna com fábulas que ele cria para si.
