@@ -1,13 +1,14 @@
 ---
-layout: project
 title: Aos Pés
+categories:
+- cinema
+layout: project
 year: 2009
 format: Curta
 genre: Drama
-category: cinema
 status: released
 media:
-  image: /assets/projects/images/aos-pes.jpg
+  image: "/assets/projects/images/aos-pes.jpg"
 team:
   director: Zeca Brito
 ---

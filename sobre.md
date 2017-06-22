@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Quem somos
+layout: page
 ---
 
 {% include figure.html src="/assets/images/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}

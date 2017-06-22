@@ -1,13 +1,14 @@
 ---
-layout: project
 title: Sopa de Asfalto
+categories:
+- tv
+layout: project
 year: 2012
 format: Curta
 genre: Drama
-category: tv
 status: released
 media:
-  image: /assets/projects/images/asfalto.jpg
+  image: "/assets/projects/images/asfalto.jpg"
 team:
   director: Luis Mário Fontoura
   copro: Besouro Filmes e RBS TV

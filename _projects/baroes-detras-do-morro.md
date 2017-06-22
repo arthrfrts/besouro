@@ -1,9 +1,10 @@
 ---
-layout: project
 title: Barões detrás do morro
+categories:
+- cinema
+layout: project
 year: 2018
 status: unreleased
-category: cinema
 format: Filme
 genre: Drama
 team:
@@ -11,9 +12,9 @@ team:
   writer: Germano de Oliveira e Marcela Bordin
   copro: Avante Filmes, Besouro Filmes e Casa de Cinema de Porto Alegre
 media:
-  image: /assets/projects/images/baroes.jpg
+  image: "/assets/projects/images/baroes.jpg"
 funds:
-  - Edital Plataforma FUMPROARTE 2016
+- Edital Plataforma FUMPROARTE 2016
 ---
 
 No ano de 1820, o explorador e naturalista francês Auguste de Saint Hilaire viaja junto de seu assistente Julien pelo extremo sul do Brasil, enquanto pesquisa a fauna e flora locais, e relata de forma poética seus entediantes dias passados em meio à natureza dos trópicos. Duzentos anos depois, no terreno onde o explorador plantou a semente de uma árvore sagrada, vive Bertha, uma senhora de 70 anos, em uma isolada comunidade alemã.

@@ -1,13 +1,14 @@
 ---
-layout: project
 title: Matar um Dragão na Capadócia
+categories:
+- cinema
+layout: project
 status: unreleased
 year: 2019
 format: Filme
 genre: Drama
-category: cinema
 media:
-  image: /assets/projects/images/dragao.jpg
+  image: "/assets/projects/images/dragao.jpg"
 team:
   director: Larissa Figueiredo
   writer: Larissa Figueiredo
