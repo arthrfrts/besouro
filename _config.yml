@@ -16,7 +16,7 @@ collections:
 
 # Build settings
 baseurl: ""
-url: "https://arthr.me/besouro"
+url: "http://besourofilmes.com"
 permalink: pretty
 markdown: kramdown
 gems:
