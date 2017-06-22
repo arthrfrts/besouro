@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: O Homem que Conserta Estrelas
-cat:
+lang: pt
 cat: tv
 layout: project
 year: 2013

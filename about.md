@@ -1,8 +1,8 @@
 ---
+title: About Us
+permalink: "/en/about/"
 lang: en
 layout: page
-title: About Us
-permalink: /en/about/
 ---
 
 {% include figure.html src="/assets/images/equipe.jpg" alt="The people behind Besouro Filmes" class="full-width" %}

@@ -1,21 +1,22 @@
 ---
+title: A Trim and a Rhythm
+categories:
+- cinema
 lang: en
 layout: project
-title: A Trim and a Rhythm
 o_title: Fez a Barba e o Choro
 year: 2011
 status: released
-category: cinema
 format: Short
 genre: Documentary
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes and BUMKER Studio
 media:
-  image: /assets/projects/images/barba.png
+  image: "/assets/projects/images/barba.png"
   trailer: https://vimeo.com/89429107
 funds:
-  - Edital FUMPROARTE
+- Edital FUMPROARTE
 ---
 
 At a sidewalk barbershop in Porto Alegre we found Mr. Machado, Professor Menoti, Soninha, Cássio, Camanga and Camanguinha. Between hairs and 40 years of friendship, the group meets friends and close the barbershop with a Chorinho jam at saturday nights.

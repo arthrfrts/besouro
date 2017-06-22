@@ -1,15 +1,16 @@
 ---
+title: The Man Who Repairs Stars
+categories:
+- tv
 lang: en
 layout: project
-title: The Man Who Repairs Stars
 o_title: O Homem que Conserta Estrelas
 year: 2013
 format: Short
 genre: Documentary
-category: tv
 status: released
 media:
-  image: /assets/projects/images/estrelas.jpg
+  image: "/assets/projects/images/estrelas.jpg"
   trailer: https://vimeo.com/96107699
 team:
   director: Denise Marchi

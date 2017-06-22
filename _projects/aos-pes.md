@@ -1,8 +1,7 @@
 ---
+title: Aos Pés
 lang: pt
 layout: project
-title: Aos Pés
-cat:
 cat: cinema
 year: 2009
 format: Curta

@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Matar um Dragão na Capadócia
-cat:
+lang: pt
 cat: cinema
 layout: project
 status: unreleased

@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: GarotoNeon
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2018

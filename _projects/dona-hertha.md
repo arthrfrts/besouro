@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Dona Hertha
-cat:
+lang: pt
 cat: tv
 layout: project
 year: 2012

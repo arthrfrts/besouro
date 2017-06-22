@@ -1,15 +1,16 @@
 ---
+title: Blank Page
+categories:
+- tv
 lang: en
 layout: project
-title: Blank Page
 o_title: Folha em Branco
 year: 2011
 format: Short
 genre: Drama
-category: tv
 status: released
 media:
-  image: /assets/projects/images/folha.jpg
+  image: "/assets/projects/images/folha.jpg"
   trailer: https://vimeo.com/47054299
 team:
   director: Iuli Gerbase

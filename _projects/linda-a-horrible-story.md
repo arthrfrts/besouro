@@ -1,15 +1,16 @@
 ---
+title: Linda, a horrible story
+categories:
+- cinema
 lang: en
 layout: project
-title: Linda, a horrible story
 o_title: Linda, uma história horrível
 year: 2013
 format: Short
 genre: Drama
-category: cinema
 status: released
 media:
-  image: /assets/projects/images/linda.jpg
+  image: "/assets/projects/images/linda.jpg"
 team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 for Short Film

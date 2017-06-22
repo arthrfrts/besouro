@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Mateína
-cat:
+lang: pt
 cat: cinema
 layout: project
 status: unreleased

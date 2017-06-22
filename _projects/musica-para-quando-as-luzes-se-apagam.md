@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Música para quando as luzes se apagam
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2017

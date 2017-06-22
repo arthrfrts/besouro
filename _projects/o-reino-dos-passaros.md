@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: O Reino dos Pássaros
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2020

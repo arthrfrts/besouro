@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Folha em Branco
-cat:
+lang: pt
 cat: tv
 layout: project
 year: 2011

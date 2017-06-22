@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Sopa de Asfalto
-cat:
+lang: pt
 cat: tv
 layout: project
 year: 2012

@@ -1,8 +1,7 @@
 ---
+title: Afinal, quem é Deus?
 lang: pt
 layout: project
-title: Afinal, quem é Deus?
-cat:
 cat: tv
 year: 2018
 status: unreleased

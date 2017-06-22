@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Vida Como Rizoma
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2015

@@ -1,15 +1,16 @@
 ---
+title: To kill a dragon in Cappadocia
+categories:
+- cinema
 lang: en
 layout: project
-title: To kill a dragon in Cappadocia
 o_title: Matar um Dragão na Capadócia
 status: unreleased
 year: 2019
 format: Filme
 genre: Drama
-category: cinema
 media:
-  image: /assets/projects/images/dragao.jpg
+  image: "/assets/projects/images/dragao.jpg"
 team:
   director: Larissa Figueiredo
   writer: Larissa Figueiredo

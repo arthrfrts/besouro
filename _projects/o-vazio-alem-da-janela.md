@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: O Vazio Além da Janela
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2007

@@ -1,8 +1,7 @@
 ---
+title: Banalidade do Mal
 lang: pt
 layout: project
-title: Banalidade do Mal
-cat:
 cat: tv
 year: 2018
 format: Série

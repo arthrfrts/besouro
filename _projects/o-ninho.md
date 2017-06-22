@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: O Ninho
-cat:
+lang: pt
 cat: tv
 layout: project
 year: 2015

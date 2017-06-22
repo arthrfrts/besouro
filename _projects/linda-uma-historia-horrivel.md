@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Linda, uma história horrível
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2013

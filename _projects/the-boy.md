@@ -1,15 +1,16 @@
 ---
+title: The Boy
+categories:
+- cinema
 lang: en
 layout: project
-title: The Boy
 o_title: O Guri
 year: 2009
 format: Filme
 genre: Drama
-category: cinema
 status: released
 media:
-  image: /assets/projects/images/guri.jpg
+  image: "/assets/projects/images/guri.jpg"
 team:
   director: Zeca Brito
   copro: Avalanche, Coletivo Inconsciente, Delicatessen Filmes and Besouro Filmes

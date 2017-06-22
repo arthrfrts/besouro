@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Portuñol
-cat:
+lang: pt
 cat: cinema
 layout: project
 format: Filme

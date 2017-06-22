@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Meu Corpo, Minha História
-cat:
+lang: pt
 cat: cinema
 layout: project
 status: unreleased

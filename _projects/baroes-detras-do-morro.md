@@ -1,8 +1,7 @@
 ---
+title: Barões detrás do morro
 lang: pt
 layout: project
-title: Barões detrás do morro
-cat:
 cat: cinema
 year: 2018
 status: unreleased

@@ -1,8 +1,7 @@
 ---
+title: Camaleão Fiel
 lang: pt
 layout: project
-title: Camaleão Fiel
-cat:
 cat: cinema
 year: 2018
 format: Filme

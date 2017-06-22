@@ -1,15 +1,16 @@
 ---
+title: The Last Picture
+categories:
+- cinema
 lang: en
 layout: project
-title: The Last Picture
 o_title: A Última Foto
 year: 2014
 format: Short
 genre: Drama
-category: cinema
 status: released
 media:
-  image: /assets/projects/images/ultima-foto.jpg
+  image: "/assets/projects/images/ultima-foto.jpg"
 team:
   director: Thais Fernandes
   writer: Thais Fernandes

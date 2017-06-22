@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: Ceraunofobia
-cat:
+lang: pt
 cat: tv
 layout: project
 year: 2014

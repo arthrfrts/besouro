@@ -1,8 +1,7 @@
 ---
+title: A Vida Bruta dos Animais do Céu
 lang: pt
 layout: project
-title: A Vida Bruta dos Animais do Céu
-cat:
 cat: cinema
 year: 2019
 status: unreleased

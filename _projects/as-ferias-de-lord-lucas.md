@@ -1,8 +1,7 @@
 ---
+title: As Férias de Lord Lucas
 lang: pt
 layout: project
-title: As Férias de Lord Lucas
-cat:
 cat: tv
 year: 2008
 format: Curta

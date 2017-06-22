@@ -1,7 +1,6 @@
 ---
-lang: pt
 title: O Último Poema
-cat:
+lang: pt
 cat: cinema
 layout: project
 year: 2015

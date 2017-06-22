@@ -1,7 +1,7 @@
 ---
+title: A Última Foto
 lang: pt
 layout: project
-title: A Última Foto
 cat: cinema
 year: 2014
 format: Curta
