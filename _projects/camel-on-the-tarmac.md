@@ -1,25 +1,5 @@
 ---
-title: Camel on the Tarmac
-categories:
-- cinema
-lang: en
-layout: project
-o_title: Dromedário no Asfalto
-year: 2014
-status: released
-format: Film
-genre: Drama
-<<<<<<< Updated upstream
-=======
-cat: cinema
->>>>>>> Stashed changes
-team:
-  director: Gilson Vargas
-  writer: Gilson Vargas
-  copro: Pata Negra, Besouro Filmes, BoomBoom and Ponto Cego
-media:
-  trailer: https://vimeo.com/131981924
-  image: "/assets/projects/images/dromedario.jpg"
+title: Camel On The Tarmac
 ---
 
 Peter walks and feels; walks and crosses the border between Brazil and Uruguay. He goes in search of a man who, like him, lives in his own ramblings: his father.

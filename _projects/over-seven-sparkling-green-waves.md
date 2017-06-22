@@ -1,25 +1,5 @@
 ---
 title: Over Seven Sparkling Green Waves
-categories:
-- cinema
-lang: en
-layout: project
-o_title: Sobre sete ondas verdes espumantes
-year: 2013
-status: released
-<<<<<<< Updated upstream
-=======
-cat: cinema
->>>>>>> Stashed changes
-genre: Documentary
-format: Film
-team:
-  director: Bruno Polidoro and Cacá Nazario
-media:
-  image: "/assets/projects/images/seteondas.jpg"
-  trailer: https://vimeo.com/87435846
-funds:
-- Edital FUMPROARTE
 ---
 
 A poetic roadmovie built through the life and work of brazillian writer Caio Fernando Abreu.

@@ -1,24 +1,5 @@
 ---
-title: Lord Lucas’ Vacations
-categories:
-- tv
-lang: en
-layout: project
-o_title: As Férias de Lord Lucas
-year: 2008
-format: Short
-genre: Comedy
-<<<<<<< Updated upstream
-=======
-cat: tv
->>>>>>> Stashed changes
-status: released
-team:
-  director: Tatiana Nequete
-  copro: Besouro Filmes and RBS TV
-media:
-  trailer: https://vimeo.com/95580981
-  image: "/assets/projects/images/lucas.jpg"
+title: Lord Lucas Vacations
 ---
 
 During a summer vacation, eight year old Lucas notices some weird changes on his older sister's behaviour. He starts to believe that she has become a vampire and blames Vitor her boyfriend for these. He then pursues a course of action intended to free his sister from this 'curse'.

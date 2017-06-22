@@ -1,26 +1,5 @@
 ---
-title: Life as a Rhizome
-categories:
-- cinema
-lang: en
-layout: project
-o_title: Vida Como Rizoma
-year: 2015
-format: Short
-genre: Documentary
-<<<<<<< Updated upstream
-=======
-cat: cinema
->>>>>>> Stashed changes
-status: released
-media:
-  image: "/assets/projects/images/rizoma.jpg"
-  trailer: https://vimeo.com/133766113
-team:
-  director: Lisi Kieling
-  copro: Cabana Filmes and Besouro Filmes
-funds:
-- Edital MINC 2013/2014 / Shorts
+title: Life As Rhizome
 ---
 
 Principal flute of the Porto Alegre Symphony Orchestra, the 30 years old musician Klaus Volkmann is the purest expression of someone connected with a simple and sustainable way of life, transportation and direct contact with the city and the nature. A way of thinking that led him to face existence as something potentially capable of branching out in any direction.

@@ -1,25 +1,5 @@
 ---
-title: The Void Beyond the Window
-categories:
-- cinema
-lang: en
-layout: project
-o_title: O Vazio Além da Janela
-year: 2007
-format: Curta
-genre: Drama
-<<<<<<< Updated upstream
-=======
-cat: cinema
->>>>>>> Stashed changes
-status: released
-media:
-  image: "/assets/projects/images/alemjanela.jpg"
-  trailer: https://vimeo.com/38340401
-team:
-  director: Bruno Polidoro
-  writer: Bruno Polidoro
-funds: Fundoprocultura de Caxias do Sul
+title: The Void Beyond The Window
 ---
 
 The end of a relationship through a camera.
