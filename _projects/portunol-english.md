@@ -1,8 +1,7 @@
 ---
-title: Portunol English
+title: Portuñol
 lang: en
 layout: project
-title: Portuñol
 cat: cinema
 format: Filme
 genre: Documentário
