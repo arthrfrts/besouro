@@ -3,7 +3,7 @@ title: Quem somos
 lang: pt
 layout: page
 media:
-  image: /assets/media/equipe.jpg
+  image: "/assets/media/equipe.jpg"
 ---
 
 {% include figure.html src="/assets/media/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}
