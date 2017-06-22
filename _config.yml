@@ -2,23 +2,11 @@
 title: Besouro Filmes
 timezone: America/Sao_Paulo
 collections:
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
     output: true
     permalink: "/projetos/:name"
-    media:
-      image: "/assets/projects/images/"
-      video: "/assets/projects/videos/"
-      trailer: 
-    team:
-      director: 
-      writer: 
-      copro: 
-    funds:
-    - 
+    layout: project
   uploads:
     title: Uploads
     output: true
@@ -28,7 +16,7 @@ contact:
   email: besourofilmes@besourofilmes.com
   facebook: besourofilmes
   vimeo: besourofilmes
-baseurl: 
+baseurl:
 url: http://besourofilmes.com
 permalink: pretty
 markdown: kramdown
