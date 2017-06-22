@@ -4,6 +4,11 @@ categories:
 - cinema
 lang: en
 layout: project
+<<<<<<< Updated upstream
+=======
+title: Portuñol
+cat: cinema
+>>>>>>> Stashed changes
 format: Filme
 genre: Documentário
 year: 2018

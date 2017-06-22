@@ -8,6 +8,10 @@ o_title: Dona Hertha
 year: 2012
 format: Curta
 genre: Documentário
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/hertha.jpg"

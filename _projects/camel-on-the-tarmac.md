@@ -9,6 +9,10 @@ year: 2014
 status: released
 format: Film
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

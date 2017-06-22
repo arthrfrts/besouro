@@ -7,6 +7,10 @@ layout: project
 year: 2014
 format: Série
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/ocidentes.jpg"

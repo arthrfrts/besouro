@@ -8,6 +8,10 @@ o_title: Sopa de Asfalto
 year: 2012
 format: Curta
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/asfalto.jpg"

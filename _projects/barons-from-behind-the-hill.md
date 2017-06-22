@@ -7,6 +7,10 @@ layout: project
 o_title: Barões detrás do morro
 year: 2018
 status: unreleased
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 format: Filme
 genre: Drama
 team:

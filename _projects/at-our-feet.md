@@ -8,6 +8,10 @@ o_title: Aos Pés
 year: 2009
 format: Curta
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/aos-pes.jpg"

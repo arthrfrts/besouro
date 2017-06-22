@@ -6,6 +6,10 @@ lang: en
 layout: project
 o_title: Camaleão Fiel
 year: 2018
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 format: Film
 genre: Drama
 status: unreleased

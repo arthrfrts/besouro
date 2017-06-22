@@ -8,6 +8,10 @@ o_title: Linda, uma história horrível
 year: 2013
 format: Short
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/linda.jpg"

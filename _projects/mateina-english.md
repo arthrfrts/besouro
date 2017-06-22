@@ -6,6 +6,10 @@ lang: en
 layout: project
 status: unreleased
 year: 2019
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 genre: Comédia
 format: Filme
 team:

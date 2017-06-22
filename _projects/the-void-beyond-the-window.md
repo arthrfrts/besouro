@@ -8,6 +8,10 @@ o_title: O Vazio Além da Janela
 year: 2007
 format: Curta
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/alemjanela.jpg"

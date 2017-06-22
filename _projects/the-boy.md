@@ -8,6 +8,10 @@ o_title: O Guri
 year: 2009
 format: Filme
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/guri.jpg"

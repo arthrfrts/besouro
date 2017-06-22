@@ -8,6 +8,10 @@ o_title: Vida Como Rizoma
 year: 2015
 format: Short
 genre: Documentary
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/rizoma.jpg"

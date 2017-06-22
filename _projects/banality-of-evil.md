@@ -8,6 +8,10 @@ o_title: Banalidade do Mal
 year: 2018
 format: Série
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: unreleased
 media:
   image: "/assets/projects/images/banalidade.png"

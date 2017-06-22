@@ -8,6 +8,10 @@ o_title: Música para quando as luzes se apagam
 year: 2017
 format: Film
 genre: Documentary
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/mpqla.jpg"

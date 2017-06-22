@@ -18,6 +18,7 @@ layout: scaffolding
     {% if project.media.video %}
     <video autoplay loop muted playsinline poster="{{ project.media.image | relative_url }}">
       <source src="{{ project.media.video | relative_url }}" type="video/mp4" />
+      <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
     </video>
     {% else %}
     <a href="{{ project.url | relative_url }}">

@@ -8,6 +8,10 @@ o_title: A Última Foto
 year: 2014
 format: Short
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/ultima-foto.jpg"

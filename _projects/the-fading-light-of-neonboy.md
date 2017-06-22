@@ -8,6 +8,10 @@ o_title: GarotoNeon
 year: 2018
 format: Filme
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 status: unreleased
 media:
   image: "/assets/projects/images/neon.jpg"

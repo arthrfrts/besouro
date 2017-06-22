@@ -9,6 +9,10 @@ status: unreleased
 year: 2019
 format: Filme
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 media:
   image: "/assets/projects/images/dragao.jpg"
 team:

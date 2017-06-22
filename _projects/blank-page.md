@@ -8,6 +8,10 @@ o_title: Folha em Branco
 year: 2011
 format: Short
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/folha.jpg"

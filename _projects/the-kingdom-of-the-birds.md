@@ -9,6 +9,10 @@ year: 2020
 status: unreleased
 format: Filme
 genre: Animação
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

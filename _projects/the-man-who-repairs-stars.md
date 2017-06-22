@@ -8,6 +8,10 @@ o_title: O Homem que Conserta Estrelas
 year: 2013
 format: Short
 genre: Documentary
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/estrelas.jpg"

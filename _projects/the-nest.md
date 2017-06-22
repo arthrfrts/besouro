@@ -8,6 +8,10 @@ o_title: O Ninho
 year: 2015
 format: TV Series
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/ninho.jpg"

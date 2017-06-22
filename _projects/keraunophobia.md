@@ -8,6 +8,10 @@ o_title: Ceraunofobia
 year: 2014
 format: Curta
 genre: Drama
+<<<<<<< Updated upstream
+=======
+cat: tv
+>>>>>>> Stashed changes
 status: released
 media:
   image: "/assets/projects/images/ceraunofobia.jpg"

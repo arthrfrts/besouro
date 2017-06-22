@@ -7,6 +7,10 @@ layout: project
 o_title: Sobre sete ondas verdes espumantes
 year: 2013
 status: released
+<<<<<<< Updated upstream
+=======
+cat: cinema
+>>>>>>> Stashed changes
 genre: Documentary
 format: Film
 team:
