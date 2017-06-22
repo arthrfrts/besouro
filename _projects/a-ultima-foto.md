@@ -7,7 +7,7 @@ genre: Drama
 category: cinema
 status: released
 media:
-  image: /assets/projects/images/ultima-foto.png
+  image: /assets/projects/images/ultima-foto.jpg
 team:
   director: Thais Fernandes
   writer: Thais Fernandes
