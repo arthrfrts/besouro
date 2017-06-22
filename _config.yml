@@ -9,6 +9,16 @@ collections:
     title: Projects
     output: true
     permalink: "/projetos/:name"
+    media:
+      image: "/assets/projects/images/"
+      video: "/assets/projects/videos/"
+      trailer: 
+    team:
+      director: 
+      writer: 
+      copro: 
+    funds:
+    - 
   uploads:
     title: Uploads
     output: true
