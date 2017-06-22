@@ -2,14 +2,14 @@
 layout: scaffolding
 ---
 {% if page.category and page.status %}
-{% assign projects = site.projects | sort: 'year' | reverse | where: 'category', page.category | where: 'status', page.status  %}
+{% assign projects = site.projects | sort: 'year' | reverse | where: 'category', page.category | where: 'status', page.status | where: 'lang', page.lang  %}
 {% else if page.status %}
-{% assign projects = site.projects | sort: 'year' | where: 'status', page.status  %}
+{% assign projects = site.projects | sort: 'year' | where: 'status', page.status | where: 'lang', page.lang  %}
 {% else if page.category %}
-{% assign projects = site.projects | sort: 'year' | reverse | where: 'category', page.category  %}
+{% assign projects = site.projects | sort: 'year' | reverse | where: 'category', page.category | where: 'lang', page.lang  %}
 {% endif %}
 {% unless page.category or page.status %}
-{% assign projects = site.projects | sort: 'year' | reverse %}
+{% assign projects = site.projects | sort: 'year' | where: 'lang', page.lang | reverse %}
 {% endunless %}
 
 {% for project in projects limit:1 %}

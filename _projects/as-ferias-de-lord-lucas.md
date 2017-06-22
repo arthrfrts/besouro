@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: project
 title: As Férias de Lord Lucas
 year: 2008

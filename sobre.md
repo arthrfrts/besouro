@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: page
 title: Quem somos
 ---

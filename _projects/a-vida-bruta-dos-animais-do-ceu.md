@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: project
 title: A Vida Bruta dos Animais do Céu
 year: 2019

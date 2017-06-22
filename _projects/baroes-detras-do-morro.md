@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: project
 title: Barões detrás do morro
 year: 2018

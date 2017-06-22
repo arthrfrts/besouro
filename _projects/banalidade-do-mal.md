@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: project
 title: Banalidade do Mal
 year: 2018

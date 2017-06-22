@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: project
 title: A Última Foto
 year: 2014

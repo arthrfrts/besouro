@@ -1,4 +1,5 @@
 ---
+lang: pt
 layout: project
 title: Afinal, quem é Deus?
 year: 2018
