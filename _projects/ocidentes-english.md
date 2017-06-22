@@ -1,17 +1,17 @@
 ---
-title: Ocidentes English
+title: Ocidentes
 lang: en
 layout: project
 year: 2014
-format: Série
+format: Series
 genre: Drama
 cat: tv
 status: released
 media:
   image: "/assets/projects/images/ocidentes.jpg"
 team:
-  copro: Besouro Filmes e Rainer Cine
-  director: Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz
+  copro: Besouro Filmes and Rainer Cine
+  director: Bruno Polidoro, Carlos Gerbase, Fabiano de Souza and João Gabriel de Queiroz
 funds:
 - FAC 2013 / Histórias do Sul
 ---

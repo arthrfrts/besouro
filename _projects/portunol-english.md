@@ -3,8 +3,8 @@ title: Portuñol
 lang: en
 layout: project
 cat: cinema
-format: Filme
-genre: Documentário
+format: Film
+genre: Documentary
 year: 2018
 status: unreleased
 media:
