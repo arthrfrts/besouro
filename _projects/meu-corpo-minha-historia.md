@@ -8,7 +8,7 @@ year: 2018
 genre: Documentário
 format: Curta
 media:
-  image: "https://cldup.com/1KmR_PuEJ6.jpg"
+  image: https://cldup.com/1KmR_PuEJ6.jpg
 team:
   director: Thais Fernandes
   copro: Besouro Filmes e Cena Expandida

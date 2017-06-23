@@ -8,7 +8,7 @@ format: Curta
 genre: Documentário
 status: released
 media:
-  image: "https://cldup.com/Z6KAcvtPdd.jpg"
+  image: https://cldup.com/Z6KAcvtPdd.jpg
   trailer: https://vimeo.com/133766113
 team:
   director: Lisi Kieling

@@ -8,7 +8,7 @@ format: Série
 genre: Drama
 status: released
 media:
-  image: "https://cldup.com/H5bs4S9lPQ.jpg"
+  image: https://cldup.com/H5bs4S9lPQ.jpg
 team:
   copro: Besouro Filmes e Rainer Cine
   director: Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz

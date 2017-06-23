@@ -9,7 +9,7 @@ genre: Drama
 cat: tv
 status: released
 media:
-  image: "https://cldup.com/YSBNgUV27t.jpg"
+  image: https://cldup.com/YSBNgUV27t.jpg
 team:
   director: Luis Mário Fontoura
   copro: Besouro Filmes and RBS TV

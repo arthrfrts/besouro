@@ -8,7 +8,7 @@ format: Curta
 genre: Documentário
 status: released
 media:
-  image: "https://cldup.com/6e1VyKpuG3.jpg"
+  image: https://cldup.com/6e1VyKpuG3.jpg
   trailer: https://vimeo.com/96510340
 team:
   director: Luis Mário Fontoura

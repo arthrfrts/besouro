@@ -9,7 +9,7 @@ genre: Drama
 cat: tv
 status: unreleased
 media:
-  image: "https://cldup.com/OE24EX-YV2.png"
+  image: https://cldup.com/OE24EX-YV2.png
 team:
   director: Fabio Canale
   copro: Galo de Briga Produções and Besouro Filmes

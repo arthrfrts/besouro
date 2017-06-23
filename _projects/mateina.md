@@ -11,7 +11,7 @@ team:
   director: Joaquín Peñagaricano e Pablo Abdala
   copro: Besouro Filmes, Jengibre Producciones e Coelho Voador
 media:
-  image: "https://cldup.com/6j8ZV-IdYm.jpg"
+  image: https://cldup.com/6j8ZV-IdYm.jpg
 funds:
 - Edital ANCINE/ICAU 2016
 - ICAU Fundo de desenvolvimento

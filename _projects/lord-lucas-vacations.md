@@ -13,7 +13,7 @@ team:
   copro: Besouro Filmes and RBS TV
 media:
   trailer: https://vimeo.com/95580981
-  image: "https://cldup.com/oY_Ct_CwJM.jpg"
+  image: https://cldup.com/oY_Ct_CwJM.jpg
 ---
 
 During a summer vacation, eight year old Lucas notices some weird changes on his older sister's behaviour. He starts to believe that she has become a vampire and blames Vitor her boyfriend for these. He then pursues a course of action intended to free his sister from this 'curse'.

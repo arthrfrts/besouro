@@ -8,7 +8,7 @@ format: Curta
 genre: Documentário
 status: released
 media:
-  image: "https://cldup.com/C1k1-Z43LH.jpg"
+  image: https://cldup.com/C1k1-Z43LH.jpg
   trailer: https://vimeo.com/96107699
 team:
   director: Denise Marchi

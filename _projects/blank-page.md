@@ -9,7 +9,7 @@ genre: Drama
 cat: tv
 status: released
 media:
-  image: "https://cldup.com/khtUSEh1BQ.jpg"
+  image: https://cldup.com/khtUSEh1BQ.jpg
   trailer: https://vimeo.com/47054299
 team:
   director: Iuli Gerbase

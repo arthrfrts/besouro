@@ -8,7 +8,7 @@ format: Curta
 genre: Drama
 status: released
 media:
-  image: "https://cldup.com/RL29539hoc.jpg"
+  image: https://cldup.com/RL29539hoc.jpg
 team:
   director: Thais Fernandes
   writer: Thais Fernandes

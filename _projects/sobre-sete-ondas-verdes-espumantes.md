@@ -10,7 +10,7 @@ format: Filme
 team:
   director: Bruno Polidoro e Cacá Nazario
 media:
-  image: "https://cldup.com/PqW6r_lHAp.jpg"
+  image: https://cldup.com/PqW6r_lHAp.jpg
   trailer: https://vimeo.com/87435846
 funds:
 - Edital FUMPROARTE

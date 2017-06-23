@@ -8,7 +8,7 @@ format: Curta
 genre: Drama
 status: released
 media:
-  image: "https://cldup.com/Aly1xl0fc1.jpg"
+  image: https://cldup.com/Aly1xl0fc1.jpg
 team:
   director: Bruno Gularte Barreto
   writer: Bruno Gularte Barreto

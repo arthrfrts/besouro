@@ -8,7 +8,7 @@ format: Filme
 genre: Drama
 status: unreleased
 media:
-  image: "https://cldup.com/gO6P3cMbBt.jpg"
+  image: https://cldup.com/gO6P3cMbBt.jpg
 team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon

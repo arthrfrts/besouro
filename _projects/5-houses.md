@@ -9,8 +9,8 @@ genre: Documentary
 cat: cinema
 status: unreleased
 media:
-  image: "https://cldup.com/IXkTUprQ0q.jpg"
-  video: "https://cldup.com/81RqM3XrXW.mp4"
+  image: https://cldup.com/IXkTUprQ0q.jpg
+  video: https://cldup.com/81RqM3XrXW.mp4
 team:
   director: Bruno Gularte Barreto
   writer: Bruno Gularte Barreto

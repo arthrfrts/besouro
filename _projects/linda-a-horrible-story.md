@@ -9,7 +9,7 @@ genre: Drama
 cat: cinema
 status: released
 media:
-  image: "https://cldup.com/iNLY5rnBsZ.jpg"
+  image: https://cldup.com/iNLY5rnBsZ.jpg
 team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 for Short Film

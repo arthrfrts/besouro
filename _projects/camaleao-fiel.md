@@ -8,7 +8,7 @@ format: Filme
 genre: Drama
 status: unreleased
 media:
-  image: "https://cldup.com/lXAtytNRxL.jpg"
+  image: https://cldup.com/lXAtytNRxL.jpg
 team:
   director: Gabriel Honzik
   writer: Gabriel Honzik

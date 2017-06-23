@@ -12,7 +12,7 @@ team:
   director: Tatiana Nequete
   copro: Besouro Filmes and BUMKER Studio
 media:
-  image: "https://cldup.com/-9bhQbtYvJ.png"
+  image: https://cldup.com/-9bhQbtYvJ.png
   trailer: https://vimeo.com/89429107
 funds:
 - Edital FUMPROARTE

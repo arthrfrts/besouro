@@ -8,8 +8,8 @@ format: Filme
 genre: Documentário
 status: released
 media:
-  image: "https://cldup.com/XRe0KC9gTO.jpg"
-  video: "https://cldup.com/rqeRbOXok2.mp4"
+  image: https://cldup.com/XRe0KC9gTO.jpg
+  video: https://cldup.com/rqeRbOXok2.mp4
 team:
   director: Ismael Caneppele
   writer: Ismael Caneppele

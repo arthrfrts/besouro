@@ -9,7 +9,7 @@ genre: Drama
 cat: cinema
 status: released
 media:
-  image: "https://cldup.com/_paB3GGfpF.jpg"
+  image: https://cldup.com/_paB3GGfpF.jpg
 team:
   director: Zeca Brito
 ---

@@ -8,7 +8,7 @@ year: 2019
 format: Filme
 genre: Drama
 media:
-  image: "https://cldup.com/SSGpf_6aZj.jpg"
+  image: https://cldup.com/SSGpf_6aZj.jpg
 team:
   director: Larissa Figueiredo
   writer: Larissa Figueiredo
