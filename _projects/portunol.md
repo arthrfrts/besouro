@@ -8,7 +8,7 @@ genre: Documentário
 year: 2018
 status: unreleased
 media:
-  image: "/assets/media/portunol.jpg"
+  image: "https://cldup.com/5Q7Tj6BILD.jpg"
 team:
   director: Thais Fernandes
   copro: Globo News, Besouro Filmes e Epifania Filmes

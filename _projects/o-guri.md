@@ -8,7 +8,7 @@ format: Filme
 genre: Drama
 status: released
 media:
-  image: "/assets/media/guri.jpg"
+  image: "https://cldup.com/VD8CVaPFMX.jpg"
 team:
   director: Zeca Brito
   copro: Avalanche, Coletivo Inconsciente, Delicatessen Filmes e Besouro Filmes

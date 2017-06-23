@@ -9,7 +9,7 @@ genre: Documentário
 cat: tv
 status: released
 media:
-  image: "/assets/media/hertha.jpg"
+  image: "https://cldup.com/6e1VyKpuG3.jpg"
   trailer: https://vimeo.com/96510340
 team:
   director: Luis Mário Fontoura

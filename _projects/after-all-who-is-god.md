@@ -10,7 +10,7 @@ genre: Documentary
 team:
   director: Thais Fernandes
 media:
-  image: "/assets/media/deus.jpg"
+  image: "https://cldup.com/PyBoPnfTy0.jpg"
 funds:
 - Edital PRODAV 12/2015
 ---

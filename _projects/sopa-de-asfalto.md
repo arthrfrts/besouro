@@ -8,7 +8,7 @@ format: Curta
 genre: Drama
 status: released
 media:
-  image: "/assets/media/asfalto.jpg"
+  image: "https://cldup.com/YSBNgUV27t.jpg"
 team:
   director: Luis Mário Fontoura
   copro: Besouro Filmes e RBS TV

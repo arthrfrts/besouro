@@ -9,7 +9,7 @@ genre: Drama
 cat: tv
 status: released
 media:
-  image: "/assets/media/asfalto.jpg"
+  image: "https://cldup.com/YSBNgUV27t.jpg"
 team:
   director: Luis Mário Fontoura
   copro: Besouro Filmes and RBS TV

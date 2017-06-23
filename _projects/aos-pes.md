@@ -8,7 +8,7 @@ format: Curta
 genre: Drama
 status: released
 media:
-  image: "/assets/media/aos-pes.jpg"
+  image: "https://cldup.com/_paB3GGfpF.jpg"
 team:
   director: Zeca Brito
 ---

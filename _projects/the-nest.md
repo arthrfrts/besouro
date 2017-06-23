@@ -9,8 +9,8 @@ genre: Drama
 cat: tv
 status: released
 media:
-  image: "/assets/media/ninho.jpg"
-  video: "/assets/media/ninho.mp4"
+  image: "https://cldup.com/MHiwPRXK_S.jpg"
+  video: "https://cldup.com/q5EqAtsDi7.mp4"
   trailer: https://vimeo.com/148541526
 team:
   director: Filipe Matzembacher and Marcio Reolon

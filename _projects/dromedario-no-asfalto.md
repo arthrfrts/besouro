@@ -13,7 +13,7 @@ team:
   copro: Pata Negra, Besouro Filmes, BoomBoom, Ponto Cego
 media:
   trailer: https://vimeo.com/131981924
-  image: "/assets/media/dromedario.jpg"
+  image: "https://cldup.com/-P1_UOYV8p.jpg"
 ---
 
 Pedro anda e sente; caminha e cruza a fronteira entre países irmãos, Brasil e Uruguai. Segue em busca de um homem que, assim como ele, vive recluso em suas próprias divagações: seu pai.

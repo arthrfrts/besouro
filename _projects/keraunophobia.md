@@ -9,7 +9,7 @@ genre: Drama
 cat: tv
 status: released
 media:
-  image: "/assets/media/ceraunofobia.jpg"
+  image: "https://cldup.com/Aly1xl0fc1.jpg"
 team:
   director: Bruno Gularte Barreto
   writer: Bruno Gularte Barreto

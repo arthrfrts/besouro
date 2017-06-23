@@ -9,7 +9,7 @@ genre: Documentary
 cat: tv
 status: released
 media:
-  image: "/assets/media/estrelas.jpg"
+  image: "https://cldup.com/C1k1-Z43LH.jpg"
   trailer: https://vimeo.com/96107699
 team:
   director: Denise Marchi

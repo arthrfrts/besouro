@@ -9,8 +9,8 @@ genre: Documentary
 cat: cinema
 status: released
 media:
-  image: "/assets/media/mpqla.jpg"
-  video: "/assets/media/mpqla.mp4"
+  image: "https://cldup.com/XRe0KC9gTO.jpg"
+  video: "https://cldup.com/rqeRbOXok2.mp4"
 team:
   director: Ismael Caneppele
   writer: Ismael Caneppele

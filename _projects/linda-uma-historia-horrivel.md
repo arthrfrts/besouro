@@ -8,7 +8,7 @@ format: Curta
 genre: Drama
 status: released
 media:
-  image: "/assets/media/linda.jpg"
+  image: "https://cldup.com/iNLY5rnBsZ.jpg"
 team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 para curta-metragem

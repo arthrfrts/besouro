@@ -13,7 +13,7 @@ team:
   writer: Guilherme Zanella
   copro: Besouro Filmes e Galo de Briga Produções
 media:
-  image: "/assets/media/vidabruta.jpg"
+  image: "https://cldup.com/jhxDN5WEr8.jpg"
 ---
 
 About to turn 11 years old, Hugo travels to the seaside with the expectation of meeting his father for the first time. While dealing with his own feelings and questioning issues such as family and abandonment, the boy completes the paternal absence with stories he creates for himself.

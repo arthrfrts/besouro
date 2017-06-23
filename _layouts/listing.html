@@ -16,19 +16,19 @@ layout: scaffolding
 {% for project in projects limit:1 %}
   <figure class="project featured">
     {% if project.media.video %}
-    <video autoplay loop muted playsinline poster="{{ project.media.image | relative_url }}">
-      <source src="{{ project.media.video | relative_url }}" type="video/mp4" />
-      <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
+    <video autoplay loop muted playsinline poster="{{ project.media.image }}">
+      <source src="{{ project.media.video }}" type="video/mp4" />
+      <img src="{{ project.media.image  }}" alt="Imagem de “{{ project.title }}”" />
     </video>
     {% else %}
     <a href="{{ project.url | relative_url }}">
-      <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
+      <img src="{{ project.media.image }}" alt="Imagem de “{{ project.title }}”" />
     </a>
     {% endif %}
     <figcaption>
       <a href="{{ project.url | relative_url }}" title="{{ project.title }}">
         <strong>{{ project.title }}</strong><br />
-        {{ project.year }} / {{ project.genre }} <abbr title="Direção">D:</abbr> {{ project.team.director }}
+        {{ project.year }} / {{ project.genre }} / <abbr title="{% if page.lang == 'en' %}Directed by{% else %}Direção{% endif %}">D:</abbr> {{ project.team.director }}
       </a>
     </figcaption>
   </figure>
@@ -39,7 +39,7 @@ layout: scaffolding
   <li>
     <figure class="project">
       <a href="{{ project.url | relative_url }}">
-        <img src="{{ project.media.image | relative_url }}" alt="Imagem de “{{ project.title }}”" />
+        <img src="{{ project.media.image }}" alt="Imagem de “{{ project.title }}”" />
       </a>
       <figcaption>
         <a href="{{ project.url | relative_url }}">
