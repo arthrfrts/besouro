@@ -21,7 +21,6 @@ Alice (Fernanda Petit) is an ordinary girl, who goes unnoticed by people and has
 ---
 
 ## Festivals
-
 * XIV **Prêmio Histórias Curtas**
   * Best Sound Design
 * **ComKids** 2015

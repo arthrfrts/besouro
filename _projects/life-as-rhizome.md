@@ -23,7 +23,6 @@ Principal flute of the Porto Alegre Symphony Orchestra, the 30 years old musicia
 ---
 
 ## Festivals
-
 * **É Tudo Verdade / It's All True Film Festival** 2016
 * XLIV **Gramado Film Festival** / Regional Shorts Competition
   * Aquisition by RBS TV
