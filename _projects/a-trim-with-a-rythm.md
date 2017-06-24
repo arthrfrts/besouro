@@ -10,7 +10,7 @@ format: Short
 genre: Documentary
 team:
   director: Tatiana Nequete
-  copro: Besouro Filmes and BUMKER Studio
+  copro: Besouro Filmes and BUNKER Studio
 media:
   image: https://cldup.com/-9bhQbtYvJ.png
   trailer: https://vimeo.com/89429107

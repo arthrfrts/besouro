@@ -9,7 +9,7 @@ format: Curta
 genre: Documentário
 team:
   director: Tatiana Nequete
-  copro: Besouro Filmes e BUMKER Studio
+  copro: Besouro Filmes e BUNKER Studio
 media:
   image: https://cldup.com/-9bhQbtYvJ.png
   trailer: https://vimeo.com/89429107

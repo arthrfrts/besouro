@@ -11,6 +11,7 @@ media:
   image: https://cldup.com/_paB3GGfpF.jpg
 team:
   director: Zeca Brito
+  copro: Avalanche, Besouro Filmes e Coletivo Inconsciente
 ---
 
 _Aos Pés_ discute a questão da arte e suas manifestações diante das estranhezas do mundo e da matéria. O amor como ridículo, subterfúgio da irremediável solidão amorosa.

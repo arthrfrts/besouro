@@ -3,10 +3,10 @@ title: Quem somos
 lang: pt
 layout: page
 media:
-  image: https://cldup.com/cf5wq55eux.jpg
+  image: "https://cldup.com/cf5wq55eux.jpg"
 ---
 
-{% include figure.html src="/assets/media/equipe.jpg" alt="Imagem do pessoal" class="full-width" %}
+{% include figure.html src="https://cldup.com/cf5wq55eux.jpg" alt="Imagem do pessoal" class="full-width" %}
 
 Trabalhamos como cúmplices de nossos diretores. Produzimos histórias universais que nos levam para um mundo diferente e emocionam. Filmes para o público.
 

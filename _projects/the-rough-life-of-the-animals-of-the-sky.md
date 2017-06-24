@@ -9,7 +9,7 @@ cat: cinema
 format: Filme
 genre: Drama
 team:
-  director: Guilherme Zanella e Tyrell Spencer
+  director: Tyrell Spencer
   writer: Guilherme Zanella
   copro: Besouro Filmes e Galo de Briga Produções
 media:
