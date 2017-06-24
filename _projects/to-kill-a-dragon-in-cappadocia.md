@@ -5,7 +5,7 @@ layout: project
 o_title: Matar um Dragão na Capadócia
 status: unreleased
 year: 2019
-format: Filme
+format: Film
 genre: Drama
 cat: cinema
 media:

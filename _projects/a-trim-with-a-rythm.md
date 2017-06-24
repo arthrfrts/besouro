@@ -23,7 +23,6 @@ At a sidewalk barbershop in Porto Alegre we found Mr. Machado, Professor Menoti,
 ---
 
 ## Festivals and awards
-
 * **Art Déco Film Festival** 2012
 * **Gramado Film Festival** 2012 / Regional Competition
   * Best Soundtrack Award

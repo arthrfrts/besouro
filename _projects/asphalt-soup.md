@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: Sopa de Asfalto
 year: 2012
-format: Curta
+format: Short
 genre: Drama
 cat: tv
 status: released

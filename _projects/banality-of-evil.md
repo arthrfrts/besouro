@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: Banalidade do Mal
 year: 2018
-format: Série
+format: TV Series
 genre: Drama
 cat: tv
 status: unreleased

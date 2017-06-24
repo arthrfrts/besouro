@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: Ceraunofobia
 year: 2014
-format: Curta
+format: Short
 genre: Drama
 cat: tv
 status: released
@@ -20,7 +20,7 @@ Alice (Fernanda Petit) is an ordinary girl, who goes unnoticed by people and has
 
 ---
 
-## Festivais
+## Festivals
 
 * XIV **Prêmio Histórias Curtas**
   * Best Sound Design

@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: O Guri
 year: 2009
-format: Filme
+format: Film
 genre: Drama
 cat: cinema
 status: released

@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: O Vazio Além da Janela
 year: 2007
-format: Curta
+format: Short
 genre: Drama
 cat: cinema
 status: released

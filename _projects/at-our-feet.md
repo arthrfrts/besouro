@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: Aos Pés
 year: 2009
-format: Curta
+format: Short
 genre: Drama
 cat: cinema
 status: released

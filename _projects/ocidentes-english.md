@@ -3,7 +3,7 @@ title: Ocidentes
 lang: en
 layout: project
 year: 2014
-format: Series
+format: TV Series
 genre: Drama
 cat: tv
 status: released

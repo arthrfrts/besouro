@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: GarotoNeon
 year: 2018
-format: Filme
+format: Film
 genre: Drama
 cat: cinema
 status: unreleased

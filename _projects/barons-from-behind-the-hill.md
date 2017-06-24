@@ -6,7 +6,7 @@ o_title: Barões detrás do morro
 year: 2018
 status: unreleased
 cat: cinema
-format: Filme
+format: Film
 genre: Drama
 team:
   director: Germano de Oliveira
@@ -24,6 +24,6 @@ In the village's big annual party, when Johann tells the story of two Barons who
 
 ---
 
-## Labs e mercados:
+## Labs, markets and events
 
 * **Olhar de Cinema** '16 / Curitiba_Lab

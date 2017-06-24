@@ -21,7 +21,7 @@ Peter walks and feels; walks and crosses the border between Brazil and Uruguay. 
 
 ---
 
-## Festivais
+## Festivals
 * **Festival Del Cine Del Mar** 2015
 * **Mostra do Filme Livre** 2015
 * VI **Semana dos Realizadores**

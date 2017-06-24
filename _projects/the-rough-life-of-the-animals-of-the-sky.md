@@ -6,12 +6,12 @@ o_title: A Vida Bruta dos Animais do Céu
 year: 2019
 status: unreleased
 cat: cinema
-format: Filme
+format: Film
 genre: Drama
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella
-  copro: Besouro Filmes e Galo de Briga Produções
+  copro: Besouro Filmes and Galo de Briga Produções
 media:
   image: https://cldup.com/jhxDN5WEr8.jpg
 ---
@@ -22,5 +22,5 @@ Hugo spends his days at his family's beach house with Rafaella, his depressive m
 
 ---
 
-## Labs, mercados e eventos
+## Labs, markets and events
 * VI **Laboratório Novas Histórias**

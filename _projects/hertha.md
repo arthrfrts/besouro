@@ -4,8 +4,8 @@ lang: en
 layout: project
 o_title: Dona Hertha
 year: 2012
-format: Curta
-genre: Documentário
+format: Short
+genre: Documentary
 cat: tv
 status: released
 media:
@@ -20,8 +20,7 @@ Hertha Spier is a Holocaust survivor that lives in Porto Alegre. Now, at the age
 
 ---
 
-## Festivais
-
+## Festivals
 * XII **Prêmio Histórias Curtas**
   * Best Film / Audience Award
 * **ArtDéco Festival** 2012
