@@ -3,7 +3,7 @@ title: Quem somos
 lang: pt
 layout: page
 media:
-  image: "https://cldup.com/cf5wq55eux.jpg"
+  image: https://cldup.com/cf5wq55eux.jpg
 ---
 
 {% include figure.html src="https://cldup.com/cf5wq55eux.jpg" alt="Imagem do pessoal" class="full-width" %}

@@ -4,7 +4,7 @@ permalink: "/en/about/"
 lang: en
 layout: page
 media:
-  image: "https://cldup.com/cf5wq55eux.jpg"
+  image: https://cldup.com/cf5wq55eux.jpg
 ---
 
 {% include figure.html src="https://cldup.com/cf5wq55eux.jpg" alt="The people behind Besouro Filmes" class="full-width" %}
