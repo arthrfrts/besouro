@@ -29,10 +29,12 @@ layout: default
       {% else %}
       <p><span>Dirigido por</span> {{ page.team.director }}</p>
       {% endif %}
-      {% if page.lang == 'en' %}
-      <p><span>Written by</span> {{ page.team.writer }}</p>
-      {% else %}
-      <p><span>Escrito por</span> {{ page.team.writer }}</p>
+      {% if page.team.writer %}
+        {% if page.lang == 'en' %}
+        <p><span>Written by</span> {{ page.team.writer }}</p>
+        {% else %}
+        <p><span>Escrito por</span> {{ page.team.writer }}</p>
+        {% endif %}
       {% endif %}
     {% endif %}
     {% if page.team.copro %}
