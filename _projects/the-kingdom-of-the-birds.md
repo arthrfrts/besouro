@@ -7,8 +7,9 @@ layout: project
 o_title: O Reino dos Pássaros
 year: 2020
 status: unreleased
-format: Filme
-genre: Animação
+tags:
+- Feature
+- Animation
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

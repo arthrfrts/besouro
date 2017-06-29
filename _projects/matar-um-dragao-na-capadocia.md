@@ -6,8 +6,9 @@ lang: pt
 layout: project
 status: unreleased
 year: 2019
-format: Filme
-genre: Drama
+tags:
+- Filme
+- Drama
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg
 team:

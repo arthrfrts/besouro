@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2012
-format: Curta
-genre: Drama
+tags:
+- Tags
+- Drama
 status: released
 media:
   image: https://cldup.com/YSBNgUV27t.jpg

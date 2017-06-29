@@ -6,8 +6,9 @@ lang: pt
 layout: project
 year: 2011
 status: released
-format: Curta
-genre: Documentário
+tags:
+- Curta
+- Documentário
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes e BUNKER Studio

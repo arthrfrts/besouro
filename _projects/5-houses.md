@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: 5 Casas
 year: 2018
-format: Film
-genre: Documentary
+tags:
+  - Feature
+  - Documentary
 status: unreleased
 media:
   image: https://cldup.com/IXkTUprQ0q.jpg

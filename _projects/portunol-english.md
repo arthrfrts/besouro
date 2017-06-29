@@ -4,8 +4,9 @@ categories:
 - cinema
 lang: en
 layout: project
-format: Film
-genre: Documentary
+tags:
+- Feature
+- Documentary
 year: 2018
 status: unreleased
 media:

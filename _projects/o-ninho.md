@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2015
-format: Série
-genre: Drama
+tags:
+- Série
+- Drama
 status: released
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg

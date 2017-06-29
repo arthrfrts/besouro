@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: As Férias de Lord Lucas
 year: 2008
-format: Short
-genre: Comedy
+tags:
+- Short
+- Comedy
 status: released
 team:
   director: Tatiana Nequete

@@ -6,8 +6,9 @@ lang: pt
 layout: project
 year: 2018
 status: unreleased
-format: Série
-genre: Documentário
+tags:
+- Série
+- Documentário
 team:
   director: Thais Fernandes
 media:

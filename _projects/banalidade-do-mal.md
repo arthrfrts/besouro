@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2018
-format: Série
-genre: Drama
+tags:
+- Série
+- Drama
 status: unreleased
 media:
   image: https://cldup.com/OE24EX-YV2.png

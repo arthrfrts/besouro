@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: O Ninho
 year: 2015
-format: TV Series
-genre: Drama
+tags:
+- Series
+- Drama
 status: released
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg

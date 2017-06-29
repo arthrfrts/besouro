@@ -6,8 +6,9 @@ lang: pt
 layout: project
 year: 2018
 status: unreleased
-format: Filme
-genre: Drama
+tags:
+- Filme
+- Drama
 team:
   director: Germano de Oliveira
   writer: Germano de Oliveira e Marcela Bordin

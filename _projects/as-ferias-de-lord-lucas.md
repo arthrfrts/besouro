@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2008
-format: Curta
-genre: Comédia
+tags:
+- Curta
+- Comédia
 status: released
 team:
   director: Tatiana Nequete

@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: Folha em Branco
 year: 2011
-format: Short
-genre: Drama
+tags:
+- Short
+- Drama
 status: released
 media:
   image: https://cldup.com/khtUSEh1BQ.jpg

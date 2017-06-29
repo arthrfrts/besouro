@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: Vida Como Rizoma
 year: 2015
-format: Short
-genre: Documentary
+tags:
+- Short
+- Documentary
 status: released
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg

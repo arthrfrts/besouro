@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2018
-format: Filme
-genre: Drama
+tags:
+- Filme
+- Drama
 status: unreleased
 media:
   image: https://cldup.com/lXAtytNRxL.jpg

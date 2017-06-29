@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: O Vazio Além da Janela
 year: 2007
-format: Short
-genre: Drama
+tags:
+- Short
+- Drama
 status: released
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg

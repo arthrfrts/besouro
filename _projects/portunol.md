@@ -5,7 +5,7 @@ categories:
 lang: pt
 layout: project
 format: Filme
-genre: Documentário
+tags: Documentário
 year: 2018
 status: unreleased
 media:

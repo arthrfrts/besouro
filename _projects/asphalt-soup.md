@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: Sopa de Asfalto
 year: 2012
-format: Short
-genre: Drama
+tags:
+- Short
+- Drama
 status: released
 media:
   image: https://cldup.com/YSBNgUV27t.jpg

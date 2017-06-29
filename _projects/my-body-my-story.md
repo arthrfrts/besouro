@@ -7,8 +7,9 @@ layout: project
 o_title: Meu Corpo, Minha História
 status: unreleased
 year: 2018
-genre: Documentary
-format: Short
+tags:
+- Short
+- Documentary
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

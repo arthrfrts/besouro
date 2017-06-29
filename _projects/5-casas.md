@@ -6,7 +6,9 @@ lang: pt
 layout: project
 year: 2018
 format: Filme
-genre: Documentário
+tags:
+  - Filme
+  - Documentário
 status: unreleased
 media:
   image: https://cldup.com/IXkTUprQ0q.jpg

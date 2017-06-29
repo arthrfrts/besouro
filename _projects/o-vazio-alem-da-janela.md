@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2007
-format: Curta
-genre: Drama
+tags:
+- Curta
+- Drama
 status: released
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg

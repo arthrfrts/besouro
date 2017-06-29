@@ -7,8 +7,9 @@ layout: project
 o_title: Sobre sete ondas verdes espumantes
 year: 2013
 status: released
-genre: Documentary
-format: Film
+tags:
+- Feature
+- Documentary
 team:
   director: Bruno Polidoro and Cacá Nazario
 media:

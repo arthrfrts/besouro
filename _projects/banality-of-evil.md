@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: Banalidade do Mal
 year: 2018
-format: TV Series
-genre: Drama
+tags:
+- Series
+- Drama
 status: unreleased
 media:
   image: https://cldup.com/OE24EX-YV2.png

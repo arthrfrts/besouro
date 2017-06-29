@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2014
-format: Curta
-genre: Drama
+tags:
+  - Curta
+  - Drama
 status: released
 media:
   image: https://cldup.com/RL29539hoc.jpg

@@ -28,7 +28,7 @@ layout: scaffolding
     <figcaption>
       <a href="{{ project.url | relative_url }}" title="{{ project.title }}">
         <strong>{{ project.title }}</strong><br />
-        {{ project.year }} / {{ project.genre }} / <abbr title="{% if page.lang == 'en' %}Directed by{% else %}Direção{% endif %}">D:</abbr> {{ project.team.director }}
+        {{ project.year }} / {{ project.tags | join: ' / ' }} / <abbr title="{% if page.lang == 'en' %}Directed by{% else %}Direção{% endif %}">D:</abbr> {{ project.team.director }}
       </a>
     </figcaption>
   </figure>
@@ -44,7 +44,7 @@ layout: scaffolding
       <figcaption>
         <a href="{{ project.url | relative_url }}">
           <strong>{{ project.title }}</strong><br />
-          {{ project.year }} / {{ project.genre }}
+          {{ project.year }} / {{ project.tags | join: ' / ' }}
         </a>
       </figcaption>
     </figure>

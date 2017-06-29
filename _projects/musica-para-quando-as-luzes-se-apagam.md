@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2017
-format: Filme
-genre: Documentário
+tags:
+- Filme
+- Documentário
 status: released
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg

@@ -14,9 +14,9 @@ layout: default
   <header class="project-header">
     <h1>{{ page.title }}</h1>
     {% if page.o_title %}
-    <p class="original-title">{{ page.o_title }}</p>
+    <p class="original-title"><em>{{ page.o_title }}</em></p>
     {% endif %}
-    <p>{{ page.year }} <span role="separator">/</span> {{ page.format }} <span role="separator">/</span> {{ page.genre }}</p>
+    <p>{{ page.year }} <span role="separator">/</span> {{ page.tags | join: ' <span role="separator">/</span> ' }}</p>
     {% if page.team.director == page.team.writer %}
       {% if page.lang == 'en' %}
       <p><span>Written and directed by</span> {{ page.team.director }}</p>

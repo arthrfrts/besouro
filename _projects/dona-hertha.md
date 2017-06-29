@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2012
-format: Curta
-genre: Documentário
+tags:
+- Curta
+- Documentário
 status: released
 media:
   image: https://cldup.com/6e1VyKpuG3.jpg

@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2015
-genre: Documentário
-format: Filme
+tags:
+- Filme
+- Documentário
 status: released
 team:
   director: Mirela Kruel

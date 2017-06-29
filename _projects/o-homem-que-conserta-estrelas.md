@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2013
-format: Curta
-genre: Documentário
+tags:
+- Curta
+- Documentário
 status: released
 media:
   image: https://cldup.com/C1k1-Z43LH.jpg

@@ -7,8 +7,9 @@ layout: project
 o_title: Fez a Barba e o Choro
 year: 2011
 status: released
-format: Short
-genre: Documentary
+tags:
+  - Short
+  - Documentary
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes and BUNKER Studio

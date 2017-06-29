@@ -6,8 +6,9 @@ lang: pt
 layout: project
 status: unreleased
 year: 2019
-genre: Comédia
-format: Filme
+tags:
+- Filme
+- Comédia
 team:
   director: Joaquín Peñagaricano e Pablo Abdala
   copro: Besouro Filmes, Jengibre Producciones e Coelho Voador

@@ -6,8 +6,9 @@ lang: pt
 layout: project
 year: 2019
 status: unreleased
-format: Filme
-genre: Drama
+tags:
+  - Filme
+  - Drama
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella

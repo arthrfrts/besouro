@@ -6,8 +6,9 @@ lang: pt
 layout: project
 year: 2020
 status: unreleased
-format: Filme
-genre: Animação
+tags:
+- Filme
+- Animação
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

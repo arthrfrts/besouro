@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2009
-format: Filme
-genre: Drama
+tags:
+- Filme
+- Drama
 status: released
 media:
   image: https://cldup.com/VD8CVaPFMX.jpg

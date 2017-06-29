@@ -7,8 +7,9 @@ layout: project
 o_title: Dromedário no Asfalto
 year: 2014
 status: released
-format: Film
-genre: Drama
+tags:
+- Feature
+- Drama
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

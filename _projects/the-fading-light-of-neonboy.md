@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: GarotoNeon
 year: 2018
-format: Film
-genre: Drama
+tags:
+- Feature
+- Drama
 status: unreleased
 media:
   image: https://cldup.com/gO6P3cMbBt.jpg

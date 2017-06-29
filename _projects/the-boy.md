@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: O Guri
 year: 2009
-format: Film
-genre: Drama
+tags:
+- Feature
+- Drama
 status: released
 media:
   image: https://cldup.com/VD8CVaPFMX.jpg

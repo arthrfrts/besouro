@@ -6,8 +6,9 @@ lang: pt
 layout: project
 status: unreleased
 year: 2018
-genre: Documentário
-format: Curta
+tags:
+- Curta
+- Documentário
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

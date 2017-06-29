@@ -6,12 +6,13 @@ lang: pt
 layout: project
 year: 2014
 status: released
-format: Filme
-genre: Drama
+tags:
+- Filme
+- Drama
 team:
   director: Gilson Vargas
   writer: Gilson Vargas
-  copro: Pata Negra, Besouro Filmes, BoomBoom, Ponto Cego
+  copro: Pata Negra, Besouro Filmes, BoomBoom e Ponto Cego
 media:
   trailer: https://vimeo.com/131981924
   image: https://cldup.com/-P1_UOYV8p.jpg

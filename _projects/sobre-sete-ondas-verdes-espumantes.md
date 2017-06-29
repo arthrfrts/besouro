@@ -6,8 +6,9 @@ lang: pt
 layout: project
 year: 2013
 status: released
-genre: Documentário
-format: Filme
+tags:
+- Filme
+- Documentário
 team:
   director: Bruno Polidoro e Cacá Nazario
 media:

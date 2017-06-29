@@ -7,8 +7,9 @@ layout: project
 o_title: Barões detrás do morro
 year: 2018
 status: unreleased
-format: Film
-genre: Drama
+tags:
+- Feature
+- Drama
 team:
   director: Germano de Oliveira
   writer: Germano de Oliveira and Marcela Bordin

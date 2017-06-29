@@ -6,8 +6,9 @@ lang: en
 layout: project
 o_title: Linda, uma história horrível
 year: 2013
-format: Short
-genre: Drama
+tags:
+- Short
+- Drama
 status: released
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg

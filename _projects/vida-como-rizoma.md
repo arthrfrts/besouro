@@ -5,8 +5,9 @@ categories:
 lang: pt
 layout: project
 year: 2015
-format: Curta
-genre: Documentário
+tags:
+- Curta
+- Documentário
 status: released
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg
