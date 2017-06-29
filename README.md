@@ -1,6 +1,6 @@
 # Besouro
 
-![Besouro Filmes' site snapshot](https://cldup.com/7KCvWbwNlS.jpg)
+![Besouro Filmes' site snapshot](https://cldup.com/DbEbiAuqTT.jpg)
 
 The new, improved site for Brazilian film production company [Besouro Filmes](http://besourofilmes.com/).
 
