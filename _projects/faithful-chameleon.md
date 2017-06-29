@@ -2,13 +2,13 @@
 title: Faithful Chameleon
 categories:
 - cinema
+tags:
+- Feature
+- Drama
 lang: en
 layout: project
 o_title: Camaleão Fiel
 year: 2018
-tags:
-- Feature
-- Drama
 status: unreleased
 media:
   image: https://cldup.com/lXAtytNRxL.jpg

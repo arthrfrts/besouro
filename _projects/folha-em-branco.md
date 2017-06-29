@@ -2,12 +2,12 @@
 title: Folha em Branco
 categories:
 - tv
-lang: pt
-layout: project
-year: 2011
 tags:
 - Curta
 - Drama
+lang: pt
+layout: project
+year: 2011
 status: released
 media:
   image: https://cldup.com/khtUSEh1BQ.jpg

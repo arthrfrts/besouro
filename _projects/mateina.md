@@ -2,13 +2,13 @@
 title: Mateína
 categories:
 - cinema
+tags:
+- Filme
+- Comédia
 lang: pt
 layout: project
 status: unreleased
 year: 2019
-tags:
-- Filme
-- Comédia
 team:
   director: Joaquín Peñagaricano e Pablo Abdala
   copro: Besouro Filmes, Jengibre Producciones e Coelho Voador

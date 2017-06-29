@@ -2,13 +2,13 @@
 title: Music When The Lights Go Out
 categories:
 - cinema
+tags:
+- Feature
+- Documentary
 lang: en
 layout: project
 o_title: Música para quando as luzes se apagam
 year: 2017
-tags:
-- Feature
-- Documentary
 status: released
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg

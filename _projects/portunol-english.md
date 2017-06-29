@@ -2,11 +2,11 @@
 title: Portuñol
 categories:
 - cinema
-lang: en
-layout: project
 tags:
 - Feature
 - Documentary
+lang: en
+layout: project
 year: 2018
 status: unreleased
 media:

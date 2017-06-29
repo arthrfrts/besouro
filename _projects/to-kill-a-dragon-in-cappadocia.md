@@ -2,14 +2,14 @@
 title: To Kill A Dragon In Cappadocia
 categories:
 - cinema
+tags:
+- Feature
+- Drama
 lang: en
 layout: project
 o_title: Matar um Dragão na Capadócia
 status: unreleased
 year: 2019
-tags:
-- Feature
-- Drama
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg
 team:

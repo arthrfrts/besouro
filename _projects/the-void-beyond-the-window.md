@@ -2,13 +2,13 @@
 title: The Void Beyond The Window
 categories:
 - cinema
+tags:
+- Short
+- Drama
 lang: en
 layout: project
 o_title: O Vazio Além da Janela
 year: 2007
-tags:
-- Short
-- Drama
 status: released
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg

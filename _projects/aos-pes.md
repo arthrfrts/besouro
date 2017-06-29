@@ -2,12 +2,12 @@
 title: Aos Pés
 categories:
 - cinema
-lang: pt
-layout: project
-year: 2009
 tags:
 - Curta
 - Drama
+lang: pt
+layout: project
+year: 2009
 status: released
 media:
   image: https://cldup.com/_paB3GGfpF.jpg

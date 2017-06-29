@@ -2,14 +2,14 @@
 title: My Body My Story
 categories:
 - cinema
+tags:
+- Short
+- Documentary
 lang: en
 layout: project
 o_title: Meu Corpo, Minha História
 status: unreleased
 year: 2018
-tags:
-- Short
-- Documentary
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

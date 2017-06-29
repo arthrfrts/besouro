@@ -2,12 +2,12 @@
 title: O Guri
 categories:
 - cinema
-lang: pt
-layout: project
-year: 2009
 tags:
 - Filme
 - Drama
+lang: pt
+layout: project
+year: 2009
 status: released
 media:
   image: https://cldup.com/VD8CVaPFMX.jpg

@@ -2,13 +2,13 @@
 title: The Boy
 categories:
 - cinema
+tags:
+- Feature
+- Drama
 lang: en
 layout: project
 o_title: O Guri
 year: 2009
-tags:
-- Feature
-- Drama
 status: released
 media:
   image: https://cldup.com/VD8CVaPFMX.jpg

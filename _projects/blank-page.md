@@ -2,13 +2,13 @@
 title: Blank Page
 categories:
 - tv
+tags:
+- Short
+- Drama
 lang: en
 layout: project
 o_title: Folha em Branco
 year: 2011
-tags:
-- Short
-- Drama
 status: released
 media:
   image: https://cldup.com/khtUSEh1BQ.jpg

@@ -2,12 +2,12 @@
 title: O Vazio Além da Janela
 categories:
 - cinema
-lang: pt
-layout: project
-year: 2007
 tags:
 - Curta
 - Drama
+lang: pt
+layout: project
+year: 2007
 status: released
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg

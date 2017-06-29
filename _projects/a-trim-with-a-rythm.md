@@ -2,14 +2,14 @@
 title: A Trim With A Rythm
 categories:
 - cinema
+tags:
+- Short
+- Documentary
 lang: en
 layout: project
 o_title: Fez a Barba e o Choro
 year: 2011
 status: released
-tags:
-  - Short
-  - Documentary
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes and BUNKER Studio

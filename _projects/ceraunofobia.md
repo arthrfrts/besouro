@@ -2,12 +2,12 @@
 title: Ceraunofobia
 categories:
 - tv
-lang: pt
-layout: project
-year: 2014
 tags:
 - Curta
 - Drama
+lang: pt
+layout: project
+year: 2014
 status: released
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg

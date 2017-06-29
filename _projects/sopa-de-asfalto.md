@@ -2,12 +2,12 @@
 title: Sopa de Asfalto
 categories:
 - tv
-lang: pt
-layout: project
-year: 2012
 tags:
 - Tags
 - Drama
+lang: pt
+layout: project
+year: 2012
 status: released
 media:
   image: https://cldup.com/YSBNgUV27t.jpg

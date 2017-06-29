@@ -2,12 +2,12 @@
 title: Vida Como Rizoma
 categories:
 - cinema
-lang: pt
-layout: project
-year: 2015
 tags:
 - Curta
 - Documentário
+lang: pt
+layout: project
+year: 2015
 status: released
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg

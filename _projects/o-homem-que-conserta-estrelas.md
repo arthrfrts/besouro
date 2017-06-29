@@ -2,12 +2,12 @@
 title: O Homem que Conserta Estrelas
 categories:
 - tv
-lang: pt
-layout: project
-year: 2013
 tags:
 - Curta
 - Documentário
+lang: pt
+layout: project
+year: 2013
 status: released
 media:
   image: https://cldup.com/C1k1-Z43LH.jpg

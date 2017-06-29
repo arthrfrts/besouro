@@ -2,13 +2,13 @@
 title: A Vida Bruta dos Animais do Céu
 categories:
 - cinema
+tags:
+- Filme
+- Drama
 lang: pt
 layout: project
 year: 2019
 status: unreleased
-tags:
-  - Filme
-  - Drama
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella

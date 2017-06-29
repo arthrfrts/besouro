@@ -2,13 +2,13 @@
 title: Matar um Dragão na Capadócia
 categories:
 - cinema
+tags:
+- Filme
+- Drama
 lang: pt
 layout: project
 status: unreleased
 year: 2019
-tags:
-- Filme
-- Drama
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg
 team:

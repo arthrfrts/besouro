@@ -2,13 +2,13 @@
 title: The Last Picture
 categories:
 - cinema
+tags:
+- Short
+- Drama
 lang: en
 layout: project
 o_title: A Última Foto
 year: 2014
-tags:
-- Short
-- Drama
 status: released
 media:
   image: https://cldup.com/RL29539hoc.jpg

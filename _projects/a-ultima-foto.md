@@ -2,12 +2,12 @@
 title: A Última Foto
 categories:
 - cinema
+tags:
+- Curta
+- Drama
 lang: pt
 layout: project
 year: 2014
-tags:
-  - Curta
-  - Drama
 status: released
 media:
   image: https://cldup.com/RL29539hoc.jpg

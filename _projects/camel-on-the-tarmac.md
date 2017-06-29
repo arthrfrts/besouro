@@ -2,14 +2,14 @@
 title: Camel On The Tarmac
 categories:
 - cinema
+tags:
+- Feature
+- Drama
 lang: en
 layout: project
 o_title: Dromedário no Asfalto
 year: 2014
 status: released
-tags:
-- Feature
-- Drama
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

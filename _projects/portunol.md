@@ -2,10 +2,11 @@
 title: Portuñol
 categories:
 - cinema
+tags:
+- Documentário
 lang: pt
 layout: project
 format: Filme
-tags: Documentário
 year: 2018
 status: unreleased
 media:

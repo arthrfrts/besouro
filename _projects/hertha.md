@@ -2,13 +2,13 @@
 title: Hertha
 categories:
 - tv
+tags:
+- Short
+- Documentary
 lang: en
 layout: project
 o_title: Dona Hertha
 year: 2012
-tags:
-- Short
-- Documentary
 status: released
 media:
   image: https://cldup.com/6e1VyKpuG3.jpg

@@ -2,12 +2,12 @@
 title: O Ninho
 categories:
 - tv
-lang: pt
-layout: project
-year: 2015
 tags:
 - Série
 - Drama
+lang: pt
+layout: project
+year: 2015
 status: released
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg

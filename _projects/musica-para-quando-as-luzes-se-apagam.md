@@ -2,12 +2,12 @@
 title: Música para quando as luzes se apagam
 categories:
 - cinema
-lang: pt
-layout: project
-year: 2017
 tags:
 - Filme
 - Documentário
+lang: pt
+layout: project
+year: 2017
 status: released
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg

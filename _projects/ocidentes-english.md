@@ -2,12 +2,12 @@
 title: Ocidentes
 categories:
 - tv
-lang: en
-layout: project
-year: 2014
 tags:
 - Series
 - Drama
+lang: en
+layout: project
+year: 2014
 status: released
 media:
   image: https://cldup.com/H5bs4S9lPQ.jpg

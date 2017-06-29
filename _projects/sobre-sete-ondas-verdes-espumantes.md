@@ -2,13 +2,13 @@
 title: Sobre sete ondas verdes espumantes
 categories:
 - cinema
+tags:
+- Filme
+- Documentário
 lang: pt
 layout: project
 year: 2013
 status: released
-tags:
-- Filme
-- Documentário
 team:
   director: Bruno Polidoro e Cacá Nazario
 media:

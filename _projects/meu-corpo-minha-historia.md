@@ -2,13 +2,13 @@
 title: Meu Corpo, Minha História
 categories:
 - cinema
+tags:
+- Curta
+- Documentário
 lang: pt
 layout: project
 status: unreleased
 year: 2018
-tags:
-- Curta
-- Documentário
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:
