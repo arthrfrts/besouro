@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Barões detrás do morro
 year: 2018
-
 team:
   director: Germano de Oliveira
   writer: Germano de Oliveira and Marcela Bordin

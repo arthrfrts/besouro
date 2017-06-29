@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Camaleão Fiel
 year: 2018
-
 media:
   image: https://cldup.com/lXAtytNRxL.jpg
 team:

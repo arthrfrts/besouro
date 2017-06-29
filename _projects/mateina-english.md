@@ -6,7 +6,6 @@ tags:
 - Feature
 - Comedy
 lang: en
-
 year: 2019
 team:
   director: Joaquín Peñagaricano and Pablo Abdala

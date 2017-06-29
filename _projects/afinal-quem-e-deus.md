@@ -7,7 +7,6 @@ tags:
 - Documentário
 lang: pt
 year: 2018
-
 team:
   director: Thais Fernandes
 media:

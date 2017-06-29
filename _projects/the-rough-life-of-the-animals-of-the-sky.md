@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: A Vida Bruta dos Animais do Céu
 year: 2019
-
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella

@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: O Reino dos Pássaros
 year: 2020
-
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

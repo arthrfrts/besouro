@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: pt
 year: 2019
-
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella

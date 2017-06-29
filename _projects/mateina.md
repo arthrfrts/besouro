@@ -6,7 +6,6 @@ tags:
 - Filme
 - Comédia
 lang: pt
-
 year: 2019
 team:
   director: Joaquín Peñagaricano e Pablo Abdala

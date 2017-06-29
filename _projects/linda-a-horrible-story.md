@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Linda, uma história horrível
 year: 2013
-
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg
 team:

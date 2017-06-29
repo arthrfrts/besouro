@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Sobre sete ondas verdes espumantes
 year: 2013
-
 team:
   director: Bruno Polidoro and Cacá Nazario
 media:

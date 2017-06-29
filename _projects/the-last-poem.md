@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: O Último Poema
 year: 2015
-
 team:
   director: Mirela Kruel
 media:

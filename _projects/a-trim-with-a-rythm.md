@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Fez a Barba e o Choro
 year: 2011
-
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes and BUNKER Studio

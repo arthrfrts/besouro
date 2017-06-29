@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: en
 o_title: Matar um Dragão na Capadócia
-
 year: 2019
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg

@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: pt
 year: 2014
-
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

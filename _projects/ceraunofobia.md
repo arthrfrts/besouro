@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: pt
 year: 2014
-
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg
 team:

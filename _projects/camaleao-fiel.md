@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: pt
 year: 2018
-
 media:
   image: https://cldup.com/lXAtytNRxL.jpg
 team:

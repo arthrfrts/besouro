@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: 5 Casas
 year: 2018
-
 media:
   image: https://cldup.com/IXkTUprQ0q.jpg
   video: https://cldup.com/81RqM3XrXW.mp4

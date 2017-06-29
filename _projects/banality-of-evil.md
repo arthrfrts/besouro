@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Banalidade do Mal
 year: 2018
-
 media:
   image: https://cldup.com/OE24EX-YV2.png
 team:

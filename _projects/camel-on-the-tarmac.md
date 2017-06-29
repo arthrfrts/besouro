@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Dromedário no Asfalto
 year: 2014
-
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

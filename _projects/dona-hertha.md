@@ -7,7 +7,6 @@ tags:
 - Documentário
 lang: pt
 year: 2012
-
 media:
   image: https://cldup.com/6e1VyKpuG3.jpg
   trailer: https://vimeo.com/96510340

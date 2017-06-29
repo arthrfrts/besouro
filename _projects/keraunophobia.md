@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Ceraunofobia
 year: 2014
-
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg
 team:
