@@ -1,13 +1,12 @@
 ---
 title: 5 Casas
 categories:
-- cinema
+- development
 tags:
 - Filme
 - Documentário
 lang: pt
 year: 2018
-status: unreleased
 media:
   image: https://cldup.com/IXkTUprQ0q.jpg
   video: https://cldup.com/81RqM3XrXW.mp4

@@ -8,7 +8,7 @@ tags:
 lang: en
 o_title: As Férias de Lord Lucas
 year: 2008
-status: released
+
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes and RBS TV

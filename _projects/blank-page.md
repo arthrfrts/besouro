@@ -8,7 +8,7 @@ tags:
 lang: en
 o_title: Folha em Branco
 year: 2011
-status: released
+
 media:
   image: https://cldup.com/khtUSEh1BQ.jpg
   trailer: https://vimeo.com/47054299

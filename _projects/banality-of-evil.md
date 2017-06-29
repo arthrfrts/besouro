@@ -1,14 +1,14 @@
 ---
 title: Banality Of Evil
 categories:
-- tv
+- development
 tags:
 - Series
 - Drama
 lang: en
 o_title: Banalidade do Mal
 year: 2018
-status: unreleased
+
 media:
   image: https://cldup.com/OE24EX-YV2.png
 team:

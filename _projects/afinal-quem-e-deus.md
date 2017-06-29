@@ -1,13 +1,13 @@
 ---
 title: Afinal, quem é Deus?
 categories:
-- tv
+- development
 tags:
 - Série
 - Documentário
 lang: pt
 year: 2018
-status: unreleased
+
 team:
   director: Thais Fernandes
 media:

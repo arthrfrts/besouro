@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Aos Pés
 year: 2009
-status: released
 media:
   image: https://cldup.com/_paB3GGfpF.jpg
 team:

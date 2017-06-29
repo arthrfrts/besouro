@@ -2,16 +2,11 @@
 layout: scaffolding
 ---
 
-{% if page.categories and page.status %}
-{% assign projects = site.projects | sort: 'year' | reverse | where: 'categories', page.categories | where: 'status', page.status | where: 'lang', page.lang  %}
-{% else if page.status %}
-{% assign projects = site.projects | sort: 'year' | where: 'status', page.status | where: 'lang', page.lang  %}
-{% else if page.categories %}
-{% assign projects = site.projects | sort: 'year' | reverse | where: 'categories', page.categories | where: 'lang', page.lang  %}
-{% endif %}
-{% unless page.categories or page.status %}
+{% if page.categories %}
+{% assign projects = site.projects | sort: 'year' | where: 'categories', page.categories | where: 'lang', page.lang | reverse %}
+{% else %}
 {% assign projects = site.projects | sort: 'year' | where: 'lang', page.lang | reverse %}
-{% endunless %}
+{% endif %}
 
 {% for project in projects limit:1 %}
   <figure class="project featured">

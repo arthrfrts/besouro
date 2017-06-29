@@ -8,7 +8,7 @@ tags:
 lang: en
 o_title: Vida Como Rizoma
 year: 2015
-status: released
+
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg
   trailer: https://vimeo.com/133766113

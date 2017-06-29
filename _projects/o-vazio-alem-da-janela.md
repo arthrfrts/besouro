@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: pt
 year: 2007
-status: released
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg
   trailer: https://vimeo.com/38340401

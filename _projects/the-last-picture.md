@@ -8,7 +8,7 @@ tags:
 lang: en
 o_title: A Última Foto
 year: 2014
-status: released
+
 media:
   image: https://cldup.com/RL29539hoc.jpg
 team:

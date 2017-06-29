@@ -7,7 +7,6 @@ tags:
 - Documentário
 lang: pt
 year: 2017
-status: released
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
   video: https://cldup.com/rqeRbOXok2.mp4

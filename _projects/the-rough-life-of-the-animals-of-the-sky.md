@@ -1,14 +1,14 @@
 ---
 title: The Rough Life Of The Animals Of The Sky
 categories:
-- cinema
+- development
 tags:
 - Feature
 - Drama
 lang: en
 o_title: A Vida Bruta dos Animais do Céu
 year: 2019
-status: unreleased
+
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella

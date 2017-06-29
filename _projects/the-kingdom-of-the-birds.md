@@ -1,14 +1,14 @@
 ---
 title: The Kingdom Of The Birds
 categories:
-- cinema
+- development
 tags:
 - Feature
 - Animation
 lang: en
 o_title: O Reino dos Pássaros
 year: 2020
-status: unreleased
+
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

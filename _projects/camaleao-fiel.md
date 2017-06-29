@@ -1,13 +1,13 @@
 ---
 title: Camaleão Fiel
 categories:
-- cinema
+- development
 tags:
 - Filme
 - Drama
 lang: pt
 year: 2018
-status: unreleased
+
 media:
   image: https://cldup.com/lXAtytNRxL.jpg
 team:

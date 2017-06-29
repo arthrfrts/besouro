@@ -7,7 +7,6 @@ tags:
 - Documentário
 lang: pt
 year: 2013
-status: released
 media:
   image: https://cldup.com/C1k1-Z43LH.jpg
   trailer: https://vimeo.com/96107699

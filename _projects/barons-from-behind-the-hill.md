@@ -1,14 +1,14 @@
 ---
 title: Barons From Behind The Hill
 categories:
-- cinema
+- development
 tags:
 - Feature
 - Drama
 lang: en
 o_title: Barões detrás do morro
 year: 2018
-status: unreleased
+
 team:
   director: Germano de Oliveira
   writer: Germano de Oliveira and Marcela Bordin

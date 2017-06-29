@@ -7,7 +7,7 @@ tags:
 - Documentário
 lang: pt
 year: 2015
-status: released
+
 team:
   director: Mirela Kruel
 media:

@@ -7,7 +7,6 @@ tags:
 - Drama
 lang: pt
 year: 2015
-status: released
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg
   video: https://cldup.com/q5EqAtsDi7.mp4

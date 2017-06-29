@@ -1,13 +1,12 @@
 ---
 title: Portuñol
 categories:
-- cinema
+- development
 tags:
 - Feature
 - Documentary
 lang: en
 year: 2018
-status: unreleased
 media:
   image: https://cldup.com/5Q7Tj6BILD.jpg
 team:

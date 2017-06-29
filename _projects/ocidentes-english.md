@@ -7,7 +7,7 @@ tags:
 - Drama
 lang: en
 year: 2014
-status: released
+
 media:
   image: https://cldup.com/H5bs4S9lPQ.jpg
 team:

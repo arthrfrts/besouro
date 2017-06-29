@@ -7,7 +7,6 @@ tags:
 - Comédia
 lang: pt
 year: 2008
-status: released
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes e RBS TV

@@ -1,13 +1,12 @@
 ---
 title: After All Who Is God
 categories:
-- tv
+- development
 tags:
 - Series
 - Documentary
 lang: en
 year: 2018
-status: unreleased
 team:
   director: Thais Fernandes
 media:

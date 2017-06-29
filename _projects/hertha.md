@@ -8,7 +8,7 @@ tags:
 lang: en
 o_title: Dona Hertha
 year: 2012
-status: released
+
 media:
   image: https://cldup.com/6e1VyKpuG3.jpg
   trailer: https://vimeo.com/96510340

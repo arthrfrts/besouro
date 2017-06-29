@@ -8,7 +8,6 @@ tags:
 lang: en
 o_title: Sopa de Asfalto
 year: 2012
-status: released
 media:
   image: https://cldup.com/YSBNgUV27t.jpg
 team:

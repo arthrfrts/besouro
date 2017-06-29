@@ -1,13 +1,13 @@
 ---
 title: GarotoNeon
 categories:
-- cinema
+- development
 tags:
 - Filme
 - Drama
 lang: pt
 year: 2018
-status: unreleased
+
 media:
   image: https://cldup.com/gO6P3cMbBt.jpg
 team:

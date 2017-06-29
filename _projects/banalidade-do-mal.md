@@ -1,13 +1,12 @@
 ---
 title: Banalidade do Mal
 categories:
-- tv
+- development
 tags:
 - Série
 - Drama
 lang: pt
 year: 2018
-status: unreleased
 media:
   image: https://cldup.com/OE24EX-YV2.png
 team:

@@ -7,7 +7,7 @@ tags:
 - Documentário
 lang: pt
 year: 2011
-status: released
+
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes e BUNKER Studio

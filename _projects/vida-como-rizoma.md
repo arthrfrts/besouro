@@ -7,7 +7,7 @@ tags:
 - Documentário
 lang: pt
 year: 2015
-status: released
+
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg
   trailer: https://vimeo.com/133766113
