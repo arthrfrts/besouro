@@ -2,7 +2,7 @@
 title: As Férias de Lord Lucas
 lang: pt
 layout: project
-cat: tv
+categories: tv
 year: 2008
 format: Curta
 genre: Comédia

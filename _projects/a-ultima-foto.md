@@ -2,7 +2,7 @@
 title: A Última Foto
 lang: pt
 layout: project
-cat: cinema
+categories: cinema
 year: 2014
 format: Curta
 genre: Drama

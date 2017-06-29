@@ -7,7 +7,7 @@ status: unreleased
 year: 2019
 format: Film
 genre: Drama
-cat: cinema
+categories: cinema
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg
 team:

@@ -2,7 +2,7 @@
 title: A Vida Bruta dos Animais do Céu
 lang: pt
 layout: project
-cat: cinema
+categories: cinema
 year: 2019
 status: unreleased
 format: Filme

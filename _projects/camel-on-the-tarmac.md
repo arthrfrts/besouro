@@ -7,7 +7,7 @@ year: 2014
 status: released
 format: Film
 genre: Drama
-cat: cinema
+categories: cinema
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

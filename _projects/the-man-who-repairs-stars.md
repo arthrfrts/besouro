@@ -6,7 +6,7 @@ o_title: O Homem que Conserta Estrelas
 year: 2013
 format: Short
 genre: Documentary
-cat: tv
+categories: tv
 status: released
 media:
   image: https://cldup.com/C1k1-Z43LH.jpg

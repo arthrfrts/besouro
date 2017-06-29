@@ -6,7 +6,7 @@ o_title: Ceraunofobia
 year: 2014
 format: Short
 genre: Drama
-cat: tv
+categories: tv
 status: released
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg

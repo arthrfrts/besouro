@@ -6,7 +6,7 @@ o_title: Banalidade do Mal
 year: 2018
 format: TV Series
 genre: Drama
-cat: tv
+categories: tv
 status: unreleased
 media:
   image: https://cldup.com/OE24EX-YV2.png

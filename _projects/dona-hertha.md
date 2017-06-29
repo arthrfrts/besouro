@@ -1,7 +1,7 @@
 ---
 title: Dona Hertha
 lang: pt
-cat: tv
+categories: tv
 layout: project
 year: 2012
 format: Curta

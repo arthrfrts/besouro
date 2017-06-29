@@ -1,7 +1,7 @@
 ---
 title: Folha em Branco
 lang: pt
-cat: tv
+categories: tv
 layout: project
 year: 2011
 format: Curta

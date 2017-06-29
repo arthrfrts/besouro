@@ -4,7 +4,7 @@ lang: en
 layout: project
 status: unreleased
 year: 2019
-cat: cinema
+categories: cinema
 genre: Comedy
 format: Film
 team:

@@ -7,7 +7,7 @@ year: 2020
 status: unreleased
 format: Filme
 genre: Animação
-cat: cinema
+categories: cinema
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

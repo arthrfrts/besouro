@@ -6,7 +6,7 @@ o_title: Música para quando as luzes se apagam
 year: 2017
 format: Film
 genre: Documentary
-cat: cinema
+categories: cinema
 status: released
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg

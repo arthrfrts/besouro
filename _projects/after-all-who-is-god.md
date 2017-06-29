@@ -4,7 +4,7 @@ lang: en
 layout: project
 year: 2018
 status: unreleased
-cat: tv
+categories: tv
 format: TV Series
 genre: Documentary
 team:

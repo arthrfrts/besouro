@@ -6,7 +6,7 @@ o_title: Vida Como Rizoma
 year: 2015
 format: Short
 genre: Documentary
-cat: cinema
+categories: cinema
 status: released
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg

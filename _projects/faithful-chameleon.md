@@ -4,7 +4,7 @@ lang: en
 layout: project
 o_title: Camaleão Fiel
 year: 2018
-cat: cinema
+categories: cinema
 format: Film
 genre: Drama
 status: unreleased

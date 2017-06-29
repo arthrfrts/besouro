@@ -6,7 +6,7 @@ o_title: Linda, uma história horrível
 year: 2013
 format: Short
 genre: Drama
-cat: cinema
+categories: cinema
 status: released
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg
@@ -17,7 +17,7 @@ funds: Edital Petrobras 2010 for Short Film
 
 With a suitcase in hand, a son arrives to visit his elderly mother.
 
-The house is still the same, but it’s degraded by time. The mother lives alone, only by the company of an old dog, called Linda. Mother and son talk to each other and in between lines of the superficial dialogue we catch some facts the son doesn’t want his mother to know about it.
+The house is still the same, but it’s degraded by time. The mother lives alone, only by the company of an old dog, called Linda. Mother and son talk to each other and in between lines of the superficial dialogue we categoriesch some facts the son doesn’t want his mother to know about it.
 
 ---
 

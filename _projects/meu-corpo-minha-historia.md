@@ -1,7 +1,7 @@
 ---
 title: Meu Corpo, Minha História
 lang: pt
-cat: cinema
+categories: cinema
 layout: project
 status: unreleased
 year: 2018

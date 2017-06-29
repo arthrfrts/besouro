@@ -6,7 +6,7 @@ o_title: GarotoNeon
 year: 2018
 format: Film
 genre: Drama
-cat: cinema
+categories: cinema
 status: unreleased
 media:
   image: https://cldup.com/gO6P3cMbBt.jpg

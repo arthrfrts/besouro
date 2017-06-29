@@ -5,7 +5,7 @@ layout: project
 o_title: A Vida Bruta dos Animais do Céu
 year: 2019
 status: unreleased
-cat: cinema
+categories: cinema
 format: Film
 genre: Drama
 team:

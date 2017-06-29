@@ -1,7 +1,7 @@
 ---
 title: Matar um Dragão na Capadócia
 lang: pt
-cat: cinema
+categories: cinema
 layout: project
 status: unreleased
 year: 2019

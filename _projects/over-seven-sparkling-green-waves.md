@@ -5,7 +5,7 @@ layout: project
 o_title: Sobre sete ondas verdes espumantes
 year: 2013
 status: released
-cat: cinema
+categories: cinema
 genre: Documentary
 format: Film
 team:

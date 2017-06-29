@@ -2,7 +2,7 @@
 title: Barões detrás do morro
 lang: pt
 layout: project
-cat: cinema
+categories: cinema
 year: 2018
 status: unreleased
 format: Filme

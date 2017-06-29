@@ -5,7 +5,7 @@ layout: project
 o_title: Meu Corpo, Minha História
 status: unreleased
 year: 2018
-cat: cinema
+categories: cinema
 genre: Documentary
 format: Short
 media:

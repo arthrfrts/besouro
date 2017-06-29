@@ -2,7 +2,7 @@
 title: Portuñol
 lang: en
 layout: project
-cat: cinema
+categories: cinema
 format: Film
 genre: Documentary
 year: 2018

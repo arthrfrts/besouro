@@ -1,7 +1,7 @@
 ---
 title: O Ninho
 lang: pt
-cat: tv
+categories: tv
 layout: project
 year: 2015
 format: Série

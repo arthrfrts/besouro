@@ -6,7 +6,7 @@ o_title: 5 Casas
 year: 2018
 format: Film
 genre: Documentary
-cat: cinema
+categories: cinema
 status: unreleased
 media:
   image: https://cldup.com/IXkTUprQ0q.jpg

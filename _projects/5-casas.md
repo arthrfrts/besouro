@@ -2,7 +2,7 @@
 title: 5 Casas
 lang: pt
 layout: project
-cat: cinema
+categories: cinema
 year: 2018
 format: Filme
 genre: Documentário

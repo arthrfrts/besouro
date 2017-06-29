@@ -6,7 +6,7 @@ o_title: Dona Hertha
 year: 2012
 format: Short
 genre: Documentary
-cat: tv
+categories: tv
 status: released
 media:
   image: https://cldup.com/6e1VyKpuG3.jpg

@@ -1,7 +1,7 @@
 ---
 title: Sobre sete ondas verdes espumantes
 lang: pt
-cat: cinema
+categories: cinema
 layout: project
 year: 2013
 status: released

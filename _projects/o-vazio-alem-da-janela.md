@@ -1,7 +1,7 @@
 ---
 title: O Vazio Além da Janela
 lang: pt
-cat: cinema
+categories: cinema
 layout: project
 year: 2007
 format: Curta

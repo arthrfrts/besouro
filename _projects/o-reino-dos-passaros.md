@@ -1,7 +1,7 @@
 ---
 title: O Reino dos Pássaros
 lang: pt
-cat: cinema
+categories: cinema
 layout: project
 year: 2020
 status: unreleased

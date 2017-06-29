@@ -6,7 +6,7 @@ o_title: Aos Pés
 year: 2009
 format: Short
 genre: Drama
-cat: cinema
+categories: cinema
 status: released
 media:
   image: https://cldup.com/_paB3GGfpF.jpg

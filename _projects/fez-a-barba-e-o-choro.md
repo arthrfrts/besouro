@@ -1,7 +1,7 @@
 ---
 title: Fez a Barba e o Choro
 lang: pt
-cat: cinema
+categories: cinema
 layout: project
 year: 2011
 status: released
