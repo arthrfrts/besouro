@@ -6,7 +6,6 @@ tags:
 - Feature
 - Comedy
 lang: en
-
 status: unreleased
 year: 2019
 team:

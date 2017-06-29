@@ -6,7 +6,6 @@ tags:
 - Feature
 - Drama
 lang: en
-
 o_title: Barões detrás do morro
 year: 2018
 status: unreleased

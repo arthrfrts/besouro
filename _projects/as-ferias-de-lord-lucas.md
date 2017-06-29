@@ -6,7 +6,6 @@ tags:
 - Curta
 - Comédia
 lang: pt
-
 year: 2008
 status: released
 team:

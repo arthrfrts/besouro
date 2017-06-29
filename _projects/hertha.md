@@ -6,7 +6,6 @@ tags:
 - Short
 - Documentary
 lang: en
-
 o_title: Dona Hertha
 year: 2012
 status: released

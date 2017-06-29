@@ -6,7 +6,6 @@ tags:
 - Curta
 - Documentário
 lang: pt
-
 status: unreleased
 year: 2018
 media:

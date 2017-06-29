@@ -6,7 +6,6 @@ tags:
 - Curta
 - Documentário
 lang: pt
-
 year: 2015
 status: released
 media:

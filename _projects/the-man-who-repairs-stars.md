@@ -6,7 +6,6 @@ tags:
 - Short
 - Documentary
 lang: en
-
 o_title: O Homem que Conserta Estrelas
 year: 2013
 status: released

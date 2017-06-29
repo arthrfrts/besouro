@@ -6,7 +6,6 @@ tags:
 - Series
 - Drama
 lang: en
-
 o_title: Banalidade do Mal
 year: 2018
 status: unreleased

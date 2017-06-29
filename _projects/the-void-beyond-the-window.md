@@ -6,7 +6,6 @@ tags:
 - Short
 - Drama
 lang: en
-
 o_title: O Vazio Além da Janela
 year: 2007
 status: released

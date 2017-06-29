@@ -6,7 +6,6 @@ tags:
 - Feature
 - Drama
 lang: en
-
 o_title: Dromedário no Asfalto
 year: 2014
 status: released

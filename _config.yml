@@ -13,9 +13,15 @@ collections:
     title: Uploads
     output: true
     permalink: "/assets/media/:path"
+defaults:
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
 description: Produtora de filmes e TV em Porto Alegre, Brasil.
 analytics: UA-19318054-1
-baseurl:
+baseurl: 
 url: http://besourofilmes.com
 contact:
   email: besourofilmes@besourofilmes.com
@@ -28,9 +34,3 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
-defaults:
-- scope:
-    path: ""
-    type: projects
-  values:
-    layout: project

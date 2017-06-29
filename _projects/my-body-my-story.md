@@ -6,7 +6,6 @@ tags:
 - Short
 - Documentary
 lang: en
-
 o_title: Meu Corpo, Minha História
 status: unreleased
 year: 2018

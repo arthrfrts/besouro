@@ -6,7 +6,6 @@ tags:
 - Short
 - Comedy
 lang: en
-
 o_title: As Férias de Lord Lucas
 year: 2008
 status: released

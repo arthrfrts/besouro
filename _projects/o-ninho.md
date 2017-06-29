@@ -6,7 +6,6 @@ tags:
 - Série
 - Drama
 lang: pt
-
 year: 2015
 status: released
 media:

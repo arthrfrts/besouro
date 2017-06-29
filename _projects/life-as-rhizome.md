@@ -6,7 +6,6 @@ tags:
 - Short
 - Documentary
 lang: en
-
 o_title: Vida Como Rizoma
 year: 2015
 status: released

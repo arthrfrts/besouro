@@ -6,7 +6,6 @@ tags:
 - Curta
 - Documentário
 lang: pt
-
 year: 2011
 status: released
 team:

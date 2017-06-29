@@ -6,7 +6,6 @@ tags:
 - Filme
 - Drama
 lang: pt
-
 status: unreleased
 year: 2019
 media:

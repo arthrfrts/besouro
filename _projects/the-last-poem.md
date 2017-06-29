@@ -6,7 +6,6 @@ tags:
 - Feature
 - Documentary
 lang: en
-
 o_title: O Último Poema
 year: 2015
 status: released

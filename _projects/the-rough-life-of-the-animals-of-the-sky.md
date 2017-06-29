@@ -6,7 +6,6 @@ tags:
 - Feature
 - Drama
 lang: en
-
 o_title: A Vida Bruta dos Animais do Céu
 year: 2019
 status: unreleased

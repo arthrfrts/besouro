@@ -6,7 +6,6 @@ tags:
 - Tags
 - Drama
 lang: pt
-
 year: 2012
 status: released
 media:

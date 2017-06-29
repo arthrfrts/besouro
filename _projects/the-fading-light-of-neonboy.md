@@ -6,7 +6,6 @@ tags:
 - Feature
 - Drama
 lang: en
-
 o_title: GarotoNeon
 year: 2018
 status: unreleased

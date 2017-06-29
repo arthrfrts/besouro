@@ -6,7 +6,6 @@ tags:
 - Série
 - Drama
 lang: pt
-
 year: 2018
 status: unreleased
 media:

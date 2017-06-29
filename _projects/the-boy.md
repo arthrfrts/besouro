@@ -6,7 +6,6 @@ tags:
 - Feature
 - Drama
 lang: en
-
 o_title: O Guri
 year: 2009
 status: released

@@ -6,7 +6,6 @@ tags:
 - Filme
 - Documentário
 lang: pt
-
 year: 2017
 status: released
 media:

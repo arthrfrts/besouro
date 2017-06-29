@@ -6,7 +6,6 @@ tags:
 - Feature
 - Documentary
 lang: en
-
 year: 2018
 status: unreleased
 media:

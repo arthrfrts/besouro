@@ -6,7 +6,6 @@ tags:
 - Feature
 - Drama
 lang: en
-
 o_title: Camaleão Fiel
 year: 2018
 status: unreleased

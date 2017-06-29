@@ -6,7 +6,6 @@ tags:
 - Feature
 - Animation
 lang: en
-
 o_title: O Reino dos Pássaros
 year: 2020
 status: unreleased

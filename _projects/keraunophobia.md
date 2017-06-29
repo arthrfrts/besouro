@@ -6,7 +6,6 @@ tags:
 - Short
 - Drama
 lang: en
-
 o_title: Ceraunofobia
 year: 2014
 status: released

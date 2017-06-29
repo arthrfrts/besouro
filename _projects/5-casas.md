@@ -6,7 +6,6 @@ tags:
 - Filme
 - Documentário
 lang: pt
-
 year: 2018
 status: unreleased
 media:
