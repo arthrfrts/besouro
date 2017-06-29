@@ -7,7 +7,7 @@ tags:
 - Drama
 lang: en
 o_title: Sopa de Asfalto
-year: 2012
+date: 2012-01-01
 media:
   image: https://cldup.com/YSBNgUV27t.jpg
 team:

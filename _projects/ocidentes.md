@@ -6,7 +6,7 @@ tags:
 - Série
 - Drama
 lang: pt
-year: 2014
+date: 2014-01-01
 media:
   image: https://cldup.com/H5bs4S9lPQ.jpg
 team:

@@ -6,7 +6,7 @@ tags:
 - Curta
 - Drama
 lang: pt
-year: 2014
+date: 2014-01-01
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg
 team:

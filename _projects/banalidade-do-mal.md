@@ -6,7 +6,7 @@ tags:
 - Série
 - Drama
 lang: pt
-year: 2018
+date: 2018-12-30
 media:
   image: https://cldup.com/OE24EX-YV2.png
 team:

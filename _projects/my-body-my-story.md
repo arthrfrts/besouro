@@ -7,7 +7,7 @@ tags:
 - Documentary
 lang: en
 o_title: Meu Corpo, Minha História
-year: 2018
+date: 2018-12-30
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

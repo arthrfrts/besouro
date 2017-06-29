@@ -6,7 +6,7 @@ tags:
 - Filme
 - Drama
 lang: pt
-year: 2019
+date: 2019-12-30
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg
 team:

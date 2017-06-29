@@ -7,7 +7,7 @@ tags:
 - Drama
 lang: en
 o_title: O Guri
-year: 2009
+date: 2009-01-01
 media:
   image: https://cldup.com/VD8CVaPFMX.jpg
 team:

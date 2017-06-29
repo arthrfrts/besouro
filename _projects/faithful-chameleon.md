@@ -7,7 +7,7 @@ tags:
 - Drama
 lang: en
 o_title: Camaleão Fiel
-year: 2018
+date: 2018-12-30
 media:
   image: https://cldup.com/lXAtytNRxL.jpg
 team:

@@ -6,7 +6,7 @@ tags:
 - Filme
 - Documentário
 lang: pt
-year: 2013
+date: 2013-01-01
 team:
   director: Bruno Polidoro e Cacá Nazario
 media:

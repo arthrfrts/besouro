@@ -16,7 +16,7 @@ layout: default
     {% if page.o_title %}
     <p class="original-title"><em>{{ page.o_title }}</em></p>
     {% endif %}
-    <p>{{ page.year }} <span role="separator">/</span> {{ page.tags | join: ' <span role="separator">/</span> ' }}</p>
+    <p>{{ page.date | date: "%Y"  }} <span role="separator">/</span> {{ page.tags | join: ' <span role="separator">/</span> ' }}</p>
     {% if page.team.director == page.team.writer %}
       {% if page.lang == 'en' %}
       <p><span>Written and directed by</span> {{ page.team.director }}</p>

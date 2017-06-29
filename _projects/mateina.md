@@ -6,7 +6,7 @@ tags:
 - Filme
 - Comédia
 lang: pt
-year: 2019
+date: 2019-12-30
 team:
   director: Joaquín Peñagaricano e Pablo Abdala
   copro: Besouro Filmes, Jengibre Producciones e Coelho Voador

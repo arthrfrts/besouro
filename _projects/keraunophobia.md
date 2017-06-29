@@ -7,7 +7,7 @@ tags:
 - Drama
 lang: en
 o_title: Ceraunofobia
-year: 2014
+date: 2014-01-01
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg
 team:

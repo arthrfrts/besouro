@@ -7,7 +7,7 @@ tags:
 - Documentary
 lang: en
 o_title: O Último Poema
-year: 2015
+date: 2015-01-01
 team:
   director: Mirela Kruel
 media:

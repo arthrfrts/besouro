@@ -6,7 +6,7 @@ tags:
 - Curta
 - Documentário
 lang: pt
-year: 2015
+date: 2015-01-01
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg
   trailer: https://vimeo.com/133766113

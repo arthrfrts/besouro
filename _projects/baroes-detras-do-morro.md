@@ -6,7 +6,7 @@ tags:
 - Filme
 - Drama
 lang: pt
-year: 2018
+date: 2018-12-30
 team:
   director: Germano de Oliveira
   writer: Germano de Oliveira e Marcela Bordin

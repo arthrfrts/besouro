@@ -6,7 +6,7 @@ tags:
 - Curta
 - Documentário
 lang: pt
-year: 2011
+date: 2011-01-01
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes e BUNKER Studio

@@ -7,7 +7,7 @@ tags:
 - Documentary
 lang: en
 o_title: Música para quando as luzes se apagam
-year: 2017
+date: 2017-01-01
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
   video: https://cldup.com/rqeRbOXok2.mp4

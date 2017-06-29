@@ -4,12 +4,12 @@ layout: scaffolding
 
 {% if page.categories %}
   {% if page.categories == 'development' %}
-    {% assign projects = site.projects | sort: 'year' | where: 'categories', page.categories | where: 'lang', page.lang %}
+    {% assign projects = site.projects | sort: 'date' | where: 'categories', page.categories | where: 'lang', page.lang %}
   {% else %}
-    {% assign projects = site.projects | sort: 'year' | where: 'categories', page.categories | where: 'lang', page.lang | reverse %}
+    {% assign projects = site.projects | sort: 'date' | where: 'categories', page.categories | where: 'lang', page.lang | reverse %}
   {% endif %}
 {% else %}
-{% assign projects = site.projects | sort: 'year' | where: 'lang', page.lang | reverse %}
+{% assign projects = site.projects | sort: 'date' | where: 'lang', page.lang | reverse %}
 {% endif %}
 
 {% for project in projects limit:1 %}
@@ -27,7 +27,7 @@ layout: scaffolding
     <figcaption>
       <a href="{{ project.url | relative_url }}" title="{{ project.title }}">
         <strong>{{ project.title }}</strong><br />
-        {{ project.year }} / {{ project.tags | join: ' / ' }} / <abbr title="{% if page.lang == 'en' %}Directed by{% else %}Direção{% endif %}">D:</abbr> {{ project.team.director }}
+        {{ project.date | date: "%Y" }} / {{ project.tags | join: ' / ' }} / <abbr title="{% if page.lang == 'en' %}Directed by{% else %}Direção{% endif %}">D:</abbr> {{ project.team.director }}
       </a>
     </figcaption>
   </figure>
@@ -43,7 +43,7 @@ layout: scaffolding
       <figcaption>
         <a href="{{ project.url | relative_url }}">
           <strong>{{ project.title }}</strong><br />
-          {{ project.year }} / {{ project.tags | join: ' / ' }}
+          {{ project.date | date: "%Y"  }} / {{ project.tags | join: ' / ' }}
         </a>
       </figcaption>
     </figure>

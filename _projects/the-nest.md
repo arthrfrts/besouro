@@ -7,7 +7,7 @@ tags:
 - Drama
 lang: en
 o_title: O Ninho
-year: 2015
+date: 2015-01-01
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg
   video: https://cldup.com/q5EqAtsDi7.mp4

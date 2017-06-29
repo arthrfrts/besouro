@@ -6,7 +6,7 @@ tags:
 - Curta
 - Documentário
 lang: pt
-year: 2018
+date: 2018-12-30
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

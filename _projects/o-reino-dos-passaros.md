@@ -6,7 +6,7 @@ tags:
 - Filme
 - Animação
 lang: pt
-year: 2020
+date: 2020-12-30
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

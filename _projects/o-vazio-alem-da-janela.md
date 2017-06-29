@@ -6,7 +6,7 @@ tags:
 - Curta
 - Drama
 lang: pt
-year: 2007
+date: 2007-01-01
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg
   trailer: https://vimeo.com/38340401

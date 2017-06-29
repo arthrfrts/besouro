@@ -6,7 +6,7 @@ tags:
 - Série
 - Documentário
 lang: pt
-year: 2018
+date: 2018-12-30
 team:
   director: Thais Fernandes
 media:

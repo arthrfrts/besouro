@@ -6,7 +6,7 @@ tags:
 - Curta
 - Documentário
 lang: pt
-year: 2013
+date: 2013-01-01
 media:
   image: https://cldup.com/C1k1-Z43LH.jpg
   trailer: https://vimeo.com/96107699

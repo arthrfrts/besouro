@@ -6,7 +6,7 @@ tags:
 - Curta
 - Drama
 lang: pt
-year: 2014
+date: 2014-01-01
 media:
   image: https://cldup.com/RL29539hoc.jpg
 team:

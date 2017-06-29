@@ -6,7 +6,7 @@ tags:
 - Curta
 - Comédia
 lang: pt
-year: 2008
+date: 2008-01-01
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes e RBS TV

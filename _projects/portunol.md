@@ -6,7 +6,7 @@ tags:
 - Documentário
 lang: pt
 format: Filme
-year: 2018
+date: 2018-12-30
 media:
   image: https://cldup.com/5Q7Tj6BILD.jpg
 team:
