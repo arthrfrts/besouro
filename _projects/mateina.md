@@ -1,12 +1,12 @@
 ---
 title: Mateína
+date: 2019-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Filme
 - Comédia
 lang: pt
-date: 2019-12-30
 team:
   director: Joaquín Peñagaricano e Pablo Abdala
   copro: Besouro Filmes, Jengibre Producciones e Coelho Voador

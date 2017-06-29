@@ -1,5 +1,6 @@
 ---
 title: Camel On The Tarmac
+date: 2014-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
@@ -7,7 +8,6 @@ tags:
 - Drama
 lang: en
 o_title: Dromedário no Asfalto
-date: 2014-01-01
 team:
   director: Gilson Vargas
   writer: Gilson Vargas

@@ -1,12 +1,12 @@
 ---
 title: Ceraunofobia
+date: 2014-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
 - Curta
 - Drama
 lang: pt
-date: 2014-01-01
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg
 team:

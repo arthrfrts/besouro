@@ -1,12 +1,12 @@
 ---
 title: O Vazio Além da Janela
+date: 2007-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
 - Curta
 - Drama
 lang: pt
-date: 2007-01-01
 media:
   image: https://cldup.com/7_Ymwfdsf3.jpg
   trailer: https://vimeo.com/38340401

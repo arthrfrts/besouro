@@ -1,12 +1,12 @@
 ---
 title: Dona Hertha
+date: 2012-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
 - Curta
 - Documentário
 lang: pt
-date: 2012-01-01
 media:
   image: https://cldup.com/6e1VyKpuG3.jpg
   trailer: https://vimeo.com/96510340

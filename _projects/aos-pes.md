@@ -1,12 +1,12 @@
 ---
 title: Aos Pés
+date: 2009-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
 - Curta
 - Drama
 lang: pt
-date: 2009-01-01
 media:
   image: https://cldup.com/_paB3GGfpF.jpg
 team:

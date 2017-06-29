@@ -1,12 +1,12 @@
 ---
 title: Vida Como Rizoma
+date: 2015-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
 - Curta
 - Documentário
 lang: pt
-date: 2015-01-01
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg
   trailer: https://vimeo.com/133766113

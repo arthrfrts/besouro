@@ -1,5 +1,6 @@
 ---
 title: The Last Poem
+date: 2015-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
@@ -7,7 +8,6 @@ tags:
 - Documentary
 lang: en
 o_title: O Último Poema
-date: 2015-01-01
 team:
   director: Mirela Kruel
 media:

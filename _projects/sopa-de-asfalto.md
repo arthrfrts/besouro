@@ -1,12 +1,12 @@
 ---
 title: Sopa de Asfalto
+date: 2012-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
 - Tags
 - Drama
 lang: pt
-date: 2012-01-01
 media:
   image: https://cldup.com/YSBNgUV27t.jpg
 team:

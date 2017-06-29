@@ -1,12 +1,12 @@
 ---
 title: Portuñol
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Documentário
 lang: pt
 format: Filme
-date: 2018-12-30
 media:
   image: https://cldup.com/5Q7Tj6BILD.jpg
 team:

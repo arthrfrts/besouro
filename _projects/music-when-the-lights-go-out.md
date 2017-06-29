@@ -1,5 +1,6 @@
 ---
 title: Music When The Lights Go Out
+date: 2017-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
@@ -7,7 +8,6 @@ tags:
 - Documentary
 lang: en
 o_title: Música para quando as luzes se apagam
-date: 2017-01-01
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
   video: https://cldup.com/rqeRbOXok2.mp4

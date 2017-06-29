@@ -1,12 +1,12 @@
 ---
 title: Ocidentes
+date: 2014-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
 - Série
 - Drama
 lang: pt
-date: 2014-01-01
 media:
   image: https://cldup.com/H5bs4S9lPQ.jpg
 team:

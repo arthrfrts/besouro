@@ -1,5 +1,6 @@
 ---
 title: Over Seven Sparkling Green Waves
+date: 2013-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
@@ -7,7 +8,6 @@ tags:
 - Documentary
 lang: en
 o_title: Sobre sete ondas verdes espumantes
-date: 2013-01-01
 team:
   director: Bruno Polidoro and Cacá Nazario
 media:

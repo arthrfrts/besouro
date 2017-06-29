@@ -1,5 +1,6 @@
 ---
 title: The Fading Light Of NeonBoy
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
@@ -7,7 +8,6 @@ tags:
 - Drama
 lang: en
 o_title: GarotoNeon
-date: 2018-12-30
 media:
   image: https://cldup.com/gO6P3cMbBt.jpg
 team:

@@ -1,12 +1,12 @@
 ---
 title: O Guri
+date: 2009-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
 - Filme
 - Drama
 lang: pt
-date: 2009-01-01
 media:
   image: https://cldup.com/VD8CVaPFMX.jpg
 team:

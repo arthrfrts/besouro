@@ -1,12 +1,12 @@
 ---
 title: Barões detrás do morro
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Filme
 - Drama
 lang: pt
-date: 2018-12-30
 team:
   director: Germano de Oliveira
   writer: Germano de Oliveira e Marcela Bordin

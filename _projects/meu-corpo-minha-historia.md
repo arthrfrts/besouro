@@ -1,12 +1,12 @@
 ---
 title: Meu Corpo, Minha História
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Curta
 - Documentário
 lang: pt
-date: 2018-12-30
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

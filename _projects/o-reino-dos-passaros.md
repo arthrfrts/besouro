@@ -1,12 +1,12 @@
 ---
 title: O Reino dos Pássaros
+date: 2020-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Filme
 - Animação
 lang: pt
-date: 2020-12-30
 team:
   director: Wesley Rodrigues
   writer: Wesley Rodrigues

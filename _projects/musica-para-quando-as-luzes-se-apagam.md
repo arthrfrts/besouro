@@ -1,12 +1,12 @@
 ---
 title: Música para quando as luzes se apagam
+date: 2017-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
 - Filme
 - Documentário
 lang: pt
-date: 2017-01-01
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
   video: https://cldup.com/rqeRbOXok2.mp4

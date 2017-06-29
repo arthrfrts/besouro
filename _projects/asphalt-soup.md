@@ -1,5 +1,6 @@
 ---
 title: Asphalt Soup
+date: 2012-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
@@ -7,7 +8,6 @@ tags:
 - Drama
 lang: en
 o_title: Sopa de Asfalto
-date: 2012-01-01
 media:
   image: https://cldup.com/YSBNgUV27t.jpg
 team:

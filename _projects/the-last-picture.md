@@ -1,5 +1,6 @@
 ---
 title: The Last Picture
+date: 2014-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
@@ -7,7 +8,6 @@ tags:
 - Drama
 lang: en
 o_title: A Última Foto
-date: 2014-01-01
 media:
   image: https://cldup.com/RL29539hoc.jpg
 team:

@@ -1,5 +1,6 @@
 ---
 title: Banality Of Evil
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
@@ -7,7 +8,6 @@ tags:
 - Drama
 lang: en
 o_title: Banalidade do Mal
-date: 2018-12-30
 media:
   image: https://cldup.com/OE24EX-YV2.png
 team:

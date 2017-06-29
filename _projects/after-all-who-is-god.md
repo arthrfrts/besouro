@@ -1,12 +1,12 @@
 ---
 title: After All Who Is God
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Series
 - Documentary
 lang: en
-date: 2018-12-30
 team:
   director: Thais Fernandes
 media:

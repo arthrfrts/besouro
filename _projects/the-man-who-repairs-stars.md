@@ -1,5 +1,6 @@
 ---
 title: The Man Who Repairs Stars
+date: 2013-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
@@ -7,7 +8,6 @@ tags:
 - Documentary
 lang: en
 o_title: O Homem que Conserta Estrelas
-date: 2013-01-01
 media:
   image: https://cldup.com/C1k1-Z43LH.jpg
   trailer: https://vimeo.com/96107699

@@ -1,5 +1,6 @@
 ---
 title: My Body My Story
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
@@ -7,7 +8,6 @@ tags:
 - Documentary
 lang: en
 o_title: Meu Corpo, Minha História
-date: 2018-12-30
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg
 team:

@@ -1,12 +1,12 @@
 ---
 title: Matar um Dragão na Capadócia
+date: 2019-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
 - Filme
 - Drama
 lang: pt
-date: 2019-12-30
 media:
   image: https://cldup.com/SSGpf_6aZj.jpg
 team:

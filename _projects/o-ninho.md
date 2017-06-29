@@ -1,12 +1,12 @@
 ---
 title: O Ninho
+date: 2015-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
 - Série
 - Drama
 lang: pt
-date: 2015-01-01
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg
   video: https://cldup.com/q5EqAtsDi7.mp4

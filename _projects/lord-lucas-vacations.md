@@ -1,5 +1,6 @@
 ---
 title: Lord Lucas Vacategoriesions
+date: 2008-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
@@ -7,7 +8,6 @@ tags:
 - Comedy
 lang: en
 o_title: As Férias de Lord Lucas
-date: 2008-01-01
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes and RBS TV

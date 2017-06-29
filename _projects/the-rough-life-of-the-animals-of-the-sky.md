@@ -1,5 +1,6 @@
 ---
 title: The Rough Life Of The Animals Of The Sky
+date: 2019-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
@@ -7,7 +8,6 @@ tags:
 - Drama
 lang: en
 o_title: A Vida Bruta dos Animais do Céu
-date: 2019-12-30
 team:
   director: Tyrell Spencer
   writer: Guilherme Zanella

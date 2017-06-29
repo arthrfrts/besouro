@@ -1,12 +1,12 @@
 ---
 title: Fez a Barba e o Choro
+date: 2011-01-01 00:00:00 -02:00
 categories:
 - cinema
 tags:
 - Curta
 - Documentário
 lang: pt
-date: 2011-01-01
 team:
   director: Tatiana Nequete
   copro: Besouro Filmes e BUNKER Studio

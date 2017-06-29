@@ -1,12 +1,12 @@
 ---
 title: Folha em Branco
+date: 2011-01-01 00:00:00 -02:00
 categories:
 - tv
 tags:
 - Curta
 - Drama
 lang: pt
-date: 2011-01-01
 media:
   image: https://cldup.com/khtUSEh1BQ.jpg
   trailer: https://vimeo.com/47054299

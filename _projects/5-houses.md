@@ -1,5 +1,6 @@
 ---
 title: 5 Houses
+date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
 tags:
@@ -7,7 +8,6 @@ tags:
 - Documentary
 lang: en
 o_title: 5 Casas
-date: 2018-12-30
 media:
   image: https://cldup.com/IXkTUprQ0q.jpg
   video: https://cldup.com/81RqM3XrXW.mp4
