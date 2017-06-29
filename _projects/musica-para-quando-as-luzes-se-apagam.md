@@ -1,7 +1,8 @@
 ---
 title: Música para quando as luzes se apagam
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2017
 format: Filme

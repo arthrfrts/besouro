@@ -1,7 +1,8 @@
 ---
 title: O Guri
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2009
 format: Filme

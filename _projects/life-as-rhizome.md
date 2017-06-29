@@ -1,12 +1,13 @@
 ---
 title: Life As Rhizome
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Vida Como Rizoma
 year: 2015
 format: Short
 genre: Documentary
-categories: cinema
 status: released
 media:
   image: https://cldup.com/Z6KAcvtPdd.jpg

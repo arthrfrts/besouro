@@ -1,11 +1,12 @@
 ---
 title: Barons From Behind The Hill
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Barões detrás do morro
 year: 2018
 status: unreleased
-categories: cinema
 format: Film
 genre: Drama
 team:

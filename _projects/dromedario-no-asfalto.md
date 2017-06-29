@@ -1,7 +1,8 @@
 ---
 title: Dromedário no Asfalto
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2014
 status: released

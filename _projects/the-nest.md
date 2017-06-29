@@ -1,12 +1,13 @@
 ---
 title: The Nest
+categories:
+- tv
 lang: en
 layout: project
 o_title: O Ninho
 year: 2015
 format: TV Series
 genre: Drama
-categories: tv
 status: released
 media:
   image: https://cldup.com/MHiwPRXK_S.jpg

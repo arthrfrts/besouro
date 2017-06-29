@@ -1,7 +1,8 @@
 ---
 title: Mateína
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 status: unreleased
 year: 2019

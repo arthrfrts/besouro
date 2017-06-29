@@ -1,12 +1,13 @@
 ---
 title: Lord Lucas Vacategoriesions
+categories:
+- tv
 lang: en
 layout: project
 o_title: As Férias de Lord Lucas
 year: 2008
 format: Short
 genre: Comedy
-categories: tv
 status: released
 team:
   director: Tatiana Nequete

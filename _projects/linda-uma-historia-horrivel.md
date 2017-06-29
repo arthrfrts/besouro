@@ -1,7 +1,8 @@
 ---
 title: Linda, uma história horrível
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2013
 format: Curta

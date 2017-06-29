@@ -1,7 +1,8 @@
 ---
 title: GarotoNeon
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2018
 format: Filme

@@ -1,12 +1,13 @@
 ---
 title: Linda A Horrible Story
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Linda, uma história horrível
 year: 2013
 format: Short
 genre: Drama
-categories: cinema
 status: released
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg

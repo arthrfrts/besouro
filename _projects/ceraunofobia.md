@@ -1,7 +1,8 @@
 ---
 title: Ceraunofobia
+categories:
+- tv
 lang: pt
-categories: tv
 layout: project
 year: 2014
 format: Curta

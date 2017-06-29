@@ -1,7 +1,8 @@
 ---
 title: O Homem que Conserta Estrelas
+categories:
+- tv
 lang: pt
-categories: tv
 layout: project
 year: 2013
 format: Curta

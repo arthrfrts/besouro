@@ -1,10 +1,11 @@
 ---
 title: Faithful Chameleon
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Camaleão Fiel
 year: 2018
-categories: cinema
 format: Film
 genre: Drama
 status: unreleased

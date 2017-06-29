@@ -1,8 +1,9 @@
 ---
 title: Aos Pés
+categories:
+- cinema
 lang: pt
 layout: project
-categories: cinema
 year: 2009
 format: Curta
 genre: Drama

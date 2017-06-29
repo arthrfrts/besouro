@@ -1,8 +1,9 @@
 ---
 title: Camaleão Fiel
+categories:
+- cinema
 lang: pt
 layout: project
-categories: cinema
 year: 2018
 format: Filme
 genre: Drama

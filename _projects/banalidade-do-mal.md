@@ -1,8 +1,9 @@
 ---
 title: Banalidade do Mal
+categories:
+- tv
 lang: pt
 layout: project
-categories: tv
 year: 2018
 format: Série
 genre: Drama

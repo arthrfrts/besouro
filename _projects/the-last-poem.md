@@ -1,12 +1,13 @@
 ---
 title: The Last Poem
+categories:
+- cinema
 lang: en
 layout: project
 o_title: O Último Poema
 year: 2015
 genre: Documentary
 format: Film
-categories: cinema
 status: released
 team:
   director: Mirela Kruel

@@ -1,12 +1,13 @@
 ---
 title: Keraunophobia
+categories:
+- tv
 lang: en
 layout: project
 o_title: Ceraunofobia
 year: 2014
 format: Short
 genre: Drama
-categories: tv
 status: released
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg

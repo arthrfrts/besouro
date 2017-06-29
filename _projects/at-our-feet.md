@@ -1,12 +1,13 @@
 ---
 title: At Our Feet
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Aos Pés
 year: 2009
 format: Short
 genre: Drama
-categories: cinema
 status: released
 media:
   image: https://cldup.com/_paB3GGfpF.jpg

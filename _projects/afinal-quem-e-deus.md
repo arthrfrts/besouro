@@ -1,8 +1,9 @@
 ---
 title: Afinal, quem é Deus?
+categories:
+- tv
 lang: pt
 layout: project
-categories: tv
 year: 2018
 status: unreleased
 format: Série

@@ -1,10 +1,11 @@
 ---
 title: Mateína
+categories:
+- cinema
 lang: en
 layout: project
 status: unreleased
 year: 2019
-categories: cinema
 genre: Comedy
 format: Film
 team:

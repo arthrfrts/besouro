@@ -1,11 +1,12 @@
 ---
 title: A Trim With A Rythm
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Fez a Barba e o Choro
 year: 2011
 status: released
-categories: cinema
 format: Short
 genre: Documentary
 team:

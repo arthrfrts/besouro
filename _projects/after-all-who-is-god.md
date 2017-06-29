@@ -1,10 +1,11 @@
 ---
 title: After All Who Is God
+categories:
+- tv
 lang: en
 layout: project
 year: 2018
 status: unreleased
-categories: tv
 format: TV Series
 genre: Documentary
 team:

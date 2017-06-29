@@ -1,7 +1,8 @@
 ---
 title: Vida Como Rizoma
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2015
 format: Curta

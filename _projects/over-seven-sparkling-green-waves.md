@@ -1,11 +1,12 @@
 ---
 title: Over Seven Sparkling Green Waves
+categories:
+- cinema
 lang: en
 layout: project
 o_title: Sobre sete ondas verdes espumantes
 year: 2013
 status: released
-categories: cinema
 genre: Documentary
 format: Film
 team:

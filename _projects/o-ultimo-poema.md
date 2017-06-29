@@ -1,7 +1,8 @@
 ---
 title: O Último Poema
+categories:
+- cinema
 lang: pt
-categories: cinema
 layout: project
 year: 2015
 genre: Documentário
