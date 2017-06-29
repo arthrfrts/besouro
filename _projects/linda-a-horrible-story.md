@@ -6,7 +6,7 @@ tags:
 - Short
 - Drama
 lang: en
-layout: project
+
 o_title: Linda, uma história horrível
 year: 2013
 status: released

@@ -6,7 +6,7 @@ tags:
 - Filme
 - Comédia
 lang: pt
-layout: project
+
 status: unreleased
 year: 2019
 team:

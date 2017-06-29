@@ -6,7 +6,7 @@ tags:
 - Short
 - Drama
 lang: en
-layout: project
+
 o_title: Aos Pés
 year: 2009
 status: released

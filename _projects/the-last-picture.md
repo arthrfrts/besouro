@@ -6,7 +6,7 @@ tags:
 - Short
 - Drama
 lang: en
-layout: project
+
 o_title: A Última Foto
 year: 2014
 status: released

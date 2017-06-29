@@ -6,7 +6,7 @@ tags:
 - Filme
 - Drama
 lang: pt
-layout: project
+
 year: 2019
 status: unreleased
 team:

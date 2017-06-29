@@ -6,7 +6,7 @@ tags:
 - Feature
 - Documentary
 lang: en
-layout: project
+
 o_title: Música para quando as luzes se apagam
 year: 2017
 status: released

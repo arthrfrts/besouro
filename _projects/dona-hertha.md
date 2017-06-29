@@ -6,7 +6,7 @@ tags:
 - Curta
 - Documentário
 lang: pt
-layout: project
+
 year: 2012
 status: released
 media:

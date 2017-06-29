@@ -6,7 +6,7 @@ tags:
 - Curta
 - Drama
 lang: pt
-layout: project
+
 year: 2007
 status: released
 media:

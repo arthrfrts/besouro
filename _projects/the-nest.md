@@ -6,7 +6,7 @@ tags:
 - Series
 - Drama
 lang: en
-layout: project
+
 o_title: O Ninho
 year: 2015
 status: released

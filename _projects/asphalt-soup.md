@@ -6,7 +6,7 @@ tags:
 - Short
 - Drama
 lang: en
-layout: project
+
 o_title: Sopa de Asfalto
 year: 2012
 status: released

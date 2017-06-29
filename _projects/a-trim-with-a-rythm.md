@@ -6,7 +6,7 @@ tags:
 - Short
 - Documentary
 lang: en
-layout: project
+
 o_title: Fez a Barba e o Choro
 year: 2011
 status: released

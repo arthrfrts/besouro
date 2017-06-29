@@ -5,7 +5,7 @@ categories:
 tags:
 - Documentário
 lang: pt
-layout: project
+
 format: Filme
 year: 2018
 status: unreleased

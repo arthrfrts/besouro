@@ -6,7 +6,7 @@ tags:
 - Filme
 - Animação
 lang: pt
-layout: project
+
 year: 2020
 status: unreleased
 team:

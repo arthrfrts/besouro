@@ -6,7 +6,7 @@ tags:
 - Feature
 - Documentary
 lang: en
-layout: project
+
 o_title: 5 Casas
 year: 2018
 status: unreleased

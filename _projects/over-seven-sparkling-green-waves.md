@@ -6,7 +6,7 @@ tags:
 - Feature
 - Documentary
 lang: en
-layout: project
+
 o_title: Sobre sete ondas verdes espumantes
 year: 2013
 status: released

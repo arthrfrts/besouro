@@ -6,7 +6,7 @@ tags:
 - Tags
 - Drama
 lang: pt
-layout: project
+
 year: 2012
 status: released
 media:

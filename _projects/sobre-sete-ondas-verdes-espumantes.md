@@ -6,7 +6,7 @@ tags:
 - Filme
 - Documentário
 lang: pt
-layout: project
+
 year: 2013
 status: released
 team:

@@ -6,7 +6,7 @@ tags:
 - Series
 - Drama
 lang: en
-layout: project
+
 year: 2014
 status: released
 media:

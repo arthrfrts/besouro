@@ -6,7 +6,7 @@ tags:
 - Série
 - Documentário
 lang: pt
-layout: project
+
 year: 2018
 status: unreleased
 team:
