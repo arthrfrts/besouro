@@ -3,7 +3,11 @@ layout: scaffolding
 ---
 
 {% if page.categories %}
-{% assign projects = site.projects | sort: 'year' | where: 'categories', page.categories | where: 'lang', page.lang | reverse %}
+  {% if page.categories == 'development' %}
+    {% assign projects = site.projects | sort: 'year' | where: 'categories', page.categories | where: 'lang', page.lang %}
+  {% else %}
+    {% assign projects = site.projects | sort: 'year' | where: 'categories', page.categories | where: 'lang', page.lang | reverse %}
+  {% endif %}
 {% else %}
 {% assign projects = site.projects | sort: 'year' | where: 'lang', page.lang | reverse %}
 {% endif %}
