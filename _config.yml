@@ -15,7 +15,8 @@ collections:
     output: true
     permalink: "/assets/media/:path"
 description: Produtora de filmes e TV em Porto Alegre, Brasil.
-baseurl: 
+analytics: UA-19318054-1
+baseurl:
 url: http://besourofilmes.com
 contact:
   email: besourofilmes@besourofilmes.com
