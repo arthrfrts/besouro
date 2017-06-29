@@ -7,7 +7,7 @@
   <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | normalize_whitespace | escape | truncate: 140 }}" />
 
-  <link type="text/plain" rel="author" href="{{ '/homans.txt' | relative_url }}" />
+  <link type="text/plain" rel="author" href="{{ '/humans.txt' | relative_url }}" />
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat+Alternates:500" />
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
