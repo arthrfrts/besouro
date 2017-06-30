@@ -1,9 +1,9 @@
 ---
 title: Quem somos
 lang: pt
-layout: page
 media:
   image: https://cldup.com/cf5wq55eux.jpg
+layout: page
 ---
 
 {% include figure.html src="https://cldup.com/cf5wq55eux.jpg" alt="Imagem do pessoal" class="full-width" %}
@@ -24,7 +24,4 @@ Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cult
 
 ## Fabiano Florez
 É diretor e produtor na área audiovisual. Fez a
-direção de produção e produção executiva de vários projetos para
-cinema e televisão. Em 2004 ganhou o prêmio de Melhor Curta Gaúcho
-16mm do 32º Festival de Cinema de Gramado com o documentário Jesus, o
-Verdadeiro.
+direção de produção e produção executiva de vários projetos para cinema e televisão. Em 2004 ganhou o prêmio de Melhor Curta Gaúcho 16mm do 32º Festival de Cinema de Gramado com o documentário _Jesus, o Verdadeiro_.
