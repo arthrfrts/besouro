@@ -1,5 +1,5 @@
 ---
-title: Lord Lucas Vacategoriesions
+title: Lord Lucas Vacations
 date: 2008-01-01 00:00:00 -02:00
 categories:
 - tv
