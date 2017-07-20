@@ -23,4 +23,4 @@ Hugo passa os seus dias na casa da praia da família junto de Rafaella, sua mãe
 
 ## Labs, mercados e eventos
 * VI **Laboratório Novas Histórias** / Roteiros para Público Adulto
-* Finalista Concurso de Roteiro de Longas do FRAPA 2017
+* Finalista Concurso de Roteiro de Longas do **FRAPA** 2017
