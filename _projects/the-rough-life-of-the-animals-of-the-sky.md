@@ -24,3 +24,4 @@ Hugo spends his days at his family's beach house with Rafaella, his depressive m
 
 ## Labs, markets and events
 * VI **Laboratório Novas Histórias**
+* Finalist at **FRAPA 2017** / Feature film competition
