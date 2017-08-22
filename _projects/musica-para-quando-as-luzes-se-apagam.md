@@ -28,3 +28,4 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 
 * **DocSP** 2016 / Rough Cut Lab
 * **Plataforma:LAB** 2016
+* **50ª Festival de Brasília do Cinema Brasileiro** / Seleção Oficial
