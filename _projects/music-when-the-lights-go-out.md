@@ -27,3 +27,4 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 
 * **DocSP** 2016 / Rough Cut Lab
 * **Plataforma:LAB** 2016
+* **50ª Festival de Brasília do Cinema Brasileiro** / Official selection
