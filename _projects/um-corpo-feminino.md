@@ -1,5 +1,5 @@
 ---
-title: Meu Corpo, Minha História
+title: Um Corpo Feminino
 date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
@@ -17,3 +17,5 @@ funds:
 ---
 
 _Meu Corpo, Minha História_ é um projeto transmídia. Um curta e um webdocumentário interativo cuja narrativa provoca mulheres a pensarem sobre suas identidades. Se ser mulher está ligado à auto-determinação, qual a importância da unidade simbólica do corpo?
+
+[Site do projeto](http://www.afemalebodyproject.com/index-port.php#top)
