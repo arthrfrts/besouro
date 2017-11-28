@@ -30,7 +30,8 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * **Plataforma:LAB** 2016
 * **50ª Festival de Brasília do Cinema Brasileiro** / Seleção Oficial /  Prêmio Especial do Júri: Melhor Ator Social para Emelyn Fischer
 * **25° Festival Mix Brasil de Cultura da Diversidade** / Mostra Competitiva de Longas-Metragens
-* **XIII Panorama Internacional Coisa de Cinema** / Competitiva Nacional
+* **XIII Panorama Internacional Coisa de Cinema** / Competitiva Nacional / Menção especial pela linguagem inovadora
 * **41ª Mostra Internacional de Cinema em São Paulo** / Seleção Oficial
-* **9ª Semana d_s Realizador_s**
-* **FOR RAINBOW – Festival de Cinema e Cultura da Diversidade Sexual** / Seleção Oficial
+* **9ª Semana d_s Realizador_s** / Prêmio Ricardo Miranda de Montagem de Invenção
+* **FOR RAINBOW – Festival de Cinema e Cultura da Diversidade Sexual** / Seleção Oficial / Prêmio da Crítica de Longa-metragem / Troféu Elke Maravilha para Melhor Fotografia
+* **8ª Mostra de Audiovisual de Petrópolis**
