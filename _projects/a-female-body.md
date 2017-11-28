@@ -1,5 +1,5 @@
 ---
-title: My Body My Story
+title: A Female Body
 date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
@@ -18,3 +18,5 @@ funds:
 ---
 
 _My Body, My Story_ is a transmedia project. A short movie and an interactive webdocumentary whose narrative provoques women to think about their identities. If being a woman is about self-determination, how important is the symbolic unity of the body?
+
+[Project website](http://afemalebodyproject.com/#top)
