@@ -15,7 +15,7 @@ team:
   writer: Filipe Matzembacher e Marcio Reolon
   copro: Avante Filmes e Besouro Filmes
   distribuição: Vitrine Filmes
-  sales e festivais: m-appeal
+  sales e festivais: 'm-appeal '
 funds:
 - Hubert Bals Fund 2014 / Desenvolvimento
 - MinC B.O. 2015
