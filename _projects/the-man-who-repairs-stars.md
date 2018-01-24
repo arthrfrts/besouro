@@ -6,6 +6,7 @@ categories:
 tags:
 - Short
 - Documentary
+position: 58
 lang: en
 o_title: O Homem que Conserta Estrelas
 media:

@@ -6,6 +6,7 @@ categories:
 tags:
 - Curta
 - Drama
+position: 10
 lang: pt
 media:
   image: https://cldup.com/Aly1xl0fc1.jpg

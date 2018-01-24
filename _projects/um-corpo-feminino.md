@@ -6,6 +6,7 @@ categories:
 tags:
 - Curta
 - Documentário
+position: 18
 lang: pt
 media:
   image: https://cldup.com/1KmR_PuEJ6.jpg

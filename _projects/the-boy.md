@@ -6,6 +6,7 @@ categories:
 tags:
 - Feature
 - Drama
+position: 54
 lang: en
 o_title: O Guri
 media:
