@@ -10,7 +10,7 @@ position: 42
 lang: en
 o_title: GarotoNeon
 media:
-  image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).tif"
+  image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"
 team:
   director: Filipe Matzembacher and Marcio Reolon
   writer: Filipe Matzembacher and Marcio Reolon
