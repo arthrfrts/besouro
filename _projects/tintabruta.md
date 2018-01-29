@@ -25,6 +25,9 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 
 ---
 
+## Festivais
+* 68ª **Berlinale - Festival Internacional de Cinema de Berlim** / Panorama
+
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
 * XXVII Rencontres de Toulouse / **Cinéma en Developpment 10**
