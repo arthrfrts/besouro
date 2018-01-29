@@ -25,6 +25,8 @@ funds:
 While facing criminal charges, Pedro must grapple with his sister’s sudden decision to move away and leave him behind. Alone in the darkness of his bedroom, he dances covered in neon paint, while thousands of strangers watch him via webcam.
 
 ---
+## Festivals
+* 68ª **Berlinale - Berlin International Film Festival** / Panorama
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
