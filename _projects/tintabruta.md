@@ -9,7 +9,7 @@ tags:
 position: 30
 lang: pt
 media:
-  image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).tif"
+  image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"
 team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon
