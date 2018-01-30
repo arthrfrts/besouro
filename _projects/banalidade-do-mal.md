@@ -9,10 +9,10 @@ tags:
 position: 7
 lang: pt
 media:
-  image: https://cldup.com/OE24EX-YV2.png
+  image: "/assets/media/image1.jpeg"
 team:
   director: Fabio Canale
-  copro: Galo de Briga Produções e Besouro Filmes
+  copro: Besouro Filmes, Alfredo Soares de Barros e Galo de Briga Filmes
 funds:
 - Edital PRODAV 02/2013
 ---
