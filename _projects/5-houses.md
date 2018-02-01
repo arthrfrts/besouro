@@ -20,6 +20,7 @@ funds:
 - PRODAV 04/2014
 - IDFA Bertha Fund (2015) / Development
 - NRW (2017) / Film und Medien Stiftung
+- PRODECINE – 05/2016
 ---
 
 _5 Houses_ and the people who inhabit their rooms. An old teacher, a young homosexual, a man who lives in an isolated farm, a group of nuns who runs a school and a boy whose parents died 20 years ago. They tell their stories and, in doing so, some of mine.
