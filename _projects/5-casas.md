@@ -19,6 +19,7 @@ funds:
 - PRODAV 04/2014
 - IDFA Bertha Fund (2015) / Desenvolvimento
 - NRW (2017) / Film und Medien Stiftung
+- PRODECINE – INOVAÇÃO DE LINGUAGEM – 05/2016
 ---
 
 _5 Casas_ e as pessoas que as habitam. Uma velha professora de francês, um jovem homossexual, um homem que vive em uma fazenda isolada, um grupo de freiras que conduzem uma escola e um menino cujos pais morreram 20 anos atrás.
