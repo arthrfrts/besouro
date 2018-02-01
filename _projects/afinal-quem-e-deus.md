@@ -11,7 +11,7 @@ lang: pt
 team:
   director: Thais Fernandes
 media:
-  image: https://cldup.com/PyBoPnfTy0.jpg
+  image: "/assets/media/02.jpeg"
 funds:
 - Edital PRODAV 12/2015
 ---
