@@ -1,5 +1,5 @@
 ---
-title: After All Who Is God
+title: After All, Who Is God?
 date: 2018-12-30 00:00:00 -02:00
 categories:
 - development
@@ -11,7 +11,7 @@ lang: en
 team:
   director: Thais Fernandes
 media:
-  image: https://cldup.com/PyBoPnfTy0.jpg
+  image: "/assets/media/02.jpeg"
 funds:
 - Edital PRODAV 12/2015
 ---
