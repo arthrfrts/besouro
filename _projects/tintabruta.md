@@ -26,7 +26,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 ---
 
 ## Festivais
-* 68ª **Berlinale - Festival Internacional de Cinema de Berlim** / Panorama / Prêmio Teddy de Melhor Longa-Metragem / Prêmio CICAE - Art Cinema Award
+* 68ª **Berlinale - Festival Internacional de Cinema de Berlim** / Panorama / Teddy Award for Best Feature Film / CICAE - Art Cinema Award
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
