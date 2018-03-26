@@ -11,7 +11,6 @@ lang: en
 o_title: Música para quando as luzes se apagam
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
-  trailer: https://www.youtube.com/watch?v=-OY1NdBrR2Y
   video: https://cldup.com/rqeRbOXok2.mp4
 team:
   director: Ismael Caneppele
