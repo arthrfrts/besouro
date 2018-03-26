@@ -22,7 +22,7 @@ videoartes e programas de televisão. Assina a fotografia dos longas _[O Guri]({
 
 ## Jessica Luz
 
-Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cultura (UFRGS) e Diseño y Gestión de la Producción Audiovisual (UAB), mestranda em Educação (PUCRS). Em 2014, participou do Writers and Creative Producers Lab do Binger FilmLab na Holanda. Sócia da Besouro Filmes desde 2006, produziu o longa [_Tinta Bruta_]({{ '/projetos/tintabruta/' | relative_url }}) (68º Berlinale - Panorama), de Filipe Matzembacher e Marcio Reolon,  com apoio do Hubert Bals Fund, e atualmente produz o documentário *5 Casas*, de Bruno Gularte Barreto, vencedor do IDFA Bertha Fund. 
+Jessica Luz é produtora formada pela UNISINOS, especialista em Economia da Cultura (UFRGS) e Diseño y Gestión de la Producción Audiovisual (UAB), mestranda em Educação (PUCRS). Em 2014, participou do Writers and Creative Producers Lab do Binger FilmLab na Holanda. Sócia da Besouro Filmes desde 2006, produziu o longa [_Tinta Bruta_]({{ '/projetos/tintabruta/' | relative_url }}) (68º Berlinale - Panorama), de Filipe Matzembacher e Marcio Reolon,  com apoio do Hubert Bals Fund, e atualmente produz o documentário [_5 Casas_]({{ '/projetos/5-casas/' | relative_url }}), de Bruno Gularte Barreto, vencedor do IDFA Bertha Fund. 
 
 ## Fabiano Florez
 
