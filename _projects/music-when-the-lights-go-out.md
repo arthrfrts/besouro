@@ -24,10 +24,8 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 
 ---
 
-## Events
+##Festivals
 
-* **DocSP** 2016 / Rough Cut Lab
-* **Plataforma:LAB** 2016
 * **50ª Festival de Brasília do Cinema Brasileiro** / Official selection /  Special Jury Award: Best social actress for Emelyn Fischer 
 * **25th Mix Brasil Festival of Diversity** / Official Selection
 * **XIII Panorama Internacional Coisa de Cinema** / Official Selection / Honorable mention for the innovative language
@@ -35,3 +33,10 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 * **9ª Semana d_s Realizador_s** / Best Editing
 * **FOR RAINBOW - Film Festival of Culture of Sexual Diversity** / Official Selection / Critic Award for Feature Film / Elke Maravilha Award for Best Cinematography
 * **8ª Mostra de Audiovisual de Petrópolis**
+* **Visions du Réel International Film Festival**  / Burning Lights Competition
+
+
+## Events
+
+* **DocSP** 2016 / Rough Cut Lab
+* **Plataforma:LAB** 2016
