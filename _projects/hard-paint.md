@@ -26,7 +26,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 
 ---
 ## Festivals
-* 68ª **Berlinale - Berlin International Film Festival** / Panorama
+* 68ª **Berlinale - Berlin International Film Festival** / Panorama / Teddy Award for Best Feature Film / CICAE - Art Cinema Award
 * FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie 
 * **BFI Flare**
 
