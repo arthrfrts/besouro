@@ -36,7 +36,7 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 * **Visions du Réel International Film Festival**  / Burning Lights Competition
 
 
-## Events
+## Labs, markets and events
 
 * **DocSP** 2016 / Rough Cut Lab
 * **Plataforma:LAB** 2016
