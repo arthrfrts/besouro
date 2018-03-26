@@ -8,7 +8,7 @@ tags:
 - Drama
 position: 42
 lang: en
-o_title: GarotoNeon
+o_title: Tinta Bruta
 media:
   image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"
 team:
