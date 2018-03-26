@@ -27,7 +27,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 ---
 ## Festivals
 * 68ª **Berlinale - Berlin International Film Festival** / Panorama
-* FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie
+* FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie 
 * **BFI Flare**
 
 ## Labs, markets and events
