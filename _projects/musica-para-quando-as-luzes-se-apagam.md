@@ -36,7 +36,7 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * **Visions du Réel International Film Festival**  / Burning Lights Competition
 
 
-## Eventos
+## Labs, mercados e eventos
 
 * **DocSP** 2016 / Rough Cut Lab
 * **Plataforma:LAB** 2016
