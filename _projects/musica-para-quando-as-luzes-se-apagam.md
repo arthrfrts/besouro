@@ -10,7 +10,7 @@ position: 19
 lang: pt
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
-  video: https://cldup.com/rqeRbOXok2.mp4
+  trailer: https://www.youtube.com/watch?v=-OY1NdBrR2Y
 team:
   director: Ismael Caneppele
   writer: Ismael Caneppele
