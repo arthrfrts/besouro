@@ -10,7 +10,7 @@ position: 15
 lang: pt
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg
-  trailer: https://vimeo.com/107511404/settings
+  trailer: https://vimeo.com/107511404/ea654e0451
 team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 para curta-metragem
