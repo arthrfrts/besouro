@@ -11,6 +11,7 @@ lang: en
 o_title: Linda, uma história horrível
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg
+  trailer: https://vimeo.com/107511404
 team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 for Short Film

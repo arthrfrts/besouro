@@ -9,7 +9,7 @@ tags:
 position: 53
 lang: en
 media:
-  image: https://cldup.com/5Q7Tj6BILD.jpg
+  image: "/assets/media/Captura%20de%20Tela%202018-03-07%20%C3%A0s%2012.26.46.png"
 team:
   director: Thais Fernandes
   copro: Globo News, Besouro Filmes and Epifania Filmes

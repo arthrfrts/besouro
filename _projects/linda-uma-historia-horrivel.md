@@ -10,13 +10,14 @@ position: 15
 lang: pt
 media:
   image: https://cldup.com/iNLY5rnBsZ.jpg
+  trailer: https://vimeo.com/107511404
 team:
   director: Bruno Gularte Barreto
 funds: Edital Petrobras 2010 para curta-metragem
 ---
 
 Com uma mala em punho, um filho já adulto chega para visitar sua idosa mãe.
-
+ 
 A casa continua a mesma, porém degradada pelo tempo, degradação essa que se estende ao corpo da velha senhora. A mãe vive só acompanhada apenas de uma cadela, igualmente combalida pela idade, chamada Linda. Filho e mãe conversam, e nas entrelinhas de seu dialogo superficialmente banal descobrimos uma série de fatores que o filho se esquiva de revelar e que a mãe prefere não conhecer. Revelações que vão dar um desfecho surpreendente para essa história triste, tão cheia de ternura e brutalidade, uma história linda e horrível.
 
 ---
@@ -33,7 +34,7 @@ A casa continua a mesma, porém degradada pelo tempo, degradação essa que se e
   * Menção Honrosa do Júri
 * **CLOSE – Festival Nacional de Cinema e Diversidade Sexual** 2013
   * Melhor Montagem
-  * Melhor Atriz
+  * Melhor Atriz 
 * XLII **Festival Internacional de Cine de Huesca**
 * XLII **Festival de Cinema de Gramado** / Mostra de Curtas Gaúchos
   * Melhor Produção
