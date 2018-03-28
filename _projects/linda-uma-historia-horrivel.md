@@ -34,7 +34,7 @@ A casa continua a mesma, porém degradada pelo tempo, degradação essa que se e
   * Menção Honrosa do Júri
 * **CLOSE – Festival Nacional de Cinema e Diversidade Sexual** 2013
   * Melhor Montagem
-  * Melhor Atriz
+  * Melhor Atriz 
 * XLII **Festival Internacional de Cine de Huesca**
 * XLII **Festival de Cinema de Gramado** / Mostra de Curtas Gaúchos
   * Melhor Produção
