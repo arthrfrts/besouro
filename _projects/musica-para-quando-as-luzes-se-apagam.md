@@ -11,6 +11,7 @@ lang: pt
 media:
   image: https://cldup.com/XRe0KC9gTO.jpg
   video: https://cldup.com/rqeRbOXok2.mp4
+  trailer: https://vimeo.com/262417921
 team:
   director: Ismael Caneppele
   writer: Ismael Caneppele
