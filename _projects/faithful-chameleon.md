@@ -10,7 +10,7 @@ position: 42
 lang: en
 o_title: Camaleão Fiel
 media:
-  image: https://cldup.com/lXAtytNRxL.jpg
+  image: "/assets/media/FAITHFUL%20CHAMELEON%203.jpeg"
 team:
   director: Gabriel Honzik
   writer: Gabriel Honzik e Guilherme Soares Zanella
