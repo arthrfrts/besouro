@@ -1,6 +1,11 @@
 ---
 title: Vocês, brancos, não tem alma
 date: 2018-03-29 16:15:00 -03:00
+categories:
+- development
+tags:
+- Feature
+- drama
 lang: en
 o_title: Vocês, brancos, não tem alma
 media:
