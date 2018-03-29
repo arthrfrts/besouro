@@ -1,17 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+<html lang="{{ page.lang | default: 'pt' }}">
   {% include head.html %}
 
-  <body {% if page.slug %}class="{{ page.slug }}"{% endif %}>
-
+  <body>
     {% include header.html %}
 
-    <main class="site-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {% include footer.html %}
   </body>
 </html>

@@ -1,26 +1,25 @@
 ---
+# Hello, Jekyll!
 ---
 
-// Font variables
-$font-family: 'goth', sans-serif;
-$font-size: 1.6rem;
-$font-small-size: $font-size * .75;
-$font-weight: 400;
-$line-height: 1.7;
+// Typography
+$font-family-base: "Avenir Next", "Segoe UI", Roboto, sans-serif;
+$font-size-base: 1.6rem;
+$font-size-small: $font-size-base * 0.75;
+$font-weight-base: 400;
+$font-line-height: 1.6;
 
-// Color variables
+// Color palette
 $color-background: #fff;
 $color-text: #000;
-$color-brand: #888;
+$color-accent: #888;
 
-// Structure variables
-$content-width: 1600px;
-$on-palm: 600px;
-$on-laptop: 800px;
+// Structure
+$wrapper-width: 120rem;
+$palm-width: 60rem;
 $spacing-unit: 3rem;
 
-@import "reset",
-        "mixins",
-        "fonts",
-        "layout",
-        "elements";
+@import "mixins",
+        "reset",
+        "elements",
+        "layout";

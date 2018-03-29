@@ -1,624 +1,87 @@
 /*
-    Bases
+    Basic structure
 */
 body {
-  background-color: $color-background;
-  border-top: .5rem solid $color-brand;
-  display: flex;
-  flex-direction: column;
   min-height: 100vh;
-}
+  display: flex;
+  flex-flow: column wrap;
 
-.wrapper {
-  max-width: calc(#{$content-width} - (#{$spacing-unit} / 2));
-  padding-left: $spacing-unit / 2;
-  padding-right: $spacing-unit / 2;
-  margin-left: auto;
-  margin-right: auto;
+  .masthead,
+  .page {
+    flex: 0 0 auto;
+  }
 
-  @include media-query($on-laptop) {
-    max-width: calc(#{$on-laptop} - #{$spacing-unit});
+  .colophon {
+    flex: 1 0 auto;
   }
 }
 
 /*
     Site Header
 */
-.site-header {
-  padding-top: $spacing-unit / 2;
+.masthead {
+  @extend %wrapper;
+  margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 
   .site-title {
-    background-image: url('media/logo.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
+    background: no-repeat center/cover url("/assets/media/logo.png");
     color: transparent;
-    text-indent: -9999rem;
-    overflow: hidden;
-    display: inline-block;
-    height: 5.6rem;
+    font-size: 0;
+    line-height: 0;
+    display: block;
     width: 9.5rem;
-    text-decoration: none;
+    height: 5.6rem;
   }
 
-  // Site Navigation
-  .site-nav {
-    float: right;
-    text-align: right;
-
-    #nav-trigger {
-      display: none;
-    }
-
-    .menu-toggle {
-      display: none;
-    }
-
-    .menu {
-      li {
-        display: inline-block;
-        line-height: 5.6rem;
-
-        &:not(:last-child) {
-          margin-right: $spacing-unit;
-        }
-
-        a {
-          color: $color-text;
-          text-decoration: none;
-
-          svg {
-            width: 2.2rem;
-            height: 2.2rem;
-            vertical-align: middle;
-          }
-
-          &:hover,
-          &:focus,
-          &:active {
-            color: $color-brand;
-          }
-        }
-      }
-    }
-
-    @include media-query($on-palm) {
-      position: relative;
-      overflow: hidden;
-      cursor: pointer;
-
-      .menu-toggle {
-        display: block;
-        float: right;
-        background-color: $color-text;
-        padding: 1rem 1.5rem .5rem;
-
-        svg {
-          path {
-            fill: $color-background;
-          }
-        }
-      }
-
-      .menu {
-        background-color: $color-text;
-        position: absolute;
-        top: 100%;
-        right: -999rem;
-        display: block;
-        width: 50vw;
-        padding: $spacing-unit / 2;
-        z-index: 999;
-
-        li {
-          display: block;
-
-          &:not(:last-child) {
-            margin-right: 0;
-          }
-
-          a {
-            font-size: $font-size * 1.5;
-            color: $color-background;
-
-            &:hover,
-            &:focus,
-            &:active {
-              text-decoration: none;
-              color: $color-brand;
-            }
-          }
-        }
-      }
-
-      &:hover,
-      &:focus,
-      &:active {
-        overflow: visible;
-
-        input:checked ~ .menu {
-          right: 0;
-        }
-      }
-    }
-  }
-}
-
-/*
-    Site Content
-*/
-.site-content {
-  align-content: center;
-  justify-content: space-around;
-  align-self: center;
-  width: 100%;
-  flex-grow: 1;
-
-  .wrapper {
-    margin: auto;
-  }
-}
-
-.jumbo {
-  overflow: hidden;
-  position: relative;
-  height: 33rem;
-  margin-bottom: $spacing-unit * 2;
-  background-color: $color-text;
-
-  video {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-  }
-
-  figcaption {
-    position: absolute;
-    top: 0;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    width: 100%;
-
-    p {
-      max-width: calc(#{$on-palm} - (#{$spacing-unit}));
-      margin: auto;
-      color: $color-background;
-      text-align: center;
-      font-size: $font-size * 1.5;
-      font-weight: 300;
-
-      @include media-query($on-palm) {
-        max-width: calc(100% - (#{$spacing-unit}));
-      }
-    }
-  }
-
-  @media screen and (min-height: 1000px) {
-    height: 55rem;
-  }
-}
-
-/*
-    Page Layout
-*/
-.page,
-.scaffolding {
-  .page-header {
-    margin-bottom: $spacing-unit;
-
-    h1 {
-      font-size: $font-size * 2;
-      font-weight: 300;
-
-      &:after {
-        content: ' ';
-        display: block;
-        width: $spacing-unit * 2;
-        border-top: .2rem solid $color-brand;
-      }
-    }
-  }
-}
-
-.page {
-  .page-content {
-    margin-left: $spacing-unit * 4;
-    margin-right: $spacing-unit * 4;
-    text-align: justify;
-    hyphens: auto;
-    -ms-hyphens: auto;
-    -webkit-hyphens: auto;
-
-    @include media-query($on-palm) {
-      margin-left: 0;
-      margin-right: 0;
-    }
-  }
-}
-
-/*
-    Project Listings
-*/
-.project.featured {
-  height: 40rem;
-  position: relative;
-  overflow: hidden;
-  margin-bottom: $spacing-unit;
-
-  img,
-  video {
-    width: 100%;
-    object-fit: cover;
-    object-position: center center;
-
-    @include media-query($on-palm) {
-      height: 30rem;
-    }
-  }
-
-  figcaption {
-    position: absolute;
-    color: $color-background;
-    bottom: -$spacing-unit * 2.5;
-    padding: 0 0 $spacing-unit / 2 $spacing-unit / 2;
-    font-size: $font-small-size;
-    transition: bottom 500ms ease;
-
-    &:before {
-      content: ' ';
-      display: block;
-      width: $spacing-unit;
-      border-top: .2rem solid $color-background;
-    }
+  .main-menu {
+    display: inline-block;
+    line-height: 5.6rem;
+    user-select: none;
 
     a {
-      color: $color-background;
       text-decoration: none;
-    }
 
-    strong {
-      font-size: $font-size * 1.5;
-      font-weight: 300;
-    }
-
-    abbr {
-      font-weight: 300;
-    }
-  }
-
-  &:hover,
-  &:focus {
-    a {
-      text-decoration: none;
-    }
-
-    figcaption {
-      bottom: 0;
-    }
-  }
-
-  @include media-query($on-palm) {
-    overflow: visible;
-    height: auto;
-    margin-bottom: $spacing-unit;
-
-    video {
-      width: 100%;
-      margin-bottom: 0;
-      height: 30rem;
-    }
-
-    figcaption {
-      position: relative;
-      bottom: 0;
-      padding-top: $spacing-unit / 4;
-
-      &:before {
-        border-top-color: $color-text;
-        padding-bottom: $spacing-unit / 4;
-      }
-
-      a {
-        color: $color-text;
-        text-decoration: none;
-
-        strong {
-          font-size: $font-size * 1.2;
-        }
-
-        strong {
-          line-height: 1.2;
-        }
-      }
-    }
-  }
-}
-
-.project-list {
-  @include row;
-  margin-left: 0;
-  list-style: none;
-
-  li {
-    margin-bottom: $spacing-unit;
-    position: relative;
-    height: 30rem;
-    overflow: hidden;
-
-    &:nth-child(odd) {
-      @include col(1,2, $gap: $spacing-unit / 2, $first: true);
-    }
-
-    &:nth-child(even) {
-      @include col(1,2,$gap: $spacing-unit / 2, $last: true);
-    }
-
-    &:nth-child(2n+1):before {
-      content: " ";
-      display: block;
-      width: 100%;
-      clear: both;
-    }
-
-    img {
-      width: 100%;
-      height: 30rem;
-      object-fit: cover;
-      object-position: center center;
-    }
-
-    figcaption {
-      padding: 0 $spacing-unit / 2;
-      position: absolute;
-      bottom: -6.1rem;
-      transition: bottom 500ms ease;
-
-      &:before {
-        content: ' ';
-        display: block;
-        width: $spacing-unit;
-        border-top: .2rem solid $color-background;
-        padding-top: $spacing-unit / 4;
-        margin-top: $spacing-unit / 4;
-      }
-
-      a {
-        color: $color-background;
-        font-size: $font-small-size;
-        line-height: 1.2;
-        text-shadow: 0 0 .3rem #000;
-        text-decoration: none;
-      }
-
-      strong {
-        font-size: $font-size * 1.2;
-        line-height: 1.2;
-        font-weight: 300;
+      &:not(:first-child) {
+        margin-left: $spacing-unit;
       }
     }
 
-    &:hover,
-    &:focus {
-      a {
-        text-decoration: none;
-      }
-
-      figcaption {
-        bottom: 0;
-      }
-    }
-
-    @include media-query($on-palm) {
-      overflow: visible;
-      position: relative;
-      height: auto;
-
-      img {
-        height: 30rem;
-      }
-
-      figcaption {
-        position: relative;
-        top: 0;
-
-        &:before {
-          border-top-color: $color-text;
-        }
-
-        a {
-          color: $color-text;
-          text-shadow: none;
-
-          &:hover,
-          &:focus {
-            text-decoration: underline;
-          }
-        }
-      }
-    }
-  }
-}
-
-/*
-    Project Page
-*/
-.project-page {
-  @include row;
-
-  .project-cover {
-    margin-bottom: $spacing-unit;
-    @include col(1,1);
-    position: relative;
-  	padding-bottom: 56.25%;
-    height: 0;
-  	overflow: hidden;
-
-    img {
-      width: 100%;
-      object-fit: cover;
-      object-position: center center;
-    }
-
-    &:after {
-      content: ' ';
-      display: block;
-      clear: both;
-      float: none;
-      white-space: wrap;
-    }
-
-    & iframe {
-      position: absolute;
-    	top: 0;
-    	left: 0;
-    	width: 100%;
-    	height: 100%;
-    }
-  }
-
-  .project-header {
-    @include col(2,6);
-    margin-bottom: $spacing-unit;
-
-    h1 {
-      font-size: $font-size * 2;
-      line-height: 1.2;
-      font-weight: 300;
-      margin-bottom: $spacing-unit / 2;
-
-      &:after {
-        content: ' ';
-        display: block;
-        width: $spacing-unit * 2;
-        border-top: .2rem solid $color-brand;
-        margin-top: $spacing-unit / 2;
-      }
-    }
-
-    p, ul {
-      font-size: $font-small-size;
-      color: lighten($color-text, 40%);
-      margin-bottom: 0;
-
-      span {
-        font-weight: 300;
-      }
-    }
-
-    @include media-query($on-palm) {
-      text-align: center;
-
-      h1 {
-        &:after {
-          margin: $spacing-unit / 2 auto 0;
-        }
+    .lang-link {
+      svg {
+        width: $font-size-base * $font-line-height;
+        height: $font-size-base * $font-line-height;
+        vertical-align: middle;
       }
     }
   }
 
-  .project-content {
-    @include col(4, 6, $gap: $spacing-unit, $last: true);
-    margin-bottom: $spacing-unit * 2;
-
-    .project-festivals {
-      margin-top: $spacing-unit;
-
-      ul {
-        list-style: none;
-        margin-left: 0;
-
-        li {
-          font-weight: 300;
-          line-height: 1.6;
-          margin-bottom: $spacing-unit / 2;
-
-          svg {
-            height: 1.8em;
-            width: 1rem;
-            vertical-align: middle;
-
-            path {
-              fill: $color-brand;
-            }
-          }
-        }
-      }
+  @include on-laptop {
+    .site-title {
+      float: left;
     }
-  }
-}
 
-/*
-    Site Footer
-*/
-.site-footer {
-  background-color: $color-text;
-  padding-top: $spacing-unit;
-  padding-bottom: $spacing-unit;
-  color: lighten($color-text, 40%);
-  font-size: $font-small-size;
-
-  a {
-    color: $color-background;
-    text-decoration: none;
-
-    &:hover {
-      color: $color-brand;
-      text-decoration: none;
+    .main-menu {
+      float: right;
     }
   }
 
-  .wrapper {
-    @include row;
-
-    .site-brand,
-    .contact-links,
-    .contact-address {
-      @include col(1,3);
+  @include on-palm {
+    .site-title {
+      margin-left: auto;
+      margin-right: auto;
     }
 
-    .site-brand {
-      a {
-        font-family: 'Montserrat Alternates';
-        font-weight: 500;
-        text-transform: lowercase;
-        letter-spacing: 0.1em;
-        line-height: 3.5rem;
-        font-size: $font-size;
-        text-decoration: none;
+    .main-menu {
+      display: flex;
+      overflow-x: scroll;
+      margin-left: -$spacing-unit / 2;
+      margin-right: -$spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
+      padding-right: $spacing-unit / 2;
 
-        img {
-          max-height: 3.5rem;
-          vertical-align: middle;
-        }
-
-        &:hover {
-          color: $color-background;
-        }
-      }
-    }
-
-    .contact-links {
-      text-align: center;
-    }
-
-    .contact-address {
-      text-align: right;
-
-
-      address {
-        font-style: normal;
-      }
-    }
-
-    @include media-query($on-palm) {
-      .site-brand,
-      .contact-links,
-      .contact-address {
-        font-size: $font-size;
-        text-align: center;
-        margin-bottom: $spacing-unit;
+      .lang-link {
+        padding-right: $spacing-unit / 2;
       }
     }
   }

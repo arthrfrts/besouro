@@ -1,38 +1,26 @@
-<header class="site-header">
-  <div class="wrapper">
-    {% if page.lang == 'en' %}
-    <a class="site-title" href="{{ '/en/' | absolute_url }}">{{ site.title }}</a>
+<header class="masthead">
+  {% assign lang = page.lang | default: 'pt' %}
+  {% if lang == 'en' %}
+    <a class="site-title" href="{{ '/en/' | relative_url }}">{{ site.title }}</a>
+  {% else %}
+    <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
+  {% endif %}
+
+  <nav class="main-menu">
+    {% assign menu = site.data.menus[lang] %}
+
+    {% for item in menu %}
+    <a href="{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+
+    {% if lang == 'en' %}
+    <a class="lang-link" href="{{ '/' | relative_url }}" hreflang="pt">
+      {% include parts/symbol.svg id="pt" title="Visitar o site em português" role="img" %}
+    </a>
     {% else %}
-    <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+    <a class="lang-link" href="{{ '/en/' | relative_url }}" hreflang="pt">
+      {% include parts/symbol.svg id="en" title="Visit the English website" role="img" %}
+    </a>
     {% endif %}
-
-    <nav class="site-nav">
-      <input type="checkbox" name="nav-trigger" id="nav-trigger" />
-      <label for="nav-trigger" class="menu-toggle" aria-label="{% if page.lang == 'en' %}Navigation Menu{% else %}Menu de navegação{% endif %}">
-        {% include svg/three-bars.svg %}
-      </label>
-
-      {% if page.lang == 'en' %}
-
-      <ul class="menu">
-        <li><a href="{{ '/en/projects/films/' | relative_url }}">Films</a></li>
-        <li><a href="{{ '/en/projects/tv/' | relative_url }}">TV</a></li>
-        <li><a href="{{ '/en/projects/development/' | relative_url }}">Projects</a></li>
-        <li><a href="{{ '/en/about/' | relative_url }}">About</a></li>
-        <li><a title="Visitar o site em português" href="http://besourofilmes.com/">{% include svg/br.svg %}</a></li>
-      </ul>
-
-      {% else %}
-
-      <ul class="menu">
-        <li><a href="{{ '/projetos/cinema/' | relative_url }}">Cinema</a></li>
-        <li><a href="{{ '/projetos/tv/' | relative_url }}">TV</a></li>
-        <li><a href="{{ '/projetos/desenvolvimento/' | relative_url }}">Projetos</a></li>
-        <li><a href="{{ '/sobre/' | relative_url }}">Sobre</a></li>
-        <li><a title="Visit the English site" href="http://besourofilmes.com/en/">{% include svg/uk.svg %}</a></li>
-      </ul>
-
-      {% endif %}
-    </nav>
-  </div>
+  </nav>
 </header>

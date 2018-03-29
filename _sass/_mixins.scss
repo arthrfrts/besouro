@@ -1,35 +1,30 @@
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
+%wrapper {
+  width: 100%;
+  max-width: calc(#{$wrapper-width} - #{$spacing-unit});
+  padding-left: $spacing-unit / 2;
+  padding-right: $spacing-unit / 2;
+  margin-left: auto;
+  margin-right: auto;
+
+  @extend %colophon;
+}
+
+%colophon {
+  &:after {
+    content: "  ";
+    clear: both;
+    float: none;
+  }
+}
+
+@mixin on-palm {
+  @media screen and (max-width: $palm-width) {
     @content;
   }
 }
 
-/*
-    Grid System
-    Based on the work by Aleksandar Goševski.
-*/
-@mixin row() {
-  white-space: nowrap;
-  @extend %clearfix;
-}
-
-@mixin col($col, $sum, $gap: 0, $align: top, $first: false, $last: false) {
- width: 100%;
- float: none;
- box-sizing: border-box;
- white-space: normal;
-
- @media (min-width: $on-palm) {
-   width: percentage($col/$sum);
-   vertical-align: $align;
-   float: left;
-   padding-left: if($first, 0, $gap);
-   padding-right: if($last, 0, $gap);
- }
-}
-
-%clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+@mixin on-laptop {
+  @media screen and (min-width: $palm-width) {
+    @content;
+  }
 }
