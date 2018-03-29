@@ -10,7 +10,7 @@ position: 30
 lang: pt
 media:
   image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"
-  video: https://giphy.com/gifs/Zd67sqtTBvzT7GYSPX/html5
+  gif: https://giphy.com/gifs/Zd67sqtTBvzT7GYSPX/html5
 team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon
