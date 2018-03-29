@@ -1,0 +1,21 @@
+---
+en:
+  - name: Films
+    url: "/en/projects/films/"
+  - name: TV
+    url: "/en/projects/tv/"
+  - name: Projects
+    url: "/en/projects/in-development/"
+  - name: About
+    url: "/en/about/"
+
+pt:
+  - name: Cinema
+    url: "/projetos/cinema/"
+  - name: TV
+    url: "/projetos/tv/"
+  - name: Projetos
+    url: "/projetos/desenvolvimento/"
+  - name: Sobre
+    url: "/sobre/"
+---

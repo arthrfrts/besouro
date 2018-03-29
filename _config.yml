@@ -1,10 +1,25 @@
----
-title: Besouro Filmes
-timezone: America/Sao_Paulo
+# Site settings
+name: Besouro Filmes
+description: "Produtora de cinema e TV em Porto Alegre, Brasil."
+url: "http://besourofilmes.com"
+baseurl: ""
+
+email: "besourofilmes@besourofilmes.com"
+
+# SEO
+logo: "/assets/media/logo.png"
+
+social:
+  name: Besouro Filmes
+  links:
+    - "https://www.facebook.com/besourofilmes"
+    - "https://vimeo.com/besourofilmes"
+
+google_site_verification: "ZdKvtBDwdBzkD3N9G8rCwmZcS-zj7xmvJooWf_dZtWc"
+google_analytics: "UA-19318054-1"
+
+# Content settings
 collections:
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
     output: true
@@ -13,25 +28,29 @@ collections:
     title: Uploads
     output: true
     permalink: "/assets/media/:path"
+
 defaults:
-- scope:
-    path: ''
-    type: projects
-  values:
-    layout: project
-description: Produtora de filmes e TV em Porto Alegre, Brasil.
-analytics: UA-19318054-1
-baseurl: 
-url: http://besourofilmes.com
-contact:
-  email: besourofilmes@besourofilmes.com
-  facebook: besourofilmes
-  vimeo: besourofilmes
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Build settings
+future: true
+timezone: "America/Sao_Paulo"
 permalink: pretty
 markdown: kramdown
-gems:
-- jekyll-sitemap
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+include:
+  - humans.txt
+
 exclude:
-- Gemfile
-- Gemfile.lock
-future: true
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
