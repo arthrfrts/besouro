@@ -10,6 +10,7 @@ position: 31
 lang: pt
 team:
 - director: Eduardo D. Piotroski
+  writer: Eduardo D. Piotroski e Pedro Paim
 media:
   image: "/assets/media/Referencia_VBNTA_2.jpg"
 funds: Edital FSA - PRODAV 05/2016
