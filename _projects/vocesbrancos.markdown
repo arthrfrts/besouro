@@ -9,7 +9,7 @@ tags:
 position: 31
 lang: pt
 team:
-- director: Eduardo D. Piotroski
+  director: Eduardo D. Piotroski
   writer: Eduardo D. Piotroski e Pedro Paim
   copro: Besouro Filmes e Pátio Vazio
 media:
