@@ -9,7 +9,7 @@ tags:
 position: 9
 lang: pt
 media:
-  image: https://cldup.com/lXAtytNRxL.jpg
+  image: "/assets/media/FAITHFUL%20CHAMELEON%203.jpeg"
 team:
   director: Gabriel Honzik
   writer: Gabriel Honzik e Guilherme Soares Zanella
