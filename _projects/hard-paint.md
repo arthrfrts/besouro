@@ -11,6 +11,7 @@ lang: en
 o_title: Tinta Bruta
 media:
   image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"
+  video: https://media.giphy.com/media/1xOyKpKW4hCQXgLpvC/source.mp4
 team:
   director: Filipe Matzembacher and Marcio Reolon
   writer: Filipe Matzembacher and Marcio Reolon
