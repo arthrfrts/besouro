@@ -34,7 +34,7 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 * 9ª **Semana d_s Realizador_s** / Best Editing
 * **FOR RAINBOW - Film Festival of Culture of Sexual Diversity** / Official Selection / Critic Award for Feature Film / Elke Maravilha Award for Best Cinematography
 * 8ª **Mostra de Audiovisual de Petrópolis**
-* 49th **Visions du Réel International Film Festival**  / Burning Lights Competition
+* 49th **Visions du Réel International Film Festival**  / Burning Lights Competition / Jury Prize of the Hoteliers of La Côte for The most innovative film of the Burning Lights Competition
 
 
 ## Labs, markets and events
