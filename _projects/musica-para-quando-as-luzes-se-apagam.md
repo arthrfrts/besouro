@@ -34,7 +34,7 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * 9ª **Semana d_s Realizador_s** / Prêmio Ricardo Miranda de Montagem de Invenção
 * **FOR RAINBOW – Festival de Cinema e Cultura da Diversidade Sexual** / Seleção Oficial / Prêmio da Crítica de Longa-metragem / Troféu Elke Maravilha para Melhor Fotografia
 * 8ª **Mostra de Audiovisual de Petrópolis**
-* 49° **Visions du Réel International Film Festival**  / Competição Burning Lights / Filme mais inovador da Competição Burning Lights
+* 49° **Visions du Réel International Film Festival**  / Competição Burning Lights / Prêmio do Júri dos Hoteleiros de La Côte de Filme mais inovador da Competição Burning Lights
 
 
 ## Labs, mercados e eventos
