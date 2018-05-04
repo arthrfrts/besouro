@@ -32,7 +32,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie 
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Best Narrative Film
-* **OUTshine Film Festival**
+* **OUTshine Film Festival** / Best Narrative - Runner Up
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
