@@ -32,7 +32,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * FICG33 - **Festival Internacional de Cinema de Guadalajara** / Melhor Filme Prêmio Maguey
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Prêmio de Melhor Ficção
-* **OUTshine Film Festival**
+* **OUTshine Film Festival** / Prêmio Best Narrative - Runner Up
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
