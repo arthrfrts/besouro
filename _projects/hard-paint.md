@@ -33,6 +33,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Best Narrative Film
 * **OUTshine Film Festival** / Best Narrative - Runner Up
+* 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Best Feature Film by the Official Jury / Best Film by the Young Jury (Ottavio Mai Award)
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
