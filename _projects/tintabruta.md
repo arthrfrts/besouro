@@ -34,7 +34,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Wicked Queer: The Boston LGBT Film Festival** / Prêmio de Melhor Ficção
 * **OUTshine Film Festival** / Prêmio Best Narrative - Runner Up
 * 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Melhor Ficção pelo Júri Oficial / Melhor Filme pelo Júri Jovem (Prêmio Ottavio Mai)
-* **Sidney Film Festival**
+* **Festival de Cinema de Sydney**
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
