@@ -1,8 +1,8 @@
 ---
 title: A Female Body
-date: 2018-12-30 00:00:00 -02:00
+date: 2018-12-19 00:00:00 -02:00
 categories:
-- development
+- cinema
 tags:
 - Short
 - Documentary
