@@ -17,7 +17,7 @@ funds:
 - Edital FUMPROARTE
 ---
 
-_Meu Corpo, Minha História_ é um projeto transmídia. Um curta e um webdocumentário interativo cuja narrativa provoca mulheres a pensarem sobre suas identidades. Se ser mulher está ligado à auto-determinação, qual a importância da unidade simbólica do corpo?
+Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ propõe um jogo aparentemente simples – pergunta para mulheres de diversas gerações a definição de algo que em teoria as unifica. Parte de um projeto transmídia, o filme é a porta de entrada para uma narrativa que possui muitos pontos de vista e nenhuma resposta certa.
 
 ## Festivais
 * IV **Cine Jardim** – Festival Latino-Americano de Cinema de Belo Jardim
