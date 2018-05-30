@@ -18,7 +18,7 @@ funds:
 - Edital FUMPROARTE
 ---
 
-_My Body, My Story_ is a transmedia project. A short movie and an interactive webdocumentary whose narrative provoques women to think about their identities. If being a woman is about self-determination, how important is the symbolic unity of the body?
+When we give something a name, does it lose or make sense? _A female body_ proposes an apparently simple game - it asks women from diverse generations the definition of something that in theory unifies them. Part of a transmedia project, the film is the main entrance to a narrative that has many points of view and no right answer.
 
 ## Festivais
 * **IV Cine Jardim** – Belo Jardim Latin America Film Festival
