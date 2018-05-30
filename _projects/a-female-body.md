@@ -10,7 +10,7 @@ position: 51
 lang: en
 o_title: Meu Corpo, Minha História
 media:
-  image: https://cldup.com/1KmR_PuEJ6.jpg
+  image: "/assets/media/BODY_Livia%20Pasqual01.jpg"
 team:
   director: Thais Fernandes
   copro: Besouro Filmes and Cena Expandida
