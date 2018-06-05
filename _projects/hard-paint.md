@@ -37,6 +37,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Sydney Film Festival**
 * **FRAMELINE**42
 * **Molodist** Kyiv International Film Festival
+* **Inside Out - Toronto LGBT Film Festival**
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
