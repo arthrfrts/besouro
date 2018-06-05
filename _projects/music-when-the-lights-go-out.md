@@ -36,6 +36,7 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 * 8ª **Mostra de Audiovisual de Petrópolis**
 * 49th **Visions du Réel International Film Festival**  / Burning Lights Competition / Jury Prize of the Hoteliers of La Côte for The most innovative film of the Burning Lights Competition
 * 25th **Sheffield Doc/Fest** / Art Doc Award Competition
+* **Amor - International LGBT+ Film Festival** / International Competition
 
 ## Labs, markets and events
 
