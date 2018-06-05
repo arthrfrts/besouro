@@ -36,7 +36,7 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * 8ª **Mostra de Audiovisual de Petrópolis**
 * 49° **Visions du Réel International Film Festival**  / Competição Burning Lights / Prêmio do Júri dos Hoteleiros de La Côte de Filme mais inovador da Competição Burning Lights
 * 25° **Sheffield Doc/Fest** / Competição Art Doc Award
-* **Amor - Festival Internacional de Cinema LGBT+**
+* **Amor - Festival Internacional de Cinema LGBT+** / Competição Internacional
 
 
 ## Labs, mercados e eventos
