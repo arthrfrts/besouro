@@ -35,8 +35,10 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * **FOR RAINBOW – Festival de Cinema e Cultura da Diversidade Sexual** / Seleção Oficial / Prêmio da Crítica de Longa-metragem / Troféu Elke Maravilha para Melhor Fotografia
 * 8ª **Mostra de Audiovisual de Petrópolis**
 * 49° **Visions du Réel International Film Festival**  / Competição Burning Lights / Prêmio do Júri dos Hoteleiros de La Côte de Filme mais inovador da Competição Burning Lights
-* 25° **Sheffield Doc/Fest** / Competição Art Doc Award
+* 25° **Sheffield Doc/Fest** / Competição Art Doc Award / Prêmio Art Doc 
 * **Amor - Festival Internacional de Cinema LGBT+** / Competição Internacional
+* **Verão in New York: A Summer of Brazilian Cinema** / Seleção LGBTQ Brazil
+* **DokuFest - Festival Internacional de Documentários e curta-metragens** / Seleção Between my Fingers and the World's Flesh
 
 
 ## Labs, mercados e eventos
