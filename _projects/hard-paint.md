@@ -36,7 +36,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Best Feature Film by the Official Jury / Best Film by the Young Jury (Ottavio Mai Award)
 * **Sydney Film Festival**
 * **FRAMELINE**42
-* **Molodist - Kyiv International Film Festival**
+* **Molodist - Kyiv International Film Festival** / Sunny Bunny Competition / Best LGBT Film of the Bunny Bunny Competition 
 * **Inside Out - Toronto LGBT Film Festival**
 * **TIFF.18 - Transilvania International Film Festival**
 * 42º **SIFF - Seattle International Film Festival**
