@@ -35,11 +35,9 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 * **FOR RAINBOW - Film Festival of Culture of Sexual Diversity** / Official Selection / Critic Award for Feature Film / Elke Maravilha Award for Best Cinematography
 * 8ª **Mostra de Audiovisual de Petrópolis**
 * 49th **Visions du Réel International Film Festival**  / Burning Lights Competition / Jury Prize of the Hoteliers of La Côte for The most innovative film of the Burning Lights Competition
-* 25th **Sheffield Doc/Fest** / Art Doc Award Competition
-* **Amor - International LGBT+ Film Festival** / International Competition
-* 25° **Sheffield Doc/Fest** / Competição Art Doc Award / Prêmio Art Doc 
+* 25° **Sheffield Doc/Fest** / Competição Art Doc Award / Art Doc Award 
 * **Amor - Festival Internacional de Cinema LGBT+** / Competição Internacional
-* **Verão in New York: A Summer of Brazilian Cinema** / Seleção LGBTQ Brazil
+* **Verão in New York: A Summer of Brazilian Cinema** /  LGBTQ Brazil
 * **DokuFest - International Documentary and Short Film Festival** / Selection Between my Fingers and the World's Flesh
 
 ## Labs, markets and events
