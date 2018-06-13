@@ -38,7 +38,7 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * 25° **Sheffield Doc/Fest** / Competição Art Doc Award / Prêmio Art Doc 
 * **Amor - Festival Internacional de Cinema LGBT+** / Competição Internacional
 * **Verão in New York: A Summer of Brazilian Cinema** / Seleção LGBTQ Brazil
-* **DokuFest - Festival Internacional de Documentários e curta-metragens** / Seleção Between my Fingers and the World's Flesh
+* **DokuFest - Festival Internacional de Documentários e Curta-metragens** / Seleção Between my Fingers and the World's Flesh
 
 
 ## Labs, mercados e eventos
