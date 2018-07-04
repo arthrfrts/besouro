@@ -40,6 +40,10 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Inside Out - Toronto LGBT Film Festival**
 * **TIFF.18 - Transilvania International Film Festival**
 * 42º **SIFF - Seattle International Film Festival**
+* **Ciclo Rosa Film Festival** / Queer Selection from Berlinale 2018
+* **Tapipei Film Festival** / Future Lights: New Voices from Latin America
+* **Bangkok LGBT+ Film Festival**
+* **Outfest Los Angeles**
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
