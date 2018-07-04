@@ -43,7 +43,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Ciclo Rosa Film Festival** / Queer Selection from Berlinale 2018
 * **Tapipei Film Festival** / Future Lights: New Voices from Latin America
 * **Bangkok LGBT+ Film Festival**
-* **Outfest Los Angeles**
+* **Outfest Los Angeles - LGBTQ Film Festival**
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
