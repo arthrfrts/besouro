@@ -40,6 +40,10 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Inside Out - Festival LGBT de Cinema de Toronto**
 * **TIFF.18 - Festival Internacional de Cinema da Transilvânia**
 * 42º **SIFF - Festival Internacional de Cinema de Seattle**
+* **Festival de Cinema Ciclo Rosa** / Mostra Queer da Berlinale 2018
+* **Festival de Cinema de Taipei** / Mostra Future Lights: New Voices from America Latina
+* **Festival de Cinema LGBT+ de Bangkok**
+* **Outfest Los Angeles - Festival de Cinema LGBTQ**
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
