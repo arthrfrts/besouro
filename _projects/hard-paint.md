@@ -44,6 +44,8 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Tapipei Film Festival** / Future Lights: New Voices from Latin America
 * **Bangkok LGBT+ Film Festival**
 * **Outfest Los Angeles - LGBTQ Film Festival**
+* **Vancouver Queer Film Festival** 
+* **Nowe Horyzonty - New Horizons International Film Festival**
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
