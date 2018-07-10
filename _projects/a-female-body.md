@@ -22,6 +22,7 @@ When we give something a name, does it lose or make sense? _A female body_ propo
 
 ## Festivais
 * **IV Cine Jardim** – Belo Jardim Latin America Film Festival
+* 46º **Gramado Film Festival** / Regional Short Section
 
 
 [Project website](http://afemalebodyproject.com/#top)
