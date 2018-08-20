@@ -21,7 +21,7 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 
 ## Festivais
 * IV **Cine Jardim** – Festival Latino-Americano de Cinema de Belo Jardim
-* 46º **Festival de Cinema de Gramado** / Prêmio Assembléia Legislativa - Mostra de Curtas Gaúchos
+* 46º **Festival de Cinema de Gramado** / Prêmio Assembléia Legislativa - Mostra de Curtas Gaúchos / Prêmio de Melhor Filme e Melhor Roteiro
 * 20º **Festival Internacional de Curtas de Belo Horizonte** / Mulher - Corpo Político
 
 
