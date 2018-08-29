@@ -36,7 +36,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Melhor Ficção pelo Júri Oficial / Melhor Filme pelo Júri Jovem (Prêmio Ottavio Mai)
 * **Festival de Cinema de Sydney**
 * **FRAMELINE**42
-* **Molodist - Festival Internacional de Cinema de Kiev** / Competição Sunny Bunny / Melhor Filme LGBT da Competição Sunny Bunny
+* **Molodist - Festival Internacional de Cinema de Kiev** / Competição Sunny Bunny / Menção Especial do Júri 
 * **Inside Out - Festival LGBT de Cinema de Toronto**
 * **TIFF.18 - Festival Internacional de Cinema da Transilvânia**
 * 42º **SIFF - Festival Internacional de Cinema de Seattle**
