@@ -24,6 +24,7 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 * 46º **Festival de Cinema de Gramado** / Prêmio Assembléia Legislativa - Mostra de Curtas Gaúchos / Prêmio de Melhor Filme e Melhor Roteiro
 * 20º **Festival Internacional de Curtas de Belo Horizonte** / Mulher - Corpo Político
 * **Festival Santa Cruz de Cinema** / Mostra Oficial
+* 62º **BFI Festival de Cinema de Londres** / Love - Lust to love and in between
 
 
 [Site do projeto](http://www.afemalebodyproject.com/index-port.php#top)
