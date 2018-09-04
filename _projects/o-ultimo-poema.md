@@ -29,3 +29,4 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
 * **Festival de Cine de Bogotá** 2015
   * Melhor Documentário de Arte
 * 44ª **Festival de Cinema de Gramado** / Mostra de Longas Gaúchos
+* 3º **Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer**
