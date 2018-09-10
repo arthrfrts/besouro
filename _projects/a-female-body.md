@@ -26,6 +26,7 @@ When we give something a name, does it lose or make sense? _A female body_ propo
 * 20º **International Short Film Festival of Belo Horizonte** / Woman - Political Body
 * **Festival Santa Cruz de Cinema** / Official Selection
 * 62nd **BFI London Film Festival** / Love - Short Programme Lust to love and in between
+* 4º **Três Passos Film Festival**
 
 
 [Project website](http://afemalebodyproject.com/#top)
