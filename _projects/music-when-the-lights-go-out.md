@@ -40,6 +40,8 @@ _Music when the lights go out_ is a documentary floating on this thin border bet
 * **Verão in New York: A Summer of Brazilian Cinema** /  LGBTQ Brazil
 * **DokuFest - International Documentary and Short Film Festival** / Selection Between my Fingers and the World's Flesh
 * 46ª **Festival de Cinema de Gramado**
+* **Festival FILMAR en América Latina**
+* **Cine Esquema Novo** – Arte Audiovisual Brasileira 2018
 
 ## Labs, markets and events
 
