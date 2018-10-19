@@ -40,6 +40,8 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 * **Verão in New York: A Summer of Brazilian Cinema** / Seleção LGBTQ Brazil
 * **DokuFest - Festival Internacional de Documentários e Curta-metragens** / Seleção Between my Fingers and the World's Flesh
 * 46ª **Festival de Cinema de Gramado** / Mostra de Longas Gaúchos
+* **Festival FILMAR en América Latina**
+* **Cine Esquema Novo** – Arte Audiovisual Brasileira 2018
 
 
 ## Labs, mercados e eventos
