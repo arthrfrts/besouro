@@ -46,6 +46,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Outfest Los Angeles - Festival de Cinema LGBTQ**
 * **Festival de Cinema Queer de Vancouver** 
 * **Nowe Horyzonty - Festival Internacional de Cinema New Horizons**
+* 42ª **Mostra Internacional de Cinema em São Paulo** / Mostra Brasil
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
