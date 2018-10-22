@@ -7,7 +7,7 @@ tags:
 - filme
 - documentário
 position: 27
-lang: en
+lang: pt
 media:
   image: "/assets/media/Captura%20de%20tela%20inteira%2002102018%20112514.bmp"
 team:
