@@ -26,7 +26,7 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 * **Festival Santa Cruz de Cinema** / Mostra Oficial
 * 62º **BFI Festival de Cinema de Londres** / Love - Lust to love and in between
 * 4º **Festival de Cinema de Três Passos**
-*Femme Revolution Film Fest** / Mostra Competitiva Internacional de Curtas
+* **Femme Revolution Film Fest** / Mostra Competitiva Internacional de Curtas
 
 
-[Site do projeto](http://www.afemalebodyproject.com/index-port.php#top)
+* [Site do projeto](http://www.afemalebodyproject.com/index-port.php#top)
