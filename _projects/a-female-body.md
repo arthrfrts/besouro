@@ -27,7 +27,7 @@ When we give something a name, does it lose or make sense? _A female body_ propo
 * **Festival Santa Cruz de Cinema** / Official Selection
 * 62nd **BFI London Film Festival** / Love - Short Programme Lust to love and in between
 * 4º **Três Passos Film Festival**
-*Femme Revolution Film Fest* / International Shorts Competition
+* **Femme Revolution Film Fest* / International Shorts Competition
 
 
-[Project website](http://afemalebodyproject.com/#top)
+* [Project website](http://afemalebodyproject.com/#top)
