@@ -48,6 +48,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Nowe Horyzonty - New Horizons International Film Festival**
 * **São Paulo International Film Festival** / Session Mostra Brasil
 * 26th **Mix Brasil Festival of Diversity** / Official Selection
+* 54th **Chicago International Film Festival**/ Out-Look Competition / Special mention
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
