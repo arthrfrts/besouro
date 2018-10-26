@@ -24,7 +24,7 @@ Fronteira entre Brasil, Argentina e Paraguai. Por ali, todos os dias, milhares d
 ---
 
 ## Labs, mercados e eventos
-* XX **Festival Internacional de Videodanza de Buenos Aires** 2016 - Laboratório e Pitching / Vencedor do Pitching: Prêmio Legendagem em Inglês e Espanhol 
+* XX **Festival Internacional de Videodanza de Buenos Aires** 2016 - Laboratoy and Pitching /  Winning Pitching: Subtitles Award
 * **GenderLAB** - Laboratório na Mostra Internacional de Cinema com Perspectiva de Gênero
 * **Taller Andino** - Laboratório de desenvolvimento de projeto
-* **51º Festival de Brasília de Cinema Brasileiro** / 2º Ambiente de Mercado -  Pitching e rodada de negócios
+* **51º Festival de Brasília de Cinema Brasileiro** / 2º Ambiente de Mercado
