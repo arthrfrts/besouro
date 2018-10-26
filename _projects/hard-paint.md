@@ -47,6 +47,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Vancouver Queer Film Festival** 
 * **Nowe Horyzonty - New Horizons International Film Festival**
 * **São Paulo International Film Festival** / Session Mostra Brasil
+* 26th **Mix Brasil Festival of Diversity** / Official Selection
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
