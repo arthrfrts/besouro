@@ -28,6 +28,11 @@ When we give something a name, does it lose or make sense? _A female body_ propo
 * 62nd **BFI London Film Festival** / Love - Short Programme Lust to love and in between
 * 4º **Três Passos Film Festival**
 * **Femme Revolution Film Fest** / International Shorts Competition
+* VI **Tudo Sobre Mulheres**
+* 28ª **Rio de Janeiro International Short Film Festival / National Competition
+* **3 Margens: Festival Latino-Americano de Cinema** / Best Movie Popular Jury
+* **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
+* **XIV Cinefest Gato Preto 2018**
 
 
 * [Project website](http://afemalebodyproject.com/#top)
