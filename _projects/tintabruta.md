@@ -6,7 +6,7 @@ categories:
 tags:
 - Filme
 - Drama
-position: 31
+position: 32
 lang: pt
 media:
   image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"

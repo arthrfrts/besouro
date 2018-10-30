@@ -6,7 +6,7 @@ categories:
 tags:
 - Curta
 - Comédia
-position: 6
+position: 7
 lang: pt
 team:
   director: Tatiana Nequete
