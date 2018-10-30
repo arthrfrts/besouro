@@ -32,7 +32,6 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 * **3 Margens: Festival Latino-Americano de Cinema** / Melhor Filme Júri Popular
 * **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
 * **XIV Cinefest Gato Preto 2018**
-* 4º **Festival de 3 Passos**
 
 
 
