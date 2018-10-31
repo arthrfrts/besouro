@@ -19,7 +19,7 @@ funds:
 layout: project
 ---
 
-Fronteira entre Brasil, Argentina e Paraguai. Por ali, todos os dias, milhares de mulheres cruzam pela ponte internacional, pelo rio Paraná e Iguassu. Encontramos Soledad, mulher paraguaia, comerciante, professora de dança e bailarina que atravessa e é atravessada pela fronteira e por suas complexidades. Com ela, cruzamos a história de outras mulheres e viajamos nos fluxos culturais e identitários do cotidiano fronteiriço. 
+The borders between Brazil, Argentina and Paraguay. There, everyday, thousands of women cross the international bridge over the Paraná and Iguassu river. We meet Soledad, Paraguayan woman, tradesman, dance teacher and ballet dancer who crosses and is crosses by the border and its complexities. With her, we cross many women stories and travel thought the cultural flow and identitary of the daily border.
 
 ---
 
