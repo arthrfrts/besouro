@@ -29,7 +29,7 @@ When we give something a name, does it lose or make sense? _A female body_ propo
 * 4º **Três Passos Film Festival**
 * **Femme Revolution Film Fest** / International Shorts Competition
 * VI **Tudo Sobre Mulheres**
-* 28ª **Rio de Janeiro International Short Film Festival / National Competition
+* 28ª **Rio de Janeiro International Short Film Festival / National Competition / Best National Film by Audience Award / Canal Brasil Short Film Award
 * **3 Margens: Festival Latino-Americano de Cinema** / Best Movie Popular Jury
 * **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
 * **XIV Cinefest Gato Preto 2018**
