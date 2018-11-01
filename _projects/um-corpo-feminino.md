@@ -28,7 +28,7 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 * 4º **Festival de Cinema de Três Passos**
 * **Femme Revolution Film Fest** / Mostra Competitiva Internacional de Curtas
 * VI **Tudo Sobre Mulheres**
-* 28ª **Festival Internacional de Curtas do Rio de Janeiro** – Curta Cinema 2018 / Competição Nacional
+* 28ª **Festival Internacional de Curtas do Rio de Janeiro** – Curta Cinema 2018 / Competição Nacional / Prêmio do Público de Melhor Filme Nacional / Prêmio Canal Brasil de Curtas
 * **3 Margens: Festival Latino-Americano de Cinema** / Melhor Filme Júri Popular
 * **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
 * **XIV Cinefest Gato Preto 2018**
