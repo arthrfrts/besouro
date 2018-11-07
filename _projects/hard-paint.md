@@ -60,6 +60,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **MIX Copenhagen**
 * **Tel Aviv International LGBT Film Festival**
 * 9º **Puerto Rico Queer Filmfest – Gay, Lesbian, Bisexual and Transgender International Film Festival** / Official Competition
+* **Rio Film Fest** / Brazil Premiere: Feature Competition
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
