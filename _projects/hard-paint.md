@@ -49,6 +49,17 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **São Paulo International Film Festival** / Session Mostra Brasil
 * 26th **Mix Brasil Festival of Diversity** / Official Selection
 * 54th **Chicago International Film Festival**/ Out-Look Competition / Special mention
+* **Queergestreift Film Festival 2018**
+* **Skopje Film Festival** / Queer Focus
+* **Cinema Museum London**
+* **Teddy Screenings**
+* 34º **Gay Film Week Freiburg**
+* 21º **Pink Apple – Lesbian and Gay Film Festival**
+* **Orlando Festival**
+* **MIX Mexico**
+* **MIX Copenhagen**
+* **Tel Aviv International LGBT Film Festival**
+* 9º **Puerto Rico Queer Filmfest – Gay, Lesbian, Bisexual and Transgender International Film Festival** / Official Competition
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
