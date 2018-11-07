@@ -30,6 +30,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 ## Festivals
 * 68ª **Berlinale - Berlin International Film Festival** / Panorama / Teddy Award for Best Feature Film / CICAE - Art Cinema Award
 * FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie 
+* **Rio Film Fest** / Brazil Premiere: Feature Competition
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Best Narrative Film
 * **OUTshine Film Festival** / Best Narrative - Runner Up
@@ -60,7 +61,6 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **MIX Copenhagen**
 * **Tel Aviv International LGBT Film Festival**
 * 9º **Puerto Rico Queer Filmfest – Gay, Lesbian, Bisexual and Transgender International Film Festival** / Official Competition
-* **Rio Film Fest** / Brazil Premiere: Feature Competition
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
