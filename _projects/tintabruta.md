@@ -30,6 +30,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 ## Festivais
 * 68ª **Berlinale - Festival Internacional de Cinema de Berlim** / Panorama / Teddy Award de Melhor Longa-metragem / Prêmio CICAE - Art Cinema Award
 * FICG33 - **Festival Internacional de Cinema de Guadalajara** / Melhor Filme Prêmio Maguey
+* **Festival do Rio** / Première Brasil: Competição longa ficção
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Prêmio de Melhor Ficção
 * **OUTshine Film Festival** / Prêmio Best Narrative - Runner Up
@@ -60,7 +61,6 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **MIX Copenhaga**
 * **Festival Internacional de Cinema LGBT de Tel Aviv**
 * 9° **Festival de Cinema Queer de Porto Rico - Festival Internacional de Cinema Gay, Lésbico, Bisexual and Transgênero** / Competição Oficial
-* **Festival do Rio** / Première Brasil: Competição longa ficção
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
