@@ -51,6 +51,20 @@ layout: default
       <p><span>Financiamento:</span> {{ page.funds | join: ', '}}</p>
       {% endif %}
     {% endif %}
+    {% if page.dist %}
+      {% if page.lang == 'en' %}
+      <p><span>Distribution:</span> {{ page.dist | join: ', '}}</p>
+      {% else %}
+      <p><span>Distribuição:</span> {{ page.dist | join: ', '}}</p>
+      {% endif %}
+    {% endif %}
+    {% if page.sales %}
+      {% if page.lang == 'en' %}
+      <p><span>Sales & Festivals:</span> {{ page.sales | join: ', '}}</p>
+      {% else %}
+      <p><span>Sales e festivais:</span> {{ page.sales | join: ', '}}</p>
+      {% endif %}
+    {% endif %}
   </header>
 
   <div class="project-content">

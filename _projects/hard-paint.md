@@ -17,7 +17,7 @@ team:
   director: Filipe Matzembacher and Marcio Reolon
   writer: Filipe Matzembacher and Marcio Reolon
   copro: Avante Filmes and Besouro Filmes
-  distribution: Vitrine Filmes
+  dist: Vitrine Filmes
   sales: m-appel
 funds:
 - Hubert Bals Fund 2014 / Development
@@ -29,7 +29,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 ---
 ## Festivals
 * 68ª **Berlinale - Berlin International Film Festival** / Panorama / Teddy Award for Best Feature Film / CICAE - Art Cinema Award
-* FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie 
+* FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie
 * **Rio Film Fest** / Brazil Premiere: Feature Competition
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Best Narrative Film
@@ -45,7 +45,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Tapipei Film Festival** / Future Lights: New Voices from Latin America
 * **Bangkok LGBT+ Film Festival**
 * **Outfest Los Angeles - LGBTQ Film Festival**
-* **Vancouver Queer Film Festival** 
+* **Vancouver Queer Film Festival**
 * **Nowe Horyzonty - New Horizons International Film Festival**
 * **São Paulo International Film Festival** / Session Mostra Brasil
 * 26th **Mix Brasil Festival of Diversity** / Official Selection

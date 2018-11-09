@@ -16,8 +16,8 @@ team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon
   copro: Avante Filmes e Besouro Filmes
-  distribuição: 'Vitrine Filmes '
-  sales e festivais: m-appel
+  dist: Vitrine Filmes
+  sales: m-appel
 funds:
 - Hubert Bals Fund 2014 / Desenvolvimento
 - MinC B.O. 2015
@@ -37,7 +37,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Melhor Ficção pelo Júri Oficial / Melhor Filme pelo Júri Jovem (Prêmio Ottavio Mai)
 * **Festival de Cinema de Sydney**
 * **FRAMELINE**42
-* **Molodist - Festival Internacional de Cinema de Kiev** / Competição Sunny Bunny / Menção Especial do Júri 
+* **Molodist - Festival Internacional de Cinema de Kiev** / Competição Sunny Bunny / Menção Especial do Júri
 * **Inside Out - Festival LGBT de Cinema de Toronto**
 * **TIFF.18 - Festival Internacional de Cinema da Transilvânia**
 * 42º **SIFF - Festival Internacional de Cinema de Seattle**
@@ -45,18 +45,18 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Festival de Cinema de Taipei** / Mostra Future Lights: New Voices from America Latina
 * **Festival de Cinema LGBT+ de Bangkok**
 * **Outfest Los Angeles - Festival de Cinema LGBTQ**
-* **Festival de Cinema Queer de Vancouver** 
+* **Festival de Cinema Queer de Vancouver**
 * **Nowe Horyzonty - Festival Internacional de Cinema New Horizons**
 * 42ª **Mostra Internacional de Cinema em São Paulo** / Mostra Brasil
 * 26° **Festival Mix Brasil de Cultura da Diversidade** / Competição Oficial
 * 54º **SIFF - Festival Internacional de Cinema de Chicago** / Competição ƒOut-Look / Menção Especial
-* **Festival de Cinema Queergestreift** 
+* **Festival de Cinema Queergestreift**
 * **Festival de Cinema Skopje** / Mostra Foco Queer
 * **Cinema Musem London**
 * **Exibições TEDDY**
 * 34° **Semana de Cinema Gay de Freiburg**
 * 21° **Pink Apple – Festival de Cinema Lésbico e Gay**
-* **Festival de Orlando** 
+* **Festival de Orlando**
 * **MIX México**
 * **MIX Copenhaga**
 * **Festival Internacional de Cinema LGBT de Tel Aviv**
@@ -75,7 +75,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Festival de Cinema Queer Twist Seattle**
 * 11 **Festival de Cinema Queer Slovak Bratislava**
 * LesGaiCineMad 2018 – **Festival Internacional de Cinema LGBTI de Madri** / Seleção Oficial
-* **Festival Internacional de Cinema QCinema** / Competição RainbowQC 
+* **Festival Internacional de Cinema QCinema** / Competição RainbowQC
 * **Festival de Cinema Gay e Lésbico de Vinokino**
 * **Festival de Cinema de Adelaide**
 * **Festival de Cinema de Luststreifen**
