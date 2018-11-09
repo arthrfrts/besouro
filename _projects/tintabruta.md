@@ -65,30 +65,30 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Festival de Cinema LGBT de Ljubljana**
 * Chéries-Chéris – 2018 **Festival de Cinema Gay e Lésbico de Paris** / Mostra Competitiva
 * **Festival de Cinema Queer de Mezipatra** / Competição Internacional de Longa-metragens
-* 28th **Filmes do Sul** / Mostra Horisonter
-* 17th **Festival de Cinema Queer de Bruxelas - Festival de Cinema Pink Screen**
+* 28° **Filmes do Sul** / Mostra Horisonter
+* 17° **Festival de Cinema Queer de Bruxelas - Festival de Cinema Pink Screen**
 * 2018 **Festival Internacional de Cinema de Stockholm** / Mostra Competitiva
 * **FanCineGay – Festival Internacional de Cinema LGBT de Extremadura**
 * **Festival de Cinema Queer de Pequim**
 * **Festival de Cinema Latin Beat**
 * **Festival de Cinema Pornô de Berlim**
 * **Festival de Cinema Queer Twist Seattle**
-* 11 **Slovak Queer Film Festival Bratislava**
-* LesGaiCineMad 2018 – **Madrid International LGBTI Film Festival** / Official Selection
-* **QCinema International Film Festival** / RainbowQC Competition
-* **Vinokino Lesbian & Gay Film Festival**
-* **Adelaide Film Festival**
-* **Luststreifen Film Festival**
-* **Bari International Gender Film Festival**
-* **Shanghai Queer Film Festival** / Opening Film
-* 24th **Athens International Film Festival** / International Competition
-* **Hong Kong Lesbian & Gay Film Festival** / Panorama Section
+* 11 **Festival de Cinema Queer Slovak Bratislava**
+* LesGaiCineMad 2018 – **Festival Internacional de Cinema LGBTI de Madri** / Seleção Oficial
+* **Festival Internacional de Cinema QCinema** / Competição RainbowQC 
+* **Festival de Cinema Gay e Lésbico de Vinokino**
+* **Festival de Cinema de Adelaide**
+* **Festival de Cinema de Luststreifen**
+* **Festival Internacional de Gênero de Bari**
+* **Festival de Cinema Queer de Shanghai** / Filme de abertura
+* 24th **Festival Internacional de Atenas** / Competição Internacional
+* **Festival de Cinema Lésbico e Gay de Hong Kong** / Sessão Panorama
 * **Reel Affirmations Monthly LGBTQ Film Series** 2018
-* **Vancouver Queer Film Festival**
-* MIFF 2018 - **Melbourne International Film Festival** / International Films
+* **Festival de Cinema Quer de Vancouver**
+* MIFF 2018 - **Festival Internacional de Cinema de Melbourne** / Filmes Internacionais
 * **Filmrauschpalast Berlin** 2018
-* **Queer Film Festival – Cinecitta**
-* **International Queer Showcase Nuevo León** 2018
+* **Festival de Cinema Queer – Cinecitta**
+* **International Showcase Nuevo León** 2018
 * **Gay Filmdays Bielefeld** 2018
 
 ## Labs, mercados e eventos
