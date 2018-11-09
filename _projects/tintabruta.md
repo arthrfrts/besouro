@@ -16,7 +16,7 @@ team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon
   copro: Avante Filmes e Besouro Filmes
-  distribuição: 'Vitrine Filmes '
+  distri: 'Vitrine Filmes '
   sales e festivais: m-appel
 funds:
 - Hubert Bals Fund 2014 / Desenvolvimento
