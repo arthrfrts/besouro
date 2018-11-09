@@ -84,7 +84,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * 24th **Festival Internacional de Atenas** / Competição Internacional
 * **Festival de Cinema Lésbico e Gay de Hong Kong** / Sessão Panorama
 * **Reel Affirmations Monthly LGBTQ Film Series** 2018
-* **Festival de Cinema Quer de Vancouver**
+* **Festival de Cinema Queer de Vancouver**
 * MIFF 2018 - **Festival Internacional de Cinema de Melbourne** / Filmes Internacionais
 * **Filmrauschpalast Berlin** 2018
 * **Festival de Cinema Queer – Cinecitta**
