@@ -61,18 +61,18 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **MIX Copenhaga**
 * **Festival Internacional de Cinema LGBT de Tel Aviv**
 * 9° **Festival de Cinema Queer de Porto Rico - Festival Internacional de Cinema Gay, Lésbico, Bisexual and Transgênero** / Competição Oficial
-* **Santo Domingo Outfest 2018 – International LGBT Film Festival**
-* **Ljubljana LGBT Film Festival**
-* Chéries-Chéris – 2018 **Paris Gay and Lesbian Film Festival** / Competitive Section
-* **Mezipatra Queer Film Festival** / International Feature Film Competition
-* 28th **Films from the South** / Horisonter Section
-* 17th **Brussels Queer Film Festival - Pink Screens Film Festival**
-* 2018 **Stockholm International Film Festival** / Competitive Section
-* **FanCineGay – International LGBT Film Festival of Extremadura**
-* **Beijing Queer Film Festival**
-* **Latin Beat Film Festival**
-* **Porn Film Festival Berlin**
-* **Twist Seattle Queer Film Festival**
+* **Santo Domingo Outfest 2018 – Festival Internacional de Cinema LGBT**
+* **Festival de Cinema LGBT de Ljubljana**
+* Chéries-Chéris – 2018 **Festival de Cinema Gay e Lésbico de Paris** / Mostra Competitiva
+* **Festival de Cinema Queer de Mezipatra** / Competição Internacional de Longa-metragens
+* 28th **Filmes do Sul** / Mostra Horisonter
+* 17th **Festival de Cinema Queer de Bruxelas - Festival de Cinema Pink Screen**
+* 2018 **Festival Internacional de Cinema de Stockholm** / Mostra Competitiva
+* **FanCineGay – Festival Internacional de Cinema LGBT de Extremadura**
+* **Festival de Cinema Queer de Pequim**
+* **Festival de Cinema Latin Beat**
+* **Festival de Cinema Pornô de Berlim**
+* **Festival de Cinema Queer Twist Seattle**
 * 11 **Slovak Queer Film Festival Bratislava**
 * LesGaiCineMad 2018 – **Madrid International LGBTI Film Festival** / Official Selection
 * **QCinema International Film Festival** / RainbowQC Competition
