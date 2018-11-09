@@ -11,7 +11,7 @@ lang: pt
 media:
   image: "/assets/media/6-Shico%20Menegat%20as%20Pedro%20(HARD%20PAINT).jpg"
   video: https://media.giphy.com/media/1xOyKpKW4hCQXgLpvC/source.mp4
-  trailer: https://www.youtube.com/watch?v=CCr9vHOu19I
+  trailer: https://www.youtube.com/watch?v=zM9Q36ZKJqY
 team:
   director: Filipe Matzembacher e Marcio Reolon
   writer: Filipe Matzembacher e Marcio Reolon
@@ -61,6 +61,35 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **MIX Copenhaga**
 * **Festival Internacional de Cinema LGBT de Tel Aviv**
 * 9° **Festival de Cinema Queer de Porto Rico - Festival Internacional de Cinema Gay, Lésbico, Bisexual and Transgênero** / Competição Oficial
+* **Santo Domingo Outfest 2018 – International LGBT Film Festival**
+* **Ljubljana LGBT Film Festival**
+* Chéries-Chéris – 2018 **Paris Gay and Lesbian Film Festival** / Competitive Section
+* **Mezipatra Queer Film Festival** / International Feature Film Competition
+* 28th **Films from the South** / Horisonter Section
+* 17th **Brussels Queer Film Festival - Pink Screens Film Festival**
+* 2018 **Stockholm International Film Festival** / Competitive Section
+* **FanCineGay – International LGBT Film Festival of Extremadura**
+* **Beijing Queer Film Festival**
+* **Latin Beat Film Festival**
+* **Porn Film Festival Berlin**
+* **Twist Seattle Queer Film Festival**
+* 11 **Slovak Queer Film Festival Bratislava**
+* LesGaiCineMad 2018 – **Madrid International LGBTI Film Festival** / Official Selection
+* **QCinema International Film Festival** / RainbowQC Competition
+* **Vinokino Lesbian & Gay Film Festival**
+* **Adelaide Film Festival**
+* **Luststreifen Film Festival**
+* **Bari International Gender Film Festival**
+* **Shanghai Queer Film Festival** / Opening Film
+* 24th **Athens International Film Festival** / International Competition
+* **Hong Kong Lesbian & Gay Film Festival** / Panorama Section
+* **Reel Affirmations Monthly LGBTQ Film Series** 2018
+* **Vancouver Queer Film Festival**
+* MIFF 2018 - **Melbourne International Film Festival** / International Films
+* **Filmrauschpalast Berlin** 2018
+* **Queer Film Festival – Cinecitta**
+* **International Queer Showcase Nuevo León** 2018
+* **Gay Filmdays Bielefeld** 2018
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
