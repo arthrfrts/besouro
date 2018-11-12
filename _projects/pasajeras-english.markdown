@@ -21,7 +21,6 @@ The borders between Brazil, Argentina and Paraguay. There, everyday, thousands o
 ---
 
 ## Labs, markets and events
-* XX **Festival Internacional de Videodanza de Buenos Aires** 2016 - Laboratório e Pitching / Vencedor do Pitching: Prêmio Legendagem em Inglês e Espanhol
-* **GenderLAB** - Laboratório na Mostra Internacional de Cinema com Perspectiva de Gênero
-* **Taller Andino** - Laboratório de desenvolvimento de projeto
-* **51º Brasília Film Festival** / 2º Ambiente de Mercado -  Pitching e rodada de negócios
+* XX **VideoDanzaBA International Festival** 2016 - Laboratory and Pitching  / Pitching Winner: English and Spanish Subtitle Award
+* **GenderLAB** - Laboratory inside the Gender Perspective International Film Festival - Project Development Laboratory
+* **51º Brasília Film Festival** / 2º Ambiente de Mercado -  Pitching and Meetings
