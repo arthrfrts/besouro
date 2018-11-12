@@ -31,25 +31,25 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * 68ª **Berlinale - Festival Internacional de Cinema de Berlim** / Panorama / Teddy Award de Melhor Longa-metragem / Prêmio CICAE - Art Cinema Award
 * FICG33 - **Festival Internacional de Cinema de Guadalajara** / Melhor Filme Prêmio Maguey
 * **Festival do Rio** / Première Brasil: Competição longa ficção
+* **FRAMELINE**42
+* 42º **SIFF - Festival Internacional de Cinema de Seattle**
+* 42ª **Mostra Internacional de Cinema em São Paulo** / Mostra Brasil
+* 26° **Festival Mix Brasil de Cultura da Diversidade** / Competição Oficial
+* 54º **SIFF - Festival Internacional de Cinema de Chicago** / Competição ƒOut-Look / Menção Especial
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Prêmio de Melhor Ficção
 * **OUTshine Film Festival** / Prêmio Best Narrative - Runner Up
 * 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Melhor Ficção pelo Júri Oficial / Melhor Filme pelo Júri Jovem (Prêmio Ottavio Mai)
 * **Festival de Cinema de Sydney**
-* **FRAMELINE**42
 * **Molodist - Festival Internacional de Cinema de Kiev** / Competição Sunny Bunny / Menção Especial do Júri
 * **Inside Out - Festival LGBT de Cinema de Toronto**
 * **TIFF.18 - Festival Internacional de Cinema da Transilvânia**
-* 42º **SIFF - Festival Internacional de Cinema de Seattle**
 * **Festival de Cinema Ciclo Rosa** / Mostra Queer da Berlinale 2018
 * **Festival de Cinema de Taipei** / Mostra Future Lights: New Voices from America Latina
 * **Festival de Cinema LGBT+ de Bangkok**
 * **Outfest Los Angeles - Festival de Cinema LGBTQ**
 * **Festival de Cinema Queer de Vancouver**
-* **Nowe Horyzonty - Festival Internacional de Cinema New Horizons**
-* 42ª **Mostra Internacional de Cinema em São Paulo** / Mostra Brasil
-* 26° **Festival Mix Brasil de Cultura da Diversidade** / Competição Oficial
-* 54º **SIFF - Festival Internacional de Cinema de Chicago** / Competição ƒOut-Look / Menção Especial
+* **Nowe Horyzonty - Festival Internacional de Cinema New Horizons*
 * **Festival de Cinema Queergestreift**
 * **Festival de Cinema Skopje** / Mostra Foco Queer
 * **Cinema Musem London**
