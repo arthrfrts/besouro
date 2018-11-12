@@ -31,25 +31,25 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * 68ª **Berlinale - Berlin International Film Festival** / Panorama / Teddy Award for Best Feature Film / CICAE - Art Cinema Award
 * FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie
 * **Rio Film Fest** / Brazil Premiere: Feature Competition
+* **FRAMELINE**42
+* 42º **SIFF - Seattle International Film Festival**
+* **São Paulo International Film Festival** / Session Mostra Brasil
+* 26th **Mix Brasil Festival of Diversity** / Official Selection
+* 54th **Chicago International Film Festival**/ Out-Look Competition / Special mention
 * **BFI Flare**
 * **Wicked Queer: The Boston LGBT Film Festival** / Best Narrative Film
 * **OUTshine Film Festival** / Best Narrative - Runner Up
 * 33° **Lovers Film Festival** - Torino Lgbtqi Visions / Best Feature Film by the Official Jury / Best Film by the Young Jury (Ottavio Mai Award)
 * **Sydney Film Festival**
-* **FRAMELINE**42
 * **Molodist - Kyiv International Film Festival** / Sunny Bunny Competition / Special Mention
 * **Inside Out - Toronto LGBT Film Festival**
 * **TIFF.18 - Transilvania International Film Festival**
-* 42º **SIFF - Seattle International Film Festival**
 * **Ciclo Rosa Film Festival** / Queer Selection from Berlinale 2018
 * **Tapipei Film Festival** / Future Lights: New Voices from Latin America
 * **Bangkok LGBT+ Film Festival**
 * **Outfest Los Angeles - LGBTQ Film Festival**
 * **Vancouver Queer Film Festival**
 * **Nowe Horyzonty - New Horizons International Film Festival**
-* **São Paulo International Film Festival** / Session Mostra Brasil
-* 26th **Mix Brasil Festival of Diversity** / Official Selection
-* 54th **Chicago International Film Festival**/ Out-Look Competition / Special mention
 * **Queergestreift Film Festival 2018**
 * **Skopje Film Festival** / Queer Focus
 * **Cinema Museum London**
