@@ -9,7 +9,7 @@ position: 0
 lang: en
 o_title: Pasajeras
 Field name:
-  image: "/assets/media/Captura%20de%20tela%20inteira%2002102018%20112514.png"
+  image: "/assets/media/Captura%20de%20tela%20inteira%2002102018%20112514.jpg"
 team:
   director: Fran Rebelatto
   writer: Fran Rebelatto
