@@ -33,6 +33,8 @@ When we give something a name, does it lose or make sense? _A female body_ propo
 * 4º **Três Passos Film Festival**
 * **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
 * **XIV Cinefest Gato Preto 2018** / Best Direction / Best Movie by the Audience
+* X **Festival Internacional de Cinema da Fronteira** / International Short Film Competition
+
 
 
 * [Project website](http://afemalebodyproject.com/#top)
