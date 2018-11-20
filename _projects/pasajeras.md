@@ -9,7 +9,7 @@ tags:
 position: 28
 lang: pt
 media:
-  image: "/assets/media/Captura%20de%20tela%20inteira%2002102018%20112514.bmp"
+  image: "/assets/media/Captura%20de%20tela%20inteira%2002102018%20112514.png"
 team:
   director: Fran Rebelatto
   writer: Fran Rebelatto
