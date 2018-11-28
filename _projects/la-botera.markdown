@@ -5,7 +5,7 @@ categories:
 - development
 tags:
 - Filme
-- ficção
+- Ficção
 lang: pt
 media:
   image: "/assets/media/Imagem4.png"
