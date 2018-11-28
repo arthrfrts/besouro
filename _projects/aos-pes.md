@@ -6,7 +6,7 @@ categories:
 tags:
 - Curta
 - Drama
-position: 6
+position: 7
 lang: pt
 media:
   image: https://cldup.com/_paB3GGfpF.jpg
