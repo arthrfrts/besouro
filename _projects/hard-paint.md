@@ -63,7 +63,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * 9º **Puerto Rico Queer Filmfest – Gay, Lesbian, Bisexual and Transgender International Film Festival** / Official Competition
 * **Santo Domingo Outfest 2018 – International LGBT Film Festival**
 * **Ljubljana LGBT Film Festival**
-* Chéries-Chéris – 2018 **Paris Gay and Lesbian Film Festival** / Competitive Section
+* Chéries-Chéris – 2018 **Paris Gay and Lesbian Film Festival** / Competitive Section / Honorable Mention
 * **Mezipatra Queer Film Festival** / International Feature Film Competition
 * 28th **Films from the South** / Horisonter Section
 * 17th **Brussels Queer Film Festival - Pink Screens Film Festival**
@@ -90,6 +90,8 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Queer Film Festival – Cinecitta**
 * **International Queer Showcase Nuevo León** 2018
 * **Gay Filmdays Bielefeld** 2018
+* 12º **FOR RAINBOW — Sexual Diversity Culture and Film Festival / Brazilian feature films competition / Best Screenplay / Best Actor / Best Cinematography / Best Editing / Best Sound Design
+* *Cine Esquema Novo - Arte Audiovisual Brasileira* / Honorable Mention
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
