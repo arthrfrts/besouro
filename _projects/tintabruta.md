@@ -91,7 +91,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **International Showcase Nuevo León** 2018
 * **Gay Filmdays Bielefeld** 2018
 * 12º **FOR RAINBOW — Festival de Cinema e Cultura da Diversidade Sexual** / Mostra Competitiva Longa-metragens Nacionais / Melhor Roteiro / Melhor Ator / Melhor Fotografia / Melhor Montagem / Melhor Desenho de Som
-* **Cine Esquema Novo - Arte Audiovisual Brasileira** / Menção Honrosa
+* **Cine Esquema Novo - Arte Audiovisual Brasileira** / Menção Honrosa 
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
