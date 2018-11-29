@@ -63,7 +63,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * 9° **Festival de Cinema Queer de Porto Rico - Festival Internacional de Cinema Gay, Lésbico, Bisexual and Transgênero** / Competição Oficial
 * **Santo Domingo Outfest 2018 – Festival Internacional de Cinema LGBT**
 * **Festival de Cinema LGBT de Ljubljana**
-* Chéries-Chéris – 2018 **Festival de Cinema Gay e Lésbico de Paris** / Mostra Competitiva
+* Chéries-Chéris – 2018 **Festival de Cinema Gay e Lésbico de Paris** / Mostra Competitiva / Prêmio Especial do Juri
 * **Festival de Cinema Queer de Mezipatra** / Competição Internacional de Longa-metragens
 * 28° **Filmes do Sul** / Mostra Horisonter
 * 17° **Festival de Cinema Queer de Bruxelas - Festival de Cinema Pink Screen**
@@ -90,6 +90,8 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **Festival de Cinema Queer – Cinecitta**
 * **International Showcase Nuevo León** 2018
 * **Gay Filmdays Bielefeld** 2018
+* 12º **FOR RAINBOW — Festival de Cinema e Cultura da Diversidade Sexual** / Mostra Competitiva Longa-metragens Nacionais / Melhor Roteiro / Melhor Ator / Melhor Fotografia / Melhor Montagem / Melhor Desenho de Som
+* *Cine Esquema Novo - Arte Audiovisual Brasileira* / Menção Honrosa
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
