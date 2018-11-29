@@ -90,7 +90,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Queer Film Festival – Cinecitta**
 * **International Queer Showcase Nuevo León** 2018
 * **Gay Filmdays Bielefeld** 2018
-* 12º **FOR RAINBOW — Sexual Diversity Culture and Film Festival / Brazilian feature films competition / Best Screenplay / Best Actor / Best Cinematography / Best Editing / Best Sound Design
+* 12º **FOR RAINBOW — Sexual Diversity Culture and Film Festival** / Brazilian feature films competition / Best Screenplay / Best Actor / Best Cinematography / Best Editing / Best Sound Design
 * **Cine Esquema Novo - Arte Audiovisual Brasileira** / Honorable Mention
 
 ## Labs, markets and events
