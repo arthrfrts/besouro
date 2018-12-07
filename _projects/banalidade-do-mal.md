@@ -6,7 +6,7 @@ categories:
 tags:
 - Série
 - Drama
-position: 9
+position: 8
 lang: pt
 media:
   image: "/assets/media/image1.jpeg"

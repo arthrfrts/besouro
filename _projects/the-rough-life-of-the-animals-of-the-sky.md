@@ -7,7 +7,7 @@ categories:
 tags:
 - Feature
 - Drama
-position: 3
+position: 2
 lang: en
 o_title: A Vida Bruta dos Animais do Céu
 team:

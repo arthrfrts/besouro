@@ -6,7 +6,7 @@ categories:
 tags:
 - Feature
 - Drama
-position: 47
+position: 46
 lang: en
 o_title: Tinta Bruta
 media:
