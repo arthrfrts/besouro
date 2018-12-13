@@ -30,7 +30,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 ## Festivais
 * 68ª **Berlinale - Festival Internacional de Cinema de Berlim** / Panorama / Teddy Award de Melhor Longa-metragem / Prêmio CICAE - Art Cinema Award
 * FICG33 - **Festival Internacional de Cinema de Guadalajara** / Melhor Filme Prêmio Maguey
-* **Festival do Rio** / Première Brasil: Competição longa ficção
+* **Festival do Rio** / Première Brasil: Competição longa ficção / Melhor Filme / Melhor Roteiro / Melhor Ator / Melhor Ator Coadjuvante
 * **FRAMELINE**42
 * 42º **SIFF - Festival Internacional de Cinema de Seattle**
 * 42ª **Mostra Internacional de Cinema em São Paulo** / Mostra Brasil
