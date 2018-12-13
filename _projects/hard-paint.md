@@ -30,7 +30,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 ## Festivals
 * 68ª **Berlinale - Berlin International Film Festival** / Panorama / Teddy Award for Best Feature Film / CICAE - Art Cinema Award
 * FICG33 - **Guadalajara International Film Festival** / Maguey Award for Best Movie
-* **Rio Film Fest** / Brazil Premiere: Feature Competition
+* **Rio Film Fest** / Brazil Premiere: Feature Competition / Best Movie / Best Screenplay / Best Actor / Best Supporting Actor
 * **FRAMELINE**42
 * 42º **SIFF - Seattle International Film Festival**
 * **São Paulo International Film Festival** / Session Mostra Brasil
