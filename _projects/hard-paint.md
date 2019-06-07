@@ -111,6 +111,7 @@ This Human World
 * 40º **Moscow International Film Festival** / Missing Films Program
 * **Zinentiendo (Zaragoza)**
 * **FIRE !! International Film Festival Gay and Lesbian Film Festival**
+* **AMOR Festival Internacional de CineLGBT+ 2019**
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
