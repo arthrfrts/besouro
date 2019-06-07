@@ -92,7 +92,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Gay Filmdays Bielefeld** 2018
 * 12º **FOR RAINBOW — Sexual Diversity Culture and Film Festival** / Brazilian feature films competition / Best Screenplay / Best Actor / Best Cinematography / Best Editing / Best Sound Design
 * **Cine Esquema Novo - Arte Audiovisual Brasileira** / Honorable Mention
-* **Sardinia Queer Film Festival (USN Festival)** / Feature film section 2018
+* **Sardinia Queer FF 2018**
 * **Milan Gay Lesbian Film Festival (Mix Milano)**
 * **Taipei Film Festival**
 * **GAZE Dublin**
