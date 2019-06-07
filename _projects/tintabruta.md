@@ -100,7 +100,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * Queer Lisboa 23 - **Festival Internacional de Cinema Queer**
 * **Festival de Cinema Llamale**
 * **Gênero Bender Bologna** 16º
-* **Festival de Cinema Gay Lésbico de Seville Andalusian- ANDALESGAI 
+* **Festival de Cinema Gay Lésbico de Seville Andalusian- ANDALESGAI**
 * **Festival de Cinema Este Mundo Humano**
 * **Merlinka International Queer Film Festival** / Melhor Longa-Metragem
 * **Festival Internacional do Novo Cinema Latino-Americano (Havana IFF)**
