@@ -92,6 +92,25 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * **Gay Filmdays Bielefeld** 2018
 * 12º **FOR RAINBOW — Sexual Diversity Culture and Film Festival** / Brazilian feature films competition / Best Screenplay / Best Actor / Best Cinematography / Best Editing / Best Sound Design
 * **Cine Esquema Novo - Arte Audiovisual Brasileira** / Honorable Mention
+* **Sardinia Queer Film Festival (USN Festival)** / Feature film section 2018
+* **Milan Gay Lesbian Film Festival (Mix Milano)**
+* **Taipei Film Festival**
+* **GAZE Dublin**
+* **Human Film Festival**
+* **Queer Lisboa** 23 - International Queer Film Festival
+* **Llamale Film Festival --- Call Him Film Festival**
+* **Gender Bender Bologna** 16º
+* **Seville Andalusian Gay Lesbian Film Festival** - ANDALESGAI 
+This Human World
+* **Merlinka International Queer Film Festival** / Best Feature Film
+* **International Festival of New Latin American Cinema (Havana IFF)**
+* **Chennai International Film Festival**
+* **Niemeyer Center LGBTIQ Film Festival** / Jury Prize - Festival LGBTIQ at Centro Cultural Internacional Oscar Niemeyer 2019
+* **Cinhomo International Cinema Show LGBT**
+* **Festival of Tolerance - JFF Zagreb**
+* 40º **Moscow International Film Festival** / Missing Films Program
+* **Zinentiendo (Zaragoza)**
+* **FIRE !! International Film Festival Gay and Lesbian Film Festival**
 
 ## Labs, markets and events
 * LXVI **Berlinale** / Talent Project Market
