@@ -91,7 +91,26 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * **International Showcase Nuevo León** 2018
 * **Gay Filmdays Bielefeld** 2018
 * 12º **FOR RAINBOW — Festival de Cinema e Cultura da Diversidade Sexual** / Mostra Competitiva Longa-metragens Nacionais / Melhor Roteiro / Melhor Ator / Melhor Fotografia / Melhor Montagem / Melhor Desenho de Som
-* **Cine Esquema Novo - Arte Audiovisual Brasileira** / Menção Honrosa 
+* **Cine Esquema Novo - Arte Audiovisual Brasileira** / Menção Honrosa
+* **Festival de Cinema Queer de Sardinia** / Longa-metragem 2018
+* **Festival de Cinema Lésbico Gay de Milão (Mix Milano)**
+* **Festival de Cinema de Taipei**
+* **GAZE Dublin**
+* **Festival de Cinema Humano**
+* Queer Lisboa 23 - **Festival Internacional de Cinema Queer**
+* **Festival de Cinema Llamale**
+* **Gênero Bender Bologna** 16º
+* **Festival de Cinema Gay Lésbico de Seville Andalusian- ANDALESGAI Este mundo humano
+Merlinka International Queer Film Festival / Melhor Longa-Metragem
+Festival Internacional do Novo Cinema Latino-Americano (Havana IFF)
+Festival Internacional de Cinema de Chennai
+Festival de Cinema LGBTIQ Niemeyer Center / Prêmio do Júri - Festival LGBTIQ no Centro Cultural Internacional Oscar Niemeyer 2019
+Cinhomo- Mostra Internacional de cinema LGBT
+Festival da Tolerância - JFF Zagreb
+40º Festival Internacional de Cinema de Moscou / Sessão Missing Films
+Zinentiendo (Zaragoza)
+FIRE !! Festival Internacional de Cinema Gay and Lesbian Film Festival
+* **AMOR Festival Internacional de CineLGBT+ 2019**
 
 ## Labs, mercados e eventos
 * LXVI Festival Internacional de Cinema de Berlim / **Talent Project Market**
