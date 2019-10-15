@@ -33,6 +33,7 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 * **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
 * **XIV Cinefest Gato Preto 2018** / Prêmio de Melhor Direção / Melhor Filme de Votação Popular
 * X **Festival Internacional de Cinema da Fronteira** / Mostra Competitiva Internacional de Curtas-Metragens 
+* 9º **Sercine - Festival Sergipe de Audiovisual** / Mostra Brasis
 
 
 
